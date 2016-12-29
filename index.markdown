@@ -1,5 +1,6 @@
 ---
-title: Home
+layout: default
+title: New Year’s Eve Celebration at Grand Park, Los Angeles
 date: 2016-12-29 15:35:00 -08:00
 ---
 
@@ -264,11 +265,3 @@ All metro rail lines including Orange and Silver Lines run**24 hours**on New Ye
 See the highlights from last year’s event:
 
 <div class="video" style="padding-bottom: 56.32%; /* 352px / 625px */"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park + The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
-
-## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
-
-![Los Angeles County. Grand Park. The Music Center.](//grandparkla.org/wp-content/uploads/2013/11/3logos-optimized.png)
-
-![Los Angeles County. Grand Park. The Music Center.](//grandparkla.org/wp-content/uploads/2013/11/NYELA.Solis_.Huizar.Metro-600-x-100-optimized.png)
-
-_The information on this page subject to change. Please visit again before the event for updates._
