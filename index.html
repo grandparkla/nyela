@@ -101,7 +101,8 @@ h1 {
 .entry-content h3,
 .entry-content p,
 .entry-content ul,
-.entry-content figure {
+.entry-content figure,
+.entry-content .map {
 	max-width: 40rem;
 	margin-left: auto;
 	margin-right: auto;
@@ -145,15 +146,21 @@ h1 {
 	max-width: none !important;
 }
 @media (max-width: 40em) {
-	.entry-content > figure {
+	.entry-content > figure,
+	.entry-content .video {
 		margin-left: -1.714285714em;
 		margin-right: -1.714285714em;
 	}
 }
+.entry-content .video {
+	margin-left: -1.714285714em;
+	margin-right: -1.714285714em;
+}
 .entry-content .map,
 .entry-content .video {
 	position: relative;
-	margin: 3.428571428em -1.714285714em;
+	margin-top: 3.428571428em;
+	margin-bottom: 3.428571428em;
 }
 .entry-content .map iframe {
 	width: 100%;
