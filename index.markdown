@@ -279,7 +279,7 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 
 [LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. The valet service is **free**.
 
-## N.Y.E.L.A. 2015
+## N.Y.E.L.A. 2016
 
 See the highlights from last year’s event:
 
