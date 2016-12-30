@@ -1,5 +1,5 @@
 ---
-title: 'Grand Park and The Music Center. New Year’s Eve – Los Angeles. Countdown to
+title: 'Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdown to
   2017. #NYELA'
 date: 2016-12-29 15:35:00 -08:00
 layout: default
@@ -22,7 +22,7 @@ The event begins at 8pm on December 31, 2016 and ends at 1am on January 1, 2017.
 ### Where
 
 <p>
-Grand Park and The Music Center<br />
+Grand Park &plus; The Music Center<br />
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614">
 200 North Grand Avenue<br />
 Los Angeles, California 90012
@@ -195,9 +195,9 @@ Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
 ## Event Map
 
-The event will take place at [Grand Park and The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
+The event will take place at [Grand Park \+ The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
 
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park and The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
 <figure><a href="/images/nyela-map-1687wide.jpg" target="_blank"><img src="/images/nyela-map-640wide.jpg" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
 
@@ -269,7 +269,7 @@ Vendors cranking out nom noms:
 
 ## Transportation
 
-The event will take place at [Grand Park and The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
+The event will take place at [Grand Park \+ The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
 
 ### Street Closure Info and Parking Details
 
@@ -299,7 +299,7 @@ See the highlights from last year’s event:
 
 <figure>
 <a href="https://vimeo.com/165034815" target="_blank" class="play">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park and The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park &plus; The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
