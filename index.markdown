@@ -275,8 +275,8 @@ See the highlights from last year’s event:
 
 ## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
 
-![Los Angeles County. Grand Park. The Music Center.](/images/logos.png)
+![Los Angeles County. Grand Park. The Music Center.](/images/logos.png){: .footer-image }
 
-![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](/images/logos-council.png)
+![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](/images/logos-council.png){: .footer-image }
 
 *The information on this page is subject to change. Please visit again for updates.*
