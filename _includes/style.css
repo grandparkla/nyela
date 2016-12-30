@@ -134,9 +134,13 @@
     font-size: 1.375em;
     line-height: 1.5818181818;
     padding-top: 1.35rem;
+    color: rgb(235, 12, 128); /* @pink */
     /*
     border-top: 0.1rem solid rgba(0, 0, 0, 0.15);
     */
+  }
+  footer h2 {
+    color: inherit;
   }
   h3 {
     /*
