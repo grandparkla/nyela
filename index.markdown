@@ -45,7 +45,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
 
-* Bicycles (may be parked outside of event at 2nd Street and Hill Street)
+* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at 2nd Street and Hill Street)
 
 * Chairs
 
@@ -119,7 +119,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 * Vaping
 
-* Bicycles (may be parked outside of event at 2nd Street and Hill Street).
+* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at 2nd Street and Hill Street)
 
 ### Items You Can Bring
 
