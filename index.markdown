@@ -34,7 +34,7 @@ This is a **free** event. There’s no cost to attend.
 
 *Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
 
-### Getting through bag check
+### Getting through Bag Check
 
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
@@ -66,11 +66,11 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Unleashed Animals
 * Weapons
 
-### A note for beautiful Los Angeles
+### A Note for Beautiful Los Angeles
 
 This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, say something.**
 
-### The following is also prohibited at this event
+### The Following is Also Prohibited at This Event
 
 * Amplified Noise
 * Outside Solicitation
@@ -83,7 +83,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Vaping
 * Bicycles (may be parked outside of event at Hill + 2nd St).
 
-### Items you can bring
+### Items You Can Bring
 
 * Snacks
 * Food
