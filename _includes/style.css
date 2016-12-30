@@ -165,7 +165,7 @@
   ----------------------------------------------- */
   h1 {
     font-size: inherit;
-    background: rgb(89, 4, 59);
+    background: rgb(89, 4, 59) !important;
     color: white;
     position: relative;
     margin: 0 -1.45em;
