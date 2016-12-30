@@ -100,6 +100,9 @@
   h2 {
     margin-top: 5.8rem;
   }
+  h2 a {
+    display: inline-block; /* Avoid wrapping the links in headlines */
+  }
   h3 {
     font-size: 1.375em;
   }
