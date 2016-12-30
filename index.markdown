@@ -37,15 +37,15 @@ This is a **free** event. There’s no cost to attend.
 
 *Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
 
-# **Weather**
+### **Weather**
 
 Showers are forecast for Saturday afternoon. Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
 
 Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The Music Center's N.Y.E.L.A. will continue rain or shine.
 
-### \*\*\*\* Please note that umbrellas will not be allowed in the event. \*\*\*\*
+**Please note that umbrellas will not be allowed in the event.**
 
-Ponchos, rain boots, and waterproof outerwear ARE allowed.
+Ponchos, rain boots, and waterproof outerwear *are* allowed.
 
 ### Getting Through Bag Check
 
@@ -103,7 +103,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 * Unleashed Animals
 
-* Umbrellas
+* **Umbrellas**
 
 * Weapons
 
