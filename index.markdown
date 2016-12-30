@@ -36,57 +36,31 @@ This is a **free** event. There’s no cost to attend.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
-
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
-
 * Bicycles (may be parked outside of event at 2nd St \+ Hill St)
-
 * Chairs
-
 * Coolers
-
 * Confetti Cannons
-
 * Drones (including Drone Operation)
-
 * Explosives
-
 * Firearms
-
 * Firecrackers
-
 * Flag Poles
-
 * Generators
-
 * Glass
-
 * Identity-Covering
-
 * Costumes
-
 * Narcotics
-
 * Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
-
 * Projection Devices
-
 * Printed Signage Measuring Larger Than 8.5 in. x 11 in.
-
 * Props
-
 * Selfie Sticks
-
 * Smartboards
-
 * Sparklers
-
 * Sticks
-
 * Tents
-
 * Unleashed Animals
-
 * Weapons
 
 ### A note for beautiful Los Angeles
