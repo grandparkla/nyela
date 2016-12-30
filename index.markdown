@@ -45,7 +45,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
 
-* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at 2nd Street and Hill Street)
+* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
 
 * Chairs
 
@@ -119,7 +119,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 * Vaping
 
-* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at 2nd Street and Hill Street)
+* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
 
 ### Items You Can Bring
 
@@ -273,7 +273,7 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 
 ### Bicycle Parking
 
-[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. The valet service is **free**.
+[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047). The valet service is **free**.
 
 ## N.Y.E.L.A. 2016
 
@@ -295,5 +295,5 @@ See the highlights from last year’s event:
 
 <p><img src="/images/logos.png" alt="Los Angeles County. Grand Park. The Music Center." class="footer-image" /> <img src="/images/logos-council.png" alt="Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro." class="footer-image" /></p>
 
-<p><em>The information on this page is subject to change. Please visit this page again for updates.</em></p>
+<p><em>The information on this page is subject to change. Please visit again for updates.</em></p>
 </footer>
