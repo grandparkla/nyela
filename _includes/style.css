@@ -21,7 +21,7 @@
   /* =Colors
   ----------------------------------------------- */
   body {
-    background: rgb(248, 248, 248);
+    background: rgb(248, 252, 248);
 
     color: rgb(252, 239, 71); /* @yellow */
     color: rgb(235, 12, 128); /* @pink */
@@ -35,16 +35,22 @@
   h3,
   h4 {
     color: rgb(90, 150, 55); /* @mediumgreen */
+    color: rgb(235, 12, 128); /* @pink */
   }
 
   a {
     color: inherit;
+    color: rgb(90, 150, 55); /* @mediumgreen */
     transition: color 0.2s;
   }
   a[href]:hover,
   a[href]:active,
   a[href]:focus {
     color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+  }
+  h2 a {
+    color: inherit;
   }
 
 
@@ -183,8 +189,13 @@
   .map,
   .video {
     position: relative;
-    margin-top: 2.9em;
-    margin-bottom: 2.9em;
+  }
+  @media (min-width: 45em) {
+    .map,
+    figure,
+    .video {
+      margin-top: 2.9em;
+    }
   }
 
   img {
@@ -212,7 +223,7 @@
   /* =Video
   ----------------------------------------------- */
   .video {
-    margin-top: 5.8em;
+    margin-top: 1.45em;
     margin-left: -1.45em;
     margin-right: -1.45em;
   }
@@ -236,8 +247,10 @@
   }
   ul:first-of-type {
     margin-left: auto;
-      margin-top: 2.175em;
-      margin-bottom: 0em;
+    margin-top: 2.175em;
+    margin-bottom: 0em;
+    display: flex;
+    flex-wrap: wrap;
   }
   @media (min-width: 50em) {
     ul:first-of-type {
@@ -248,21 +261,27 @@
   ul:first-of-type li {
     display: inline-block;
     margin-right: 0.25em;
-    margin-bottom: 0.725em;
+    margin-bottom: 0.25em;
+    flex-grow: 1;
   }
   ul:first-of-type a {
-    display: inline-block;
+    display: block;
+    text-align: center;
     padding: 0.725em 1.45em;
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white;
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
     text-decoration: none;
     border-radius: 0.25em;
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, color 0.2s;
+    font-weight: bold;
   }
   ul:first-of-type a[href]:hover,
   ul:first-of-type a[href]:active,
   ul:first-of-type a[href]:focus {
     background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white;
   }
 

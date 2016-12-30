@@ -141,7 +141,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 Event begins at 8pm on December 31. Projections and music run all night. Food service will run until 1am. The event ends at 1am on January 1.
 
-<figure><a href="images/nyela-schedule-1687wide.jpg" target="_blank"><img src="images/nyela-schedule-640wide.jpg" srcset="images/nyela-schedule-640wide.jpg 640w, images/nyela-schedule-1024wide.jpg 1024w, images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule"></a></figure>
+<figure><a href="/images/nyela-schedule-1687wide.jpg" target="_blank"><img src="/images/nyela-schedule-640wide.jpg" srcset="/images/nyela-schedule-640wide.jpg 640w, /images/nyela-schedule-1024wide.jpg 1024w, /images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule"></a></figure>
 
 ### 3 Music Stages
 
@@ -179,7 +179,7 @@ Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
-<figure><a href="images/nyela-map-1687wide.jpg" target="_blank"><img src="images/nyela-map-640wide.jpg" srcset="images/nyela-map-640wide.jpg 640w, images/nyela-map-1024wide.jpg 1024w, images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
+<figure><a href="/images/nyela-map-1687wide.jpg" target="_blank"><img src="/images/nyela-map-640wide.jpg" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
 
 ### Projections
 
@@ -261,11 +261,11 @@ Use the drop off/pick up zone near the 1st\+Main event entrance/exit.  Drop th
 
 ### Go Metro
 
-All metro rail lines including Orange and Silver Lines run**24 hours**on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
+All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Bicycle Parking
 
-[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. **FREE.**
+[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. **Free.**
 
 ## N.Y.E.L.A. 2015
 
