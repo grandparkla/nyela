@@ -17,7 +17,7 @@ What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly 
 
 ### When
 
-Event begins at 8pm on December 31, 2016. Event ends at 1am on January 1, 2017.
+The event begins at 8pm on December 31, 2016 and ends at 1am on January 1, 2017.
 
 ### Where
 
