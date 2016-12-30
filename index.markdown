@@ -6,23 +6,11 @@ layout: default
 
 What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
-<ul class="action">
-<li>
-<a href="#safety">Safety</a>
-</li>
-<li>
-<a href="#event-schedule">Schedule</a>
-</li>
-<li>
-<a href="#event-map">Map</a>
-</li>
-<li>
-<a href="#go-metro">Go Metro</a>
-</li>
-<li>
-<a href="#bicycle-parking">Bicycle parking</a>
-</li>
-</ul>
+*   [Safety](#safety)
+*   [Schedule](#event-schedule)
+*   [Map](#event-map)
+*   [Go Metro](#go-metro)
+*   [Bicycle parking](#bicycle-parking)
 
 Event begins at 8pm on December 31, 2016. Event ends at 1am on January 1, 2017.
 
