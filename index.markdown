@@ -1,16 +1,16 @@
 ---
-title: New Year’s Eve Celebration at Grand Park, Los Angeles
+title: "Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdown to 2017. #NYELA"
 date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
-
-What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 *   [Safety](#safety)
 *   [Schedule](#event-schedule)
 *   [Map](#event-map)
 *   [Go Metro](#go-metro)
 *   [Bicycle parking](#bicycle-parking)
+
+What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 ### When
 

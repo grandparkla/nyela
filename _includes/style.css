@@ -147,7 +147,7 @@
     max-height: 100vh;
   }
   h1 {
-    background: black url(images/nyela-background-2048wide.jpg) no-repeat;
+    background: rgb(89, 4, 59) url(images/nyela-background-2048wide.jpg) no-repeat;
     background-size: cover;
     background-position: top;
     color: white;
@@ -157,7 +157,8 @@
     padding-left: 1.45em;
     padding-right: 1.45em;
     padding-top: 1.45em;
-    padding-bottom: 0;
+    padding-bottom: 1.45em;
+    text-align: center;
   }
   /*
   @media (min-width: 40em) {
@@ -169,19 +170,12 @@
     }
   }
   */
-  h1 > span > span {
-    display: block;
-    position: relative;
-  }
   h1 svg {
-    position: absolute;
-    top: 0;
-    left: 0;
+    display: block;
     width: 100%;
-    height: 100%;
-  }
-  h1 > span > span {
-    padding-bottom: 70vh;
+    height: 500px;
+    height: 70vh;
+    margin-bottom: -1.45em;
   }
 
   ul:first-of-type,
