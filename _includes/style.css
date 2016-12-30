@@ -165,9 +165,7 @@
   ----------------------------------------------- */
   h1 {
     font-size: inherit;
-    background: rgb(89, 4, 59) url(images/nyela-background-2048wide.jpg) no-repeat;
-    background-size: cover;
-    background-position: top;
+    background: rgb(89, 4, 59);
     color: white;
     position: relative;
     margin: 0 -1.45em;
@@ -176,9 +174,22 @@
     padding-top: 1.45em;
     padding-bottom: 1.45em;
     text-align: center;
+    position: relative;
+  }
+  h1 img {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+    object-position: top;
   }
   h1 svg {
     display: block;
+    position: relative;
+    z-index: 1;
     width: 100%;
     height: 500px;
     height: 70vh;
