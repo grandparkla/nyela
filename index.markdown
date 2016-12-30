@@ -5,6 +5,8 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
+* [Weather](#weather)
+
 * [Safety](#safety)
 
 * [Schedule](#event-schedule)
@@ -22,7 +24,7 @@ The event begins at 8pm on December 31, 2016 and ends at 1am on January 1, 2017.
 ### Where
 
 <p>
-Grand Park &plus; The Music Center<br />
+Grand Park \+ The Music Center<br />
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614">
 200 North Grand Avenue<br />
 Los Angeles, California 90012
@@ -33,11 +35,7 @@ Los Angeles, California 90012
 
 This is a **free** event. There’s no cost to attend.
 
-## Safety
-
-*Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
-
-### **Weather**
+## Weather
 
 Showers are forecast for Saturday afternoon. Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
 
@@ -46,6 +44,10 @@ Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The
 **Please note that umbrellas will not be allowed in the event.**
 
 Ponchos, rain boots, and waterproof outerwear *are* allowed.
+
+## Safety
+
+*Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
 
 ### Getting Through Bag Check
 
@@ -299,7 +301,7 @@ See the highlights from last year’s event:
 
 <figure>
 <a href="https://vimeo.com/165034815" target="_blank" class="play">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park &plus; The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park \+ The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
