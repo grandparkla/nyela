@@ -1,10 +1,59 @@
 
+  @charset "utf-8";
+
+  /*
+  Grand Park LA Style Sheet
+
+  Sections are grouped under headings with a “=” symbol,
+  to make searching easier.
+
+  When a style is used more than once, it sometimes has a “@keyword”
+  in a comment next to it (to help with search and replace).
+
+  For example…
+
+  16px  @font-size
+  24px  @line-height
+  32em  @page-max-width
+  */
+
+
+  /* =Colors
+  ----------------------------------------------- */
+  body {
+    background: rgb(248, 248, 248);
+
+    color: rgb(252, 239, 71); /* @yellow */
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    color: rgb(140, 197, 65); /* @green */
+    color: rgb(90, 150, 55); /* @mediumgreen */
+
+    color: rgb(76, 76, 76);
+  }
+  h2,
+  h3,
+  h4 {
+    color: rgb(90, 150, 55); /* @mediumgreen */
+  }
+
+  a {
+    color: inherit;
+    transition: color 0.2s;
+  }
+  a[href]:hover,
+  a[href]:active,
+  a[href]:focus {
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+
+  /* =Type
+  ----------------------------------------------- */
   body {
     font: 100%/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0 0 2.9em;
     padding: 0 1.45em 2.93em;
-    background: rgb(248, 248, 248);
-    color: rgb(76, 76, 76);
   }
 
   /* OPTIONAL: Increase the font size on big screens. */
@@ -29,123 +78,70 @@
     }
   }
 
-  a {
-    color: rgb(252, 239, 71); /* @yellow */
-    color: rgb(235, 12, 128); /* @pink */
-    color: rgb(41, 96, 46); /* @darkgreen */
-    color: rgb(140, 197, 65); /* @green */
-    color: rgb(90, 150, 55); /* @mediumgreen */
-    color: inherit;
-  }
-
-  a.location {
-    display: inline-block; /* @avoid-break */
-  }
-
-  ul.list,
-  .list li {
-    list-style: none;
-    margin-left: 0;
-    padding-left: 0;
-  }
-  .list li + li {
-    margin-top: 0.725em;
-  }
-
+  /* SHIM: Siteleaf insists on adding paragraphs inside lists. */
   li p {
     margin: 0;
   }
 
-  img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
-  a img {
-    border-width: 0;
-  }
-
-  h1 img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  h2,
-  h3,
-  h4,
-  p,
-  ul,
-  .map {
+  /* Limit line lengths, for readability. */
+  h2, h3, h4, p, ul, .map, figure {
     max-width: 40rem;
     margin-left: auto;
     margin-right: auto;
   }
-  h1 {
-    font-size: inherit;
-    margin: 0 -1.45em 2.9em;
+
+
+  /* =Links
+  ----------------------------------------------- */
+  a img {
+    border-width: 0; /* For Explorer */
   }
+  h2:last-of-type a {
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  a.location {
+    display: inline-block; /* @avoid-break */
+  }
+
+
+  /* =Headlines
+  ----------------------------------------------- */
   h2,
   h3,
   h4 {
-    margin-top: 2.9rem;
+    font-weight: normal;
+    margin-top: 1.45rem;
     margin-bottom: 0.725rem;
-    font-weight: normal;
-    font-size: 1.75em;
-    line-height: 1.25;
-    clear: none;
-    font-weight: normal;
-    color: rgb(41, 96, 46); /* @darkgreen */
-    color: rgb(235, 12, 128); /* @pink */
-    color: rgb(140, 197, 65); /* @green */
-    color: rgb(90, 150, 55); /* @mediumgreen */
   }
   h2 {
-    margin-top: 5.8rem;
-  }
-  h2 a {
-    display: inline-block; /* Avoid wrapping the links in headlines */
+    font-size: 1.75em;
+    line-height: 1.2428571429;
+    padding-top: 1.35rem;
+    border-top: 0.1rem solid rgba(0, 0, 0, 0.15);
   }
   h3 {
     font-size: 1.375em;
+    line-height: 1.5818181818;
   }
   h4 {
     font-size: inherit;
     font-style: italic;
   }
-  @media (max-width: 40em) {
-    img,
-    .map {
-      margin-left: -1.45em;
-      margin-right: -1.45em;
+  @media (min-width: 40em) {
+    h2 {
+      margin-top: 2.9rem;
+      padding-top: 2.8rem;
+    }
+    h3 {
+      margin-top: 2.9rem;
     }
   }
-  img,
-  .map,
-  .video {
-    position: relative;
-    margin-top: 2.9em;
-    margin-bottom: 2.9em;
-  }
-  .video {
-    margin-top: 5.8em;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
-  }
-  .map iframe {
-    width: 100%;
-    height: 500px;
-    max-height: 50vh;
-  }
-  .video iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    max-height: 100vh;
-  }
+
+
+  /* =Header
+  ----------------------------------------------- */
   h1 {
+    font-size: inherit;
     background: rgb(89, 4, 59) url(images/nyela-background-2048wide.jpg) no-repeat;
     background-size: cover;
     background-position: top;
@@ -159,6 +155,13 @@
     padding-bottom: 1.45em;
     text-align: center;
   }
+  h1 svg {
+    display: block;
+    width: 100%;
+    height: 500px;
+    height: 70vh;
+    margin-bottom: -1.45em;
+  }
   /*
   @media (min-width: 40em) {
     h1 > span {
@@ -169,14 +172,66 @@
     }
   }
   */
-  h1 svg {
-    display: block;
-    width: 100%;
-    height: 500px;
-    height: 70vh;
-    margin-bottom: -1.45em;
+
+
+  /* =Images
+  ----------------------------------------------- */
+  @media (max-width: 40em) {
+    figure,
+    .map {
+      margin-left: -1.45em;
+      margin-right: -1.45em;
+    }
+  }
+  figure,
+  .map,
+  .video {
+    position: relative;
+    margin-top: 2.9em;
+    margin-bottom: 2.9em;
   }
 
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1 img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+
+  /* =Map
+  ----------------------------------------------- */
+  .map iframe {
+    width: 100%;
+    height: 500px;
+    max-height: 50vh;
+  }
+
+
+  /* =Video
+  ----------------------------------------------- */
+  .video {
+    margin-top: 5.8em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+  }
+
+
+  /* =Navigation
+  ----------------------------------------------- */
   ul:first-of-type,
   ul:first-of-type li {
     list-style: none;
@@ -200,4 +255,12 @@
     color: white;
     text-decoration: none;
     border-radius: 0.25em;
+    transition: background-color 0.2s;
   }
+  ul:first-of-type a[href]:hover,
+  ul:first-of-type a[href]:active,
+  ul:first-of-type a[href]:focus {
+    background-color: rgb(235, 12, 128); /* @pink */
+    color: white;
+  }
+

@@ -143,7 +143,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 Event begins at 8pm on December 31. Projections and music run all night. Food service will run until 1am. The event ends at 1am on January 1.
 
-![Full Event Schedule](/images/nyela-schedule-640wide.jpg)
+<figure><a href="images/nyela-schedule-1687wide.jpg" target="_blank"><img src="images/nyela-schedule-640wide.jpg" srcset="images/nyela-schedule-640wide.jpg 640w, images/nyela-schedule-1024wide.jpg 1024w, images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule"></a></figure>
 
 ### Projections
 
@@ -247,15 +247,13 @@ Vendors cranking out nom noms:
 
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
-![Full Event Schedule](/images/nyela-map-640wide.jpg)
+<figure><a href="images/nyela-map-1687wide.jpg" target="_blank"><img src="images/nyela-map-640wide.jpg" srcset="images/nyela-map-640wide.jpg 640w, images/nyela-map-1024wide.jpg 1024w, images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
 
 ## Street Closure Info and Parking Details
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
-<!--
 <div class="map"><iframe src="https://www.google.com/maps/d/embed?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en" width="500" height="333" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
--->
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -273,9 +271,7 @@ All metro rail lines including Orange and Silver Lines run**24 hours**on New Ye
 
 See the highlights from last year’s event:
 
-<!--
 <div class="video" style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
--->
 
 ## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
 
