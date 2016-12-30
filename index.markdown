@@ -295,5 +295,5 @@ See the highlights from last year’s event:
 
 <p><img src="/images/logos.png" alt="Los Angeles County. Grand Park. The Music Center." class="footer-image" /> <img src="/images/logos-council.png" alt="Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro." class="footer-image" /></p>
 
-<p><em>The information on this page is subject to change. Please visit again for updates.</em></p>
+<p><em>The information on this page is subject to change. Please visit this page again for updates.</em></p>
 </footer>
