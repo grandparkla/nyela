@@ -39,7 +39,7 @@ This is a **free** event. There’s no cost to attend.
 
 # **Weather**
 
-Showers are forecast Saturday afternoon. Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la) , [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
+Showers are forecast Saturday afternoon. Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
 
 Angelenos aren’t afraid of some spritz! The show must go on! N.Y.E.L.A. will continue rain or shine.** Please note that umbrellas will not be allowed in the event. **Ponchos, rain boots, and waterproof outerwear ARE allowed.
 
