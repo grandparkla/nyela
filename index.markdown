@@ -253,7 +253,11 @@ Vendors cranking out nom noms:
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
+<!--
 <div class="map"><iframe src="https://www.google.com/maps/d/embed?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en" width="500" height="333" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+-->
+
+<figure><a href="https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank"><img src="/images/street-closures.jpg" alt="Street Closure Map"></a></figure>
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -275,10 +279,23 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 
 See the highlights from last year’s event:
 
+<!--
 <div class="video"><div style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div></div>
+-->
+
+<figure>
+<a href="https://vimeo.com/165034815" target="_blank" class="play">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park + The Music Center’s New Year’s Eve Celebration in 2015">
+<span class="icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+</svg>
+</span>
+</a>
+</figure>
 
 <footer>
-<h2><a href="http://grandparkla.org">Grand Park</a> is an LA County park powered by <a href="http://www.musiccenter.org/">The Music Center</a>.</h2>
+<h2><a href="http://grandparkla.org">Grand Park</a> is an <span style="display: inline-block;">LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
 <p><img src="/images/logos.png" alt="Los Angeles County. Grand Park. The Music Center." class="footer-image" /> <img src="/images/logos-council.png" alt="Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro." class="footer-image" /></p>
 

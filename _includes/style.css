@@ -21,7 +21,7 @@
   /* =Colors
   ----------------------------------------------- */
   body {
-    background: rgb(248, 252, 248);
+    background: rgb(252, 254, 252);
 
     color: rgb(252, 239, 71); /* @yellow */
     color: rgb(235, 12, 128); /* @pink */
@@ -55,7 +55,6 @@
   a[href]:focus {
     color: rgb(235, 12, 128); /* @pink */
     color: rgb(41, 96, 46); /* @darkgreen */
-    text-decoration: underline;
   }
   /*
   h2 a {
@@ -68,8 +67,8 @@
   ----------------------------------------------- */
   body {
     font: 100%/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0 0 2.9em;
-    padding: 0 1.45em 2.93em;
+    margin: 0;
+    padding: 0 1.45em 0;
   }
 
   /* OPTIONAL: Increase the font size on big screens. */
@@ -187,8 +186,62 @@
   }
 
 
+  /* =Play Button
+  ----------------------------------------------- */
+  .play {
+    display: block;
+    position: relative;
+    text-decoration: none
+  }
+
+  .play .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: black;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 0.625em 1.25em 0.3125em 1.25em;
+    border-radius: 0.3125em;
+    color: white;
+    font-size: 2em;
+    transition: background-color 0.2s;
+    transform: translate(-50%, -50%)
+  }
+
+  .play:hover .icon,
+  .play:active .icon,
+  .play:focus .icon {
+    background-color: black
+  }
+
+  .play .icon {
+    vertical-align: middle
+  }
+
+  .play svg {
+    width: 1em;
+    height: 1em
+  }
+
+  .play svg polygon {
+    fill: currentColor
+  }
+
+
+
+
   /* =Footer
   ----------------------------------------------- */
+  footer {
+    background: white;
+    background: linear-gradient(rgb(252, 254, 252), white 25%, white);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    padding-left: 1.45em;
+    padding-right: 1.45em;
+  }
   footer h2,
   footer p {
     max-width: none;
