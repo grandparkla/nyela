@@ -279,4 +279,4 @@ See the highlights from last year’s event:
 
 ![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](/images/logos-council.png)
 
-*The information on this is page subject to change. Please visit again for updates.*
+*The information on this page is subject to change. Please visit again for updates.*
