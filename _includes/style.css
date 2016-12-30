@@ -1,0 +1,201 @@
+
+  body {
+    color: rgb(252, 252, 252);
+    font: 100%/1.45 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 0 2.9em;
+    padding: 0 1.45em 2.93em;
+    background: rgb(252, 252, 252);
+    color: rgb(76, 76, 76);
+  }
+
+  /* OPTIONAL: Increase the font size on big screens. */
+  @media screen and (min-width: 600px) and (min-height: 600px) {
+    html {
+      font-size: 112.5%;
+    }
+  }
+  @media screen and (min-width: 800px) and (min-height: 800px) {
+    html {
+      font-size: 125%;
+    }
+  }
+  @media screen and (min-width: 1000px) and (min-height: 1000px) {
+    html {
+      font-size: 137.5%;
+    }
+  }
+  @media screen and (min-width: 1200px) and (min-height: 1200px) {
+    html {
+      font-size: 150%;
+    }
+  }
+
+  a {
+    color: rgb(252, 239, 71); /* @yellow */
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    color: rgb(140, 197, 65); /* @green */
+    color: rgb(90, 150, 55); /* @mediumgreen */
+    color: inherit;
+  }
+
+  ul.list,
+  .list li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .list li + li {
+    margin-top: 0.725em;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  a img {
+    border-width: 0;
+  }
+
+  h1 img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  h2,
+  h3,
+  h4,
+  p,
+  ul,
+  .map {
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1 {
+    font-size: inherit;
+    margin: 0 -1.45em 2.9em;
+  }
+  h2,
+  h3,
+  h4 {
+    margin-top: 2.9rem;
+    margin-bottom: 0.725rem;
+    font-weight: normal;
+    font-size: 1.75em;
+    line-height: 1.25;
+    clear: none;
+    font-weight: normal;
+    color: rgb(41, 96, 46); /* @darkgreen */
+    color: rgb(90, 150, 55); /* @mediumgreen */
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(140, 197, 65); /* @green */
+  }
+  h2 {
+    margin-top: 5.8rem;
+  }
+  h3 {
+    font-size: 1.375em;
+  }
+  h4 {
+    font-size: inherit;
+    font-style: italic;
+  }
+  @media (max-width: 40em) {
+    img,
+    .map {
+      margin-left: -1.45em;
+      margin-right: -1.45em;
+    }
+  }
+  img,
+  .map,
+  .video {
+    position: relative;
+    margin-top: 2.9em;
+    margin-bottom: 2.9em;
+  }
+  .video {
+    margin-top: 5.8em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  .map iframe {
+    width: 100%;
+    height: 500px;
+    max-height: 50vh;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+  }
+  h1 {
+    background: black url(images/nyela-background-2048wide.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+    color: white;
+    position: relative;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    padding-left: 1.45em;
+    padding-right: 1.45em;
+    padding-top: 1.45em;
+    padding-bottom: 0;
+  }
+  /*
+  @media (min-width: 40em) {
+    h1 > span {
+      display: block;
+      max-width: 50vw;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  */
+  h1 > span > span {
+    display: block;
+    width: 100%;
+    padding-bottom: 226.4852071%;
+    position: relative;
+  }
+  h1 svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  h1 > span > span {
+    padding-bottom: 70vh;
+  }
+
+  ul.action,
+  ul.action li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  ul.action {
+    margin-left: auto;
+    margin-top: 2.9em;
+    margin-bottom: 2.9em;
+  }
+  ul.action li {
+    display: inline-block;
+    margin-right: 0.25em;
+    margin-bottom: 0.725em;
+  }
+  .action a {
+    display: inline-block;
+    padding: 0.725em 1.45em;
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    text-decoration: none;
+    border-radius: 0.25em;
+  }
