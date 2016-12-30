@@ -6,11 +6,14 @@ layout: default
 ---
 
 * [Safety](#safety)
+
 * [Schedule](#event-schedule)
+
 * [Map](#event-map)
+
 * [Transportation](#transportation)
 
-What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) + [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
+What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 ### When
 
@@ -19,8 +22,8 @@ Event begins at 8pm on December 31, 2016. Event ends at 1am on January 1, 2017.
 ### Where
 
 <p>
-Grand Park + The Music Center<br />
-<a href="https://www.google.com/maps/place/Grand+Park+LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614">
+Grand Park and The Music Center<br />
+<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614">
 200 North Grand Avenue<br />
 Los Angeles, California 90012
 </a>
@@ -39,31 +42,57 @@ This is a **free** event. There’s no cost to attend.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
+
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
-* Bicycles (may be parked outside of event at 2nd St + Hill St)
+
+* Bicycles (may be parked outside of event at 2nd Street and Hill Street)
+
 * Chairs
+
 * Coolers
+
 * Confetti Cannons
+
 * Drones (including Drone Operation)
+
 * Explosives
+
 * Firearms
+
 * Firecrackers
+
 * Flag Poles
+
 * Generators
+
 * Glass
+
 * Identity-Covering
+
 * Costumes
+
 * Narcotics
+
 * Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
+
 * Projection Devices
+
 * Printed Signage Measuring Larger Than 8.5 in. x 11 in.
+
 * Props
+
 * Selfie Sticks
+
 * Smartboards
+
 * Sparklers
+
 * Sticks
+
 * Tents
+
 * Unleashed Animals
+
 * Weapons
 
 ### A Note for Beautiful Los Angeles
@@ -73,24 +102,39 @@ This is a space for unity – where Angelenos and visitors from all around the w
 ### The Following Is Also Prohibited at This Event
 
 * Amplified Noise
+
 * Outside Solicitation
+
 * Public Intoxication
+
 * Rollerblading
+
 * Skateboarding
+
 * Smoking
+
 * Staking Objects to Ground
+
 * Unauthorized Vending
+
 * Vaping
-* Bicycles (may be parked outside of event at Hill + 2nd St).
+
+* Bicycles (may be parked outside of event at 2nd Street and Hill Street).
 
 ### Items You Can Bring
 
 * Snacks
+
 * Food
+
 * Sealed Juice Boxes
+
 * Small Bags
+
 * Smiling Faces
+
 * Strollers
+
 * Empty Reusable Non-Glass Water Containers.
 
 ### Have a Ball But Please No Alcohol
@@ -110,23 +154,34 @@ Event begins at 8pm on December 31. Projections and music run all night. Food se
 Experience some of L.A.’s best:
 
 * [Jungle Fire](http://junglefiremusic.com/)
+
 * [QVLN](http://www.qviolin.com/)
+
 * [Afrodyete](https://afrodyete.bandcamp.com/)
+
 * [Lyric Jones](http://thelyricjones.com/)
+
 * [DJ Expo](https://soundcloud.com/expothedj)
+
 * [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
+
 * [Jose Marquez](https://soundcloud.com/jose-marquez)
+
 * [Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)
+
 * [Victoria Van Damn](http://www.victoriavandamn.com/)
+
 * [DJ Paris Paul](https://www.facebook.com/DJParisPaul/)
+
 * [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
+
 * [CheckOne2 Dancers](http://checkone2ent.com/)
 
 Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
 ## Event Map
 
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park + The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park and The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
 <figure><a href="/images/nyela-map-1687wide.jpg" target="_blank"><img src="/images/nyela-map-640wide.jpg" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
 
@@ -147,29 +202,53 @@ Snap the final photos of 2016 at a photo booth.
 Vendors cranking out nom noms:
 
 * [Bling Bling Dumplings](http://blingblingdumpling.com/blingblingdumpling/Home.html)
+
 * [C & C Concessions](http://www.candcconcessions.com/)
+
 * Candelario’s Tacos
+
 * [Casa de Brisa](http://www.casadebrisa.com/)
+
 * [Chano’s Tacos](https://www.yelp.com/biz/chanos-los-angeles-2)
+
 * Fun Time Kettle Corn
+
 * [Hawaiian Dancing Grill](https://www.facebook.com/Hawaiian-Dancing-Grill-BBQ-932476513497875/)
+
 * Isabel’s Hot Dogs
+
 * [Jacks Thai BBQ](https://www.yelp.com/biz/jacks-thai-b-b-q-cuisine-los-angeles)
+
 * [Kali Churros ](http://www.city-data.com/ventura-county-ca-restaurants/KALI-CHURROS.html)
+
 * [Kiddo’s Kettle Korn](https://www.yelp.com/biz/kiddos-kettle-corn-whittier)
+
 * [Koko Natti Catering](https://www.facebook.com/kokonatti714/)
+
 * [Leonor’s Mexican Food](http://www.leonorsvegetarian.com/)
+
 * [Maggie’s](https://www.facebook.com/Maggies-Catering-1709990559324574/) Cocina
+
 * [Mario’s Tacos](https://www.yelp.com/biz/marios-tacos-pico-rivera)
+
 * [Pizza On Wheelz](https://www.yelp.com/biz/pizza-on-wheels-east-los-angeles)
+
 * Pupusas Delmi
+
 * Ramirez Mex Food
+
 * Ricas Tortas de Jalisco
+
 * Street Tacos
+
 * [Taqueria El Torito](https://www.yelp.com/biz/taqueria-el-torito-plano-2)
+
 * The Catering Man
+
 * The King of Kettle Corn
+
 * Tropicana Funnel Cakes
+
 * [What the Funnel](http://www.what-the-funnel.com/)
 
 ## Transportation
@@ -202,7 +281,7 @@ See the highlights from last year’s event:
 
 <figure>
 <a href="https://vimeo.com/165034815" target="_blank" class="play">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park + The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park and The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
