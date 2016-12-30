@@ -276,9 +276,9 @@ View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-pa
 
 ### Taking Rideshare Like Lyft Or Uber?
 
-Use the drop off/pick up zone near the *1st Street and Los Angeles Street* event entrance/exit. Here’s an address (drop pin here):
+Use the drop off/pick up zone near the [1st Street and North Los Angeles Street](https://goo.gl/maps/5TKyU4gYYY62) event entrance/exit. Here’s an address (drop pin here):
 
-*111 Los Angeles Street, Los Angeles, California 90012*
+*111 North Los Angeles Street, Los Angeles, California 90012*
 
 This address is for navigation only and is not an official event or affiliate address.
 
