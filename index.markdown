@@ -1,5 +1,6 @@
 ---
-title: "Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdown to 2017. #NYELA"
+title: 'Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdown to
+  2017. #NYELA'
 date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
