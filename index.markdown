@@ -37,7 +37,7 @@ This is a **free** event. There’s no cost to attend.
 
 *Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
 
-### **Weather**
+## **Weather**
 
 Showers are forecast Saturday afternoon. Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
 
