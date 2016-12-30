@@ -70,7 +70,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, say something.**
 
-### The Following is Also Prohibited at This Event
+### The Following Is Also Prohibited at This Event
 
 * Amplified Noise
 * Outside Solicitation
