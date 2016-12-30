@@ -197,6 +197,7 @@
     text-align: center;
     position: relative;
     max-width: none;
+    overflow-y: hidden;
   }
   header h1 img {
     display: block !important;
