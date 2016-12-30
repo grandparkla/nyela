@@ -22,8 +22,8 @@ Event begins at 8pm on December 31, 2016. Event ends at 1am on January 1, 2017.
 ### Where
 
 <p>
-Grand Park + The Music Center<br />
-<a href="https://www.google.com/maps/place/Grand\+Park\+LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&amp;z=16&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=embed&amp;cid=17002646865384763614">
+Grand Park \+ The Music Center<br />
+<a href="https://www.google.com/maps/place/Grand\+Park\+LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614">
 200 North Grand Avenue<br />
 Los Angeles, California 90012
 </a>
@@ -265,7 +265,7 @@ View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-pa
 
 ### Taking Rideshare Like Lyft Or Uber?
 
-Use the drop off/pick up zone near the *1st Street and Main Street* event entrance/exit. Drop pin at:
+Use the drop off/pick up zone near the *1st Street and Main Street* event entrance/exit. Here’s an address (drop a pin here, in your map application):
 
 *111 North Main Street, Los Angeles, California 90012*
 
@@ -289,7 +289,7 @@ See the highlights from last year’s event:
 
 <figure>
 <a href="https://vimeo.com/165034815" target="_blank" class="play">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park + The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park \+ The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
