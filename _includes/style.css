@@ -1,10 +1,9 @@
 
   body {
-    color: rgb(252, 252, 252);
-    font: 100%/1.45 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 100%/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0 0 2.9em;
     padding: 0 1.45em 2.93em;
-    background: rgb(252, 252, 252);
+    background: rgb(248, 248, 248);
     color: rgb(76, 76, 76);
   }
 
@@ -97,9 +96,9 @@
     clear: none;
     font-weight: normal;
     color: rgb(41, 96, 46); /* @darkgreen */
-    color: rgb(90, 150, 55); /* @mediumgreen */
     color: rgb(235, 12, 128); /* @pink */
     color: rgb(140, 197, 65); /* @green */
+    color: rgb(90, 150, 55); /* @mediumgreen */
   }
   h2 {
     margin-top: 5.8rem;

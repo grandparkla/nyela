@@ -253,7 +253,9 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
+<!--
 <div class="map"><iframe src="https://www.google.com/maps/d/embed?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en" width="500" height="333" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+-->
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -271,7 +273,9 @@ All metro rail lines including Orange and Silver Lines run**24 hours**on New Ye
 
 See the highlights from last year’s event:
 
+<!--
 <div class="video" style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+-->
 
 ## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
 
