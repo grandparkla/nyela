@@ -34,7 +34,7 @@ This is a **free** event. There’s no cost to attend.
 
 *Safety for everyone is número uno. Event entrance protocol includes mandatory bag checks, pat downs and metal detector wands for all patrons. To ensure lines move as quickly as possible, please plan ahead and read all event info below to know what is allowed and what is prohibited. Early arrival is recommended. Your patience is appreciated.*
 
-### Getting through Bag Check
+### Getting Through Bag Check
 
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
