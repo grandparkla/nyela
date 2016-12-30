@@ -12,13 +12,19 @@ What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly 
 *   [Go Metro](#go-metro)
 *   [Bicycle parking](#bicycle-parking)
 
+### When
+
 Event begins at 8pm on December 31, 2016. Event ends at 1am on January 1, 2017.
 
-This is a **free** event. There’s no cost to attend.
+### Where
 
 Grand Park \+ The Music Center
 [200 North Grand Avenue,
-Los Angeles, California 90012](https://www.google.com/maps/place/Grand\+Park\+LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
+Los Angeles, California 90012](https://www.google.com/maps/place/Grand\+Park\+LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614){: .location}
+
+### Cost
+
+This is a **free** event. There’s no cost to attend.
 
 ## Safety
 
@@ -84,7 +90,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 ### A note for beautiful Los Angeles
 
-This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  If you are an attendee, and you see SOMETHING, say SOMETHING.
+This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, say something.**
 
 ### The following is also prohibited at this event
 
@@ -250,7 +256,7 @@ Use the drop off/pick up zone near the 1st\+Main event entrance/exit.  Drop th
 
 ### Go Metro
 
-All metro rail lines including Orange and Silver Lines run**24 hours**on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at[metro.net](https://www.metro.net/)
+All metro rail lines including Orange and Silver Lines run**24 hours**on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Bicycle Parking
 
@@ -264,8 +270,8 @@ See the highlights from last year’s event:
 
 ## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
 
-![Los Angeles County. Grand Park. The Music Center.](//grandparkla.org/wp-content/uploads/2013/11/3logos-optimized.png)
+![Los Angeles County. Grand Park. The Music Center.](/images/logos.png)
 
-![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](//grandparkla.org/wp-content/uploads/2013/11/NYELA.Solis_.Huizar.Metro-600-x-100-optimized.png)
+![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](/images/logos-council.png)
 
 *The information on this is page subject to change. Please visit again for updates.*
