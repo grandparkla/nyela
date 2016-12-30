@@ -258,7 +258,7 @@ View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-pa
 
 ### Taking Rideshare Like Lyft Or Uber?
 
-Use the drop off/pick up zone near the 1st\+Main event entrance/exit.  Drop the pin at \*\*111 N Los Angeles St. 90012 \*\*(Note this address is for navigation only and not an official event or affiliate address).
+Use the drop off/pick up zone near the 1st\+Main event entrance/exit.  Drop the pin at **111 N Los Angeles St. 90012** (Note this address is for navigation only and not an official event or affiliate address).
 
 ### Go Metro
 
