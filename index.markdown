@@ -13,7 +13,7 @@ layout: default
 
 * [Go Metro](#go-metro)
 
-* [Bicycle parking](#bicycle-parking)
+* [Bicycle Parking](#bicycle-parking)
 
 What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
