@@ -263,8 +263,10 @@
   }
   footer h2,
   footer p {
-    max-width: none;
     text-align: center;
+  }
+  footer h2 {
+    max-width: none;
   }
   footer h2 a {
     display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
