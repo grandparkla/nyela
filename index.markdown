@@ -5,11 +5,15 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
-*   [Safety](#safety)
-*   [Schedule](#event-schedule)
-*   [Map](#event-map)
-*   [Go Metro](#go-metro)
-*   [Bicycle parking](#bicycle-parking)
+* [Safety](#safety)
+
+* [Schedule](#event-schedule)
+
+* [Map](#event-map)
+
+* [Go Metro](#go-metro)
+
+* [Bicycle parking](#bicycle-parking)
 
 What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
@@ -36,31 +40,57 @@ This is a **free** event. There’s no cost to attend.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
+
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
+
 * Bicycles (may be parked outside of event at 2nd St \+ Hill St)
+
 * Chairs
+
 * Coolers
+
 * Confetti Cannons
+
 * Drones (including Drone Operation)
+
 * Explosives
+
 * Firearms
+
 * Firecrackers
+
 * Flag Poles
+
 * Generators
+
 * Glass
+
 * Identity-Covering
+
 * Costumes
+
 * Narcotics
+
 * Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
+
 * Projection Devices
+
 * Printed Signage Measuring Larger Than 8.5 in. x 11 in.
+
 * Props
+
 * Selfie Sticks
+
 * Smartboards
+
 * Sparklers
+
 * Sticks
+
 * Tents
+
 * Unleashed Animals
+
 * Weapons
 
 ### A note for beautiful Los Angeles
