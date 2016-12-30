@@ -257,10 +257,6 @@ Vendors cranking out nom noms:
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
-<!--
-<div class="map"><iframe src="https://www.google.com/maps/d/embed?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en" width="500" height="333" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
--->
-
 <figure><a href="https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank"><img src="/images/street-closures.jpg" alt="Street Closure Map"></a></figure>
 
 ### Taking Rideshare Like Lyft Or Uber?
@@ -282,10 +278,6 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 ## N.Y.E.L.A. 2016
 
 See the highlights from last year’s event:
-
-<!--
-<div class="video"><div style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div></div>
--->
 
 <figure>
 <a href="https://vimeo.com/165034815" target="_blank" class="play">
