@@ -29,7 +29,7 @@
     color: rgb(140, 197, 65); /* @green */
     color: rgb(90, 150, 55); /* @mediumgreen */
 
-    color: rgb(76, 76, 76);
+    color: rgb(76, 78, 76);
   }
   h2,
   h3,
@@ -249,6 +249,7 @@
   ----------------------------------------------- */
   footer {
     background: white;
+    color: rgb(76, 78, 76);
     background: linear-gradient(rgb(252, 254, 252), white 25%, white);
     padding-top: 1px;
     padding-bottom: 1px;
