@@ -11,9 +11,7 @@ layout: default
 
 * [Map](#event-map)
 
-* [Go Metro](#go-metro)
-
-* [Bicycle Parking](#bicycle-parking)
+* [Transportation](#transportation)
 
 What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) \+ [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, live music, food, and photo booths in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
@@ -145,10 +143,6 @@ Event begins at 8pm on December 31. Projections and music run all night. Food se
 
 <figure><a href="images/nyela-schedule-1687wide.jpg" target="_blank"><img src="images/nyela-schedule-640wide.jpg" srcset="images/nyela-schedule-640wide.jpg 640w, images/nyela-schedule-1024wide.jpg 1024w, images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule"></a></figure>
 
-### Projections
-
-Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
-
 ### 3 Music Stages
 
 #### The Countdown Stage, the Get Down Stage, and the Funktown Stage
@@ -180,6 +174,16 @@ Experience some of L.A.’s best:
 * [CheckOne2 Dancers](http://checkone2ent.com/)
 
 Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
+
+## Event Map
+
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
+
+<figure><a href="images/nyela-map-1687wide.jpg" target="_blank"><img src="images/nyela-map-640wide.jpg" srcset="images/nyela-map-640wide.jpg 640w, images/nyela-map-1024wide.jpg 1024w, images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
+
+### Projections
+
+Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
 
 ### Inflatable Art
 
@@ -243,13 +247,9 @@ Vendors cranking out nom noms:
 
 * [What the Funnel](http://www.what-the-funnel.com/)
 
-## Event Map
+## Transportation
 
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
-
-<figure><a href="images/nyela-map-1687wide.jpg" target="_blank"><img src="images/nyela-map-640wide.jpg" srcset="images/nyela-map-640wide.jpg 640w, images/nyela-map-1024wide.jpg 1024w, images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
-
-## Street Closure Info and Parking Details
+### Street Closure Info and Parking Details
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
