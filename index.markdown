@@ -4,6 +4,7 @@ title: 'Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdo
 date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
+
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Map](#event-map)
