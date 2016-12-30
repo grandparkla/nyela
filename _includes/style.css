@@ -100,7 +100,7 @@
   }
 
   /* Limit line lengths, for readability. */
-  h2, h3, h4, p, ul, .map, figure {
+  h2, h3, h4, p, ul, .map, .video, figure {
     max-width: 40rem;
     margin-left: auto;
     margin-right: auto;
@@ -113,16 +113,6 @@
   ----------------------------------------------- */
   a img {
     border-width: 0; /* For Explorer */
-  }
-  h2:last-of-type {
-    border-top-width: 0;
-  }
-  h2:last-of-type a {
-    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
-  }
-  .footer-image {
-    display: block;
-    margin: 2.9em 0;
   }
   a.location {
     display: inline-block; /* @avoid-break */
@@ -197,10 +187,35 @@
   }
 
 
+  /* =Footer
+  ----------------------------------------------- */
+  footer h2,
+  footer p {
+    max-width: none;
+    text-align: center;
+  }
+  footer h2 a {
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  footer p {
+    margin: 2.9em auto;
+  }
+  @media (min-width: 45em) {
+    footer p {
+      margin-top: 5.8em;
+      margin-bottom: 5.8em;
+    }
+  }
+  footer img {
+    display: inline;
+  }
+
+
   /* =Images
   ----------------------------------------------- */
   @media (max-width: 40em) {
     figure,
+    .video,
     .map {
       margin-left: -1.45em;
       margin-right: -1.45em;
@@ -209,6 +224,7 @@
   figure,
   .map,
   .video {
+    margin-top: 1.45em;
     position: relative;
   }
   @media (min-width: 45em) {
@@ -244,10 +260,8 @@
 
   /* =Video
   ----------------------------------------------- */
-  .video {
-    margin-top: 1.45em;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
+  .video div {
+    position: relative;
   }
   .video iframe {
     position: absolute;
@@ -255,7 +269,6 @@
     left: 0;
     width: 100%;
     height: 100%;
-    max-height: 100vh;
   }
 
 
@@ -270,7 +283,7 @@
   ul:first-of-type {
     margin-left: auto;
     margin-top: 2.175em;
-    margin-bottom: 0em;
+    margin-bottom: 1.45em;
     display: flex;
     flex-wrap: wrap;
   }
@@ -305,5 +318,6 @@
     background-color: rgb(235, 12, 128); /* @pink */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white;
+    text-decoration: none;
   }
 

@@ -257,7 +257,11 @@ View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-pa
 
 ### Taking Rideshare Like Lyft Or Uber?
 
-Use the drop off/pick up zone near the 1st\+Main event entrance/exit.  Drop the pin at **111 N Los Angeles St. 90012** (Note this address is for navigation only and not an official event or affiliate address).
+Use the drop off/pick up zone near the *1st Street and Main Street* event entrance/exit. Drop pin at:
+
+*111 North Main Street, Los Angeles, California 90012*
+
+This address is for navigation only and is not an official event or affiliate address.
 
 ### Go Metro
 
@@ -265,18 +269,18 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 
 ### Bicycle Parking
 
-[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. **Free.**
+[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available on 2nd and Hill. The valet service is **free**.
 
 ## N.Y.E.L.A. 2015
 
 See the highlights from last year’s event:
 
-<div class="video" style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<div class="video"><div style="padding-bottom: 56.32%; /\* 352px / 625px \*/"><iframe src="https://player.vimeo.com/video/165034815" width="625" height="352" frameborder="0" title="Grand Park \+ The Music Center's N.Y.E.L.A." webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div></div>
 
-## [Grand Park](http://grandparkla.org) is an LA County park powered by [The Music Center](http://www.musiccenter.org/).
+<footer>
+<h2><a href="http://grandparkla.org">Grand Park</a> is an LA County park powered by <a href="http://www.musiccenter.org/">The Music Center</a>.</h2>
 
-![Los Angeles County. Grand Park. The Music Center.](/images/logos.png){: .footer-image }
+<p><img src="/images/logos.png" alt="Los Angeles County. Grand Park. The Music Center." class="footer-image" /> <img src="/images/logos-council.png" alt="Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro." class="footer-image" /></p>
 
-![Supervisor Hilda L. Solis. Councilmember Jose Huizar. Metro.](/images/logos-council.png){: .footer-image }
-
-*The information on this page is subject to change. Please visit again for updates.*
+<p><em>The information on this page is subject to change. Please visit again for updates.</em></p>
+</footer>
