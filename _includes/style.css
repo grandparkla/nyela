@@ -353,7 +353,7 @@
     width: auto;
     height: 2.9em;
   }
-  @media (min-width: 45em) {
+  @media (min-width: 100em) {
     footer li {
       font-size: 1.5em;
     }
