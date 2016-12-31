@@ -332,8 +332,8 @@
     height: 2.9em;
   }
   @media (min-width: 45em) {
-    footer img {
-      height: 4.35em;
+    footer li {
+      font-size: 1.5em;
     }
   }
 
