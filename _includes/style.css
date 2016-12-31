@@ -220,44 +220,51 @@
   }
 
 
-  /* =Play Button
+  /* =Icon Button
   ----------------------------------------------- */
-  .play {
+  .has-icon {
     display: block;
     position: relative;
     text-decoration: none
   }
 
-  .play .icon {
+  .has-icon .icon {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 0.725em;
+    right: 0.725em;
     background: black;
     background: rgba(0, 0, 0, 0.75);
-    padding: 0.625em 1.25em 0.3125em 1.25em;
+    padding: 0.725em 1em 0.3625em 1em;
     border-radius: 0.3125em;
     color: white;
-    font-size: 2em;
     transition: background-color 0.2s;
-    transform: translate(-50%, -50%)
+  }
+  .has-icon .icon.play {
+    font-size: 1.5em;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    padding: 0.725em 1.45em 0.3625em 1.45em;
+    margin-top: -1.0875em; /* (line height + vertical padding) / 2    (1.45em + 1.45em) / 2  */
+    margin-left: -1.95em; /* (icon width + horizontal padding) / 2    (1em + 2.9em) / 2  */
   }
 
-  .play:hover .icon,
-  .play:active .icon,
-  .play:focus .icon {
+  .has-icon:hover .icon,
+  .has-icon:active .icon,
+  .has-icon:focus .icon {
     background-color: black
   }
 
-  .play .icon {
+  .has-icon .icon {
     vertical-align: middle
   }
 
-  .play svg {
+  .has-icon svg {
     width: 1em;
     height: 1em
   }
 
-  .play svg polygon {
+  .has-icon svg polygon {
     fill: currentColor
   }
 

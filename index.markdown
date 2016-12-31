@@ -156,7 +156,22 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 Event begins at 8pm on December 31. Projections and music run all night. Food service will run until 1am. The event ends at 1am on January 1.
 
-<figure><a href="/images/nyela-schedule-1687wide.jpg" target="_blank"><img src="/images/nyela-schedule-640wide.jpg" srcset="/images/nyela-schedule-640wide.jpg 640w, /images/nyela-schedule-1024wide.jpg 1024w, /images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule"></a></figure>
+<figure>
+<a href="/images/nyela-schedule-1687wide.jpg" target="_blank" class="has-icon">
+<img src="/images/nyela-schedule-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-schedule-640wide.jpg 640w, /images/nyela-schedule-1024wide.jpg 1024w, /images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</figure>
+
 
 ### 3 Music Stages
 
@@ -196,7 +211,21 @@ The event will take place at [Grand Park \+ The Music Center](https://www.google
 
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
-<figure><a href="/images/nyela-map-1687wide.jpg" target="_blank"><img src="/images/nyela-map-640wide.jpg" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map"></a></figure>
+<figure>
+<a href="/images/nyela-map-1687wide.jpg" target="_blank" class="has-icon">
+<img src="/images/nyela-map-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</figure>
 
 ### Projections
 
@@ -272,7 +301,21 @@ The event will take place at [Grand Park \+ The Music Center](https://www.google
 
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
-<figure><a href="https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank"><img src="/images/street-closures.jpg" alt="Street Closure Map"></a></figure>
+<figure>
+<a href="https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank" class="has-icon">
+<img src="/images/street-closures.jpg" width="1000" height="630" data-aspect-ratio="788/496" alt="Street Closure Map" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</figure>
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -300,11 +343,14 @@ All metro rail lines including Orange and Silver Lines run **24 hours** on New 
 See the highlights from last year’s event:
 
 <figure>
-<a href="https://vimeo.com/165034815" target="_blank" class="play">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" alt="Video of Grand Park \+ The Music Center’s New Year’s Eve Celebration in 2015">
-<span class="icon">
+<a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park \+ The Music Center’s New Year’s Eve Celebration in 2015">
+<span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<switch>
 <polygon fill="white" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Play</foreignobject>
+</switch>
 </svg>
 </span>
 </a>
