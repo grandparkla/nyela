@@ -384,7 +384,7 @@ See the highlights from last year’s event:
 <figure>
 <div style="padding-bottom: 56.25%">
 <a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park \+ The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park &plus; The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <switch>
@@ -402,7 +402,7 @@ See the highlights from last year’s event:
 
 <ul>
 <li><img src="/images/logos/los-angeles.png" height="100" alt="County of Los Angeles" /></li>
-<li><img src="/images/logos/grandpark-musiccenter.png" height="100" alt="Grand Park \+ The Music Center" /></li>
+<li><img src="/images/logos/grandpark-musiccenter.png" height="100" alt="Grand Park &plus; The Music Center" /></li>
 <li><img src="/images/logos/hildal.png" height="100" alt="Supervisor Hilda L. Solis" /></li>
 <li><img src="/images/logos/huizar.png" height="100" alt="Councilmember Jose Huizar" /></li>
 <li><img src="/images/logos/metro.png" height="100" alt="Metro" /></li>
