@@ -31,16 +31,13 @@
 
     color: rgb(76, 78, 76);
   }
-  h2,
-  h3,
-  h4 {
-    color: rgb(90, 150, 55); /* @mediumgreen */
-    color: rgb(235, 12, 128); /* @pink */
-    color: inherit;
-  }
 
   strong {
     font-weight: inherit;
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+  h1, h2 {
     color: rgb(235, 12, 128); /* @pink */
   }
 
@@ -55,12 +52,10 @@
     color: rgb(235, 12, 128); /* @pink */
     color: rgb(41, 96, 46); /* @darkgreen */
   }
-  /*
-  h2 a {
-    color: inherit;
-  }
-  */
 
+
+  /* =Fields
+  ----------------------------------------------- */
   textarea {
     margin: 0.725em 0 0 0;
     font-size: inherit;
@@ -113,7 +108,7 @@
   }
 
   /* Limit line lengths, for readability. */
-  h1, h2, h3, h4, p, ul, .map, .video, figure {
+  h1, h2, h3, h4, p, ol, ul, dl, .map, .video, figure {
     max-width: 40rem;
     margin-left: auto;
     margin-right: auto;
@@ -122,13 +117,49 @@
   }
 
 
+  dt {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 0.375em;
+  }
+  dd {
+    padding-bottom: 0.375em;
+    color: black;
+  }
+  @media (min-width: 20em) {
+    dl:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    dt {
+      clear: both;
+      float: left;
+      width: 40%;
+      width: calc(9em);
+      text-align: left;
+      padding-bottom: 0.375em;
+      box-sizing: border-box;
+      white-space: nowrap;
+    }
+    dt + dd {
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      padding-top: 0.375em;
+    }
+    dd {
+      padding-left: 1.45em;
+      margin-left: 40%;
+      margin-left: calc(9em);
+      width: 60%;
+      width: calc(100% - 9em);
+      box-sizing: border-box;
+    }
+  }
+
+
   /* =Links
   ----------------------------------------------- */
   a img {
     border-width: 0; /* For Explorer */
-  }
-  a.location {
-    display: inline-block; /* @avoid-break */
   }
 
 
@@ -140,7 +171,6 @@
   h4 {
     margin-top: 1.45rem;
     margin-bottom: 0.725rem;
-    font-weight: bold;
   }
   h1,
   h2 {
@@ -148,26 +178,18 @@
     line-height: 1.2428571429;
     font-size: 1.375em;
     line-height: 1.5818181818;
-    padding-top: 1.35rem;
-    color: rgb(235, 12, 128); /* @pink */
-    /*
-    border-top: 0.1rem solid rgba(0, 0, 0, 0.15);
-    */
+    margin-top: 2.7rem;
   }
   footer h2 {
     color: inherit;
   }
   h3 {
-    /*
-    font-size: 1.375em;
-    line-height: 1.5818181818;
-    */
     font-size: inherit;
   }
   h4 {
     font-size: inherit;
+    font-weight: inherit;
     font-style: italic;
-    color: inherit;
   }
   @media (min-width: 50em) {
     h1,

@@ -154,7 +154,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Event Schedule
 
-Event begins at 8pm on December 31. Projections and music run all night. Food service will run until 1am. The event ends at 1am on January 1.
+Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food) will run until 1am. The event ends at 1am on January 1.
 
 <!--
 <figure>
@@ -177,44 +177,81 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </figure>
 -->
 
-### 3 Music Stages
+*Experience some of L.A.’s best at the three music stages:*
 
-#### Countdown Stage
+### Countdown Stage
 
 Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
-1. 08:00pm—09:00pm : [DJ Expo](https://soundcloud.com/expothedj)
-1. 09:00pm—09:30pm : [Jungle Fire](http://junglefiremusic.com/)
-1. 09:30pm—10:00pm : DJ Expo
-1. 10:00pm—10:30pm : [Lyric Jones](http://thelyricjones.com/)
-1. 10:30pm—10:45pm : DJ Expo
-1. 10:45pm—11:45pm : Jungle Fire with guests [QVLN](http://www.qviolin.com/) and [Afrodyete](https://afrodyete.bandcamp.com/)
-1. *11:55pm—12:00am : All Eyes On City Hall*
-1. 12:00am—12:50am : Jungle Fire with guests QVLN, Afrodyete and [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
+08:00pm—09:00pm
+: [DJ Expo](https://soundcloud.com/expothedj)
 
-#### Get Down Stage
+09:00pm—09:30pm
+: [Jungle Fire](http://junglefiremusic.com/)
+
+09:30pm—10:00pm
+: DJ Expo
+
+10:00pm—10:30pm
+: [Lyric Jones](http://thelyricjones.com/)
+
+10:30pm—10:45pm
+: DJ Expo
+
+10:45pm—11:45pm
+: Jungle Fire with guests [QVLN](http://www.qviolin.com/) and [Afrodyete](https://afrodyete.bandcamp.com/)
+
+*11:55pm—12:00am*
+: *All Eyes On City Hall*
+
+12:00am—12:50am
+: Jungle Fire with guests QVLN, Afrodyete and [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
+
+### Get Down Stage
 
 Hosted by: [Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)
 
-1. 08:00pm—08:40pm : [Victoria Van Damn](http://www.victoriavandamn.com/)
-1. 08:40pm—09:20pm : Gazoo Olmeda
-1. 09:20pm—10:00pm : Victoria Van Damn
-1. 10:00pm—10:40pm : Gazoo Olmeda
-1. 10:40pm—11:00pm : Gazoo Olmeda with [Jose Marquez](https://soundcloud.com/jose-marquez)
-1. 11:00pm—11:45pm : Jose Marquez
-1. *11:55pm—12:00am : All Eyes On City Hall*
-1. 12:00am—01:00am : Jose Marquez
+08:00pm—08:40pm
+: [Victoria Van Damn](http://www.victoriavandamn.com/)
 
-#### Funktown Stage
+08:40pm—09:20pm
+: Gazoo Olmeda
+
+09:20pm—10:00pm
+: Victoria Van Damn
+
+10:00pm—10:40pm
+: Gazoo Olmeda
+
+10:40pm—11:00pm
+: Gazoo Olmeda with [Jose Marquez](https://soundcloud.com/jose-marquez)
+
+11:00pm—11:45pm
+: Jose Marquez
+
+*11:55pm—12:00am*
+: *All Eyes On City Hall*
+
+12:00am—01:00am
+: Jose Marquez
+
+### Funktown Stage
 
 Hosted by: [DJ Paris Paul](https://www.facebook.com/DJParisPaul/)
 
 Dancers: [CheckOne2 Dancers](http://checkone2ent.com/)
 
-1. 08:00pm—10:30pm : DJ Paris Paul
-1. 10:30pm—11:45pm : DJ Rell
-1. *11:55pm—12:00am : All Eyes On City Hall*
-1. 12:00am—01:00am : [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
+08:00pm—10:30pm
+: DJ Paris Paul
+
+10:30pm—11:45pm
+: DJ Rell
+
+*11:55pm—12:00am*
+: *All Eyes On City Hall*
+
+12:00am—01:00am
+: [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
 
 
 ## Event Map
@@ -242,6 +279,10 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+
+### 3 Music Stages
+
+Experience some of L.A.’s best at the [Countdown Stage](#countdown-stage), the [Get Down Stage](#get-down-stage), and the [Funktown Stage](#funktown-stage).
 
 ### Projections
 
