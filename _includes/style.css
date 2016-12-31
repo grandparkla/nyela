@@ -300,14 +300,41 @@
   footer p {
     margin: 2.9em auto;
   }
+  footer ul {
+    margin-top: 1.45em;
+    margin-bottom: 1.45em;
+    max-width: none;
+    text-align: center;
+  }
   @media (min-width: 45em) {
+    footer ul {
+      margin-top: 4.35em;
+      margin-bottom: 4.35em;
+    }
     footer p {
-      margin-top: 5.8em;
+      margin-top: 4.35em;
       margin-bottom: 5.8em;
     }
   }
+  footer ul,
+  footer li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  footer li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1.45em;
+  }
   footer img {
-    display: inline;
+    width: auto;
+    height: 2.9em;
+  }
+  @media (min-width: 45em) {
+    footer img {
+      height: 4.35em;
+    }
   }
 
 
@@ -400,13 +427,13 @@
 
   /* =Navigation
   ----------------------------------------------- */
-  ul:first-of-type,
-  ul:first-of-type li {
+  body > ul:first-of-type,
+  body > ul:first-of-type li {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
   }
-  ul:first-of-type {
+  body > ul:first-of-type {
     margin-left: auto;
     margin-top: 2.175em;
     margin-bottom: 1.45em;
@@ -414,18 +441,18 @@
     flex-wrap: wrap;
   }
   @media (min-width: 50em) {
-    ul:first-of-type {
+    body > ul:first-of-type {
       margin-top: 3.625em;
       margin-bottom: 2.175em;
     }
   }
-  ul:first-of-type li {
+  body > ul:first-of-type li {
     display: inline-block;
     margin-right: 0.25em;
     margin-bottom: 0.25em;
     flex-grow: 1;
   }
-  ul:first-of-type a {
+  body > ul:first-of-type a {
     display: block;
     text-align: center;
     padding: 0.725em 1.45em;
@@ -438,9 +465,9 @@
     transition: background-color 0.2s, color 0.2s;
     font-weight: bold;
   }
-  ul:first-of-type a[href]:hover,
-  ul:first-of-type a[href]:active,
-  ul:first-of-type a[href]:focus {
+  body > ul:first-of-type a[href]:hover,
+  body > ul:first-of-type a[href]:active,
+  body > ul:first-of-type a[href]:focus {
     background-color: rgb(235, 12, 128); /* @pink */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white;
