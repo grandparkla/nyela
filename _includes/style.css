@@ -134,8 +134,7 @@
     dt {
       clear: both;
       float: left;
-      width: 40%;
-      width: calc(9em);
+      width: 9em;
       text-align: left;
       padding-bottom: 0.375em;
       box-sizing: border-box;
@@ -147,11 +146,7 @@
     }
     dd {
       padding-left: 1.45em;
-      margin-left: 40%;
-      margin-left: calc(9em);
-      width: 60%;
-      width: calc(100% - 9em);
-      box-sizing: border-box;
+      margin-left: 9em;
     }
   }
 
