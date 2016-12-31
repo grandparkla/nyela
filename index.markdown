@@ -84,7 +84,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 * Projection Devices
 
-* Printed Signage Measuring Larger Than 8.5 in. x 11 in.
+* Printed Signage Measuring Larger than 8.5 inches x 11 inches
 
 * Props
 
