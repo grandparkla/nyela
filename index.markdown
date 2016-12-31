@@ -23,7 +23,7 @@ The event begins at 8pm on December 31, 2016 and ends at 1am on January 1, 2017.
 
 ### Where
 
-Grand Park \+ The Music Center: 
+Grand Park \+ The Music Center:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 ### Cost
@@ -159,22 +159,21 @@ Event begins at 8pm on December 31. Projections and music run all night. Food se
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/nyela-schedule-1687wide.jpg" target="_blank" class="has-icon">
-<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAGIAQAMBIgACEQEDEQH/xAByAAADAQEBAAAAAAAAAAAAAAACAwQAAQUQAAICAAQDBwMFAQAAAAAAAAABAhEDEiExQVFhEyJxgZGh8DKx0QRCUmLB8QEBAQEBAAAAAAAAAAAAAAAAAAECAxEBAQEAAwEAAAAAAAAAAAAAAAERAhIxQf/aAAwDAQACEQMRAD8A8FGoyCoru4ot7BrCbV1Jrmlp6j4YDm8idPK5+m3rsjRwpPE7GMtdlyurr/LC+EdnpeqXUBxa3LMPB7Sbw4yuMU3fhyTfpqIpPu8OBT0mjBUcoMOpDEgUNSDpDo587cO69N6W1Nb9VYcYS7RNtJvNLMqdaPMzsVGStpulsvuMhKEHcVJPo1+CFK/SQliSUFVNVLRPu/7rRPJO6/i69yy4rTvVfPlr99RWJTdq/MqfUklqAxrQDDna7FD4oWinDimuFh0diuIbk7v3WgyMF09xiir4A7JtZagyRU4rp7gSgq/b7lZvJDNCmVYiSXDyJpBz11MrwlFka0KIJVdEdNVOCS0ChFSTsQsrrQ69Ht4BNNlFbIRiRa2aGaSvx6inBPbT1DFpEtOQmTHYirjZO2Vm0SZTht5fn5JbHYb0I3quKa3+e5nbdrkKvYPNWu3kGdci8rpr56gvFivEGFameqWy16BnSp4mbTYQ2PxLUdX9iZsrIh0EqtpX86k9lCyrDzZu9f08f+Eb0yo8l88wG1HhYOHJN95tIHEcVJ5W2uDe4ZtNi09u76/kGv7P55mUcKk5T1vWkIdX0v2CDntWZvp8YkbiRgrcJXHhf1fYTYQZjGDo6dMYrLhwxiI4wTGA/9k=" alt="" />
+<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAGIAQAMBIgACEQEDEQH/xAByAAADAQEBAAAAAAAAAAAAAAACAwQAAQUQAAICAAQDBwMFAQAAAAAAAAABAhEDEiExQVFhEyJxgZGh8DKx0QRCUmLB8QEBAQEBAAAAAAAAAAAAAAAAAAECAxEBAQEAAwEAAAAAAAAAAAAAAAERAhIxQf/aAAwDAQACEQMRAD8A8FGoyCoru4ot7BrCbV1Jrmlp6j4YDm8idPK5\+m3rsjRwpPE7GMtdlyurr/LC\+EdnpeqXUBxa3LMPB7Sbw4yuMU3fhyTfpqIpPu8OBT0mjBUcoMOpDEgUNSDpDo587cO69N6W1Nb9VYcYS7RNtJvNLMqdaPMzsVGStpulsvuMhKEHcVJPo1\+CFK/SQliSUFVNVLRPu/7rRPJO6/i69yy4rTvVfPlr99RWJTdq/MqfUklqAxrQDDna7FD4oWinDimuFh0diuIbk7v3WgyMF09xiir4A7JtZagyRU4rp7gSgq/b7lZvJDNCmVYiSXDyJpBz11MrwlFka0KIJVdEdNVOCS0ChFSTsQsrrQ69Ht4BNNlFbIRiRa2aGaSvx6inBPbT1DFpEtOQmTHYirjZO2Vm0SZTht5fn5JbHYb0I3quKa3\+e5nbdrkKvYPNWu3kGdci8rpr56gvFivEGFameqWy16BnSp4mbTYQ2PxLUdX9iZsrIh0EqtpX86k9lCyrDzZu9f08f\+Eb0yo8l88wG1HhYOHJN95tIHEcVJ5W2uDe4ZtNi09u76/kGv7P55mUcKk5T1vWkIdX0v2CDntWZvp8YkbiRgrcJXHhf1fYTYQZjGDo6dMYrLhwxiI4wTGA/9k=" alt="" />
 <img src="/images/nyela-schedule-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-schedule-640wide.jpg 640w, /images/nyela-schedule-1024wide.jpg 1024w, /images/nyela-schedule-1687wide.jpg 1687w" sizes="100vw" alt="Event Schedule" />
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+<path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
 </a>
 </div>
 </figure>
-
 
 ### 3 Music Stages
 
@@ -210,23 +209,24 @@ Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
 ## Event Map
 
-The event will take place at [Grand Park \+ The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
+The event will take place at Grand Park \+ The Music Center:
+[200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/nyela-map-1687wide.jpg" target="_blank" class="has-icon">
-<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAGIAQAMBIgACEQEDEQH/xACEAAACAwEAAAAAAAAAAAAAAAADBAACBQEQAAIBAwIEAgkDAwUAAAAAAAECEQADIRIxBCJBUWGBBRMyQnGRobHRUsHwkuHxFBViY9IBAQEBAQEAAAAAAAAAAAAAAAEAAgMEEQEAAgECBAcAAAAAAAAAAAAAARECEjEhIkGBA2FicbHh8P/aAAwDAQACEQMRAD8AwRUioKtFLurFXVJ65HjVkEEk9BTMIWSEMDBx7X+aiUKbeNVimwA1tjHvCTGwPQedAIpQUVKtFciph0CiAUS3YZ0a4I0oQD57U/8A7XeHVfr+KG7hnrgz0o4OiDzGNubHy/amV4C5qKysrE+dX/0L/qT+qk3BMPClQOU9On2oBFag9Hudip86Xv8ACNZAJjmMVM3G0M8iqmjskGJB86GVjqKmDfD2lazcY7hljzNavqUWQBgHu35rO4dGazc0mOZcYz59IrZ9UerSe+laFl7lRZSTyj3d5PSh3W0GFC/0ijPFosWc9PdXOOnbFL3B65uQzy+90/vU6eHWrn2rr2MBEIBhfLH2pbi/dEkjODmPPf50wtxdIloPYifDcRQuKtt7RiFgY8aoctpohcaNt6XbYfE0zcLDYGgN7IHjSDPDlxZuaQI1LJnI+A61s3Lj2wWZVgf8v7Vi8O7LYuQpYFlzjGR55rauFmJGgkdjFDXX7JX2LjUwgEiIz7tDtuFWP1NG3+KK41SrrojTnGMdvHwrisiDKahvkr2yfOp1qNUzMcumOFx6fNRiiMCOcRENReLabbn/ALAPkK5bRDc0uDqnaV+NCusx4fKkBn1apHU4xvU45bzJViBn+fel3IInMzRrhx/PzSrHlA8TS52d4Z9Ni4IJllyBgZG9bpuiTg/T81gWLoSxcBBMsuwxuNz08O9aF2zrdm/UZyprMum/SxrrBgQTokruOw/fpS7mCNJGFgEj61HGsaFGUiZBzjt9u9UNokCZ5R+lvxS9eOOOPPlwmo+BWbTca4QYUE7ZGIznaq8SxHDKulhGncY+9VvPCt7XOAvssNyPCr+kL6vZhQwyPaUgfWqHgljk0I0y3qwASrj4/wA/goDlI5Zmfp+Zptk5YuBOHug7ll79x5fOtHiR69tSHEddQ/asuzdVeGvITDMV0r3p666u5ZXWDkc1DZq3xFtWIkkwgMK3QfChtcLMSrMAduV//NDW+kXF1iSiKDPUAznwq/E8ZadQA+3g3bwoUzf7sq/EAKiOWJ9YCeVthnqM/AVz0lxC3LJUTOobqw+pFDu+krbXLbc2m3JPxiB1oXHekU4m16tQwyDJjpSyWu3Zw4OIwwHbfelXZT7IiiteU5j6LQXcNsI+X7UhKnyqVKm3anyqVKWUrlSpQHDValSpP//Z" alt="" />
+<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAGIAQAMBIgACEQEDEQH/xACEAAACAwEAAAAAAAAAAAAAAAADBAACBQEQAAIBAwIEAgkDAwUAAAAAAAECEQADIRIxBCJBUWGBBRMyQnGRobHRUsHwkuHxFBViY9IBAQEBAQEAAAAAAAAAAAAAAAEAAgMEEQEAAgECBAcAAAAAAAAAAAAAARECEjEhIkGBA2FicbHh8P/aAAwDAQACEQMRAD8AwRUioKtFLurFXVJ65HjVkEEk9BTMIWSEMDBx7X\+aiUKbeNVimwA1tjHvCTGwPQedAIpQUVKtFciph0CiAUS3YZ0a4I0oQD57U/8A7XeHVfr\+KG7hnrgz0o4OiDzGNubHy/amV4C5qKysrE\+dX/0L/qT\+qk3BMPClQOU9On2oBFag9Hudip86Xv8ACNZAJjmMVM3G0M8iqmjskGJB86GVjqKmDfD2lazcY7hljzNavqUWQBgHu35rO4dGazc0mOZcYz59IrZ9UerSe\+laFl7lRZSTyj3d5PSh3W0GFC/0ijPFosWc9PdXOOnbFL3B65uQzy\+90/vU6eHWrn2rr2MBEIBhfLH2pbi/dEkjODmPPf50wtxdIloPYifDcRQuKtt7RiFgY8aoctpohcaNt6XbYfE0zcLDYGgN7IHjSDPDlxZuaQI1LJnI\+A61s3Lj2wWZVgf8v7Vi8O7LYuQpYFlzjGR55rauFmJGgkdjFDXX7JX2LjUwgEiIz7tDtuFWP1NG3\+KK41SrrojTnGMdvHwrisiDKahvkr2yfOp1qNUzMcumOFx6fNRiiMCOcRENReLabbn/ALAPkK5bRDc0uDqnaV\+NCusx4fKkBn1apHU4xvU45bzJViBn\+fel3IInMzRrhx/PzSrHlA8TS52d4Z9Ni4IJllyBgZG9bpuiTg/T81gWLoSxcBBMsuwxuNz08O9aF2zrdm/UZyprMum/SxrrBgQTokruOw/fpS7mCNJGFgEj61HGsaFGUiZBzjt9u9UNokCZ5R\+lvxS9eOOOPPlwmo\+BWbTca4QYUE7ZGIznaq8SxHDKulhGncY\+9VvPCt7XOAvssNyPCr\+kL6vZhQwyPaUgfWqHgljk0I0y3qwASrj4/wA/goDlI5Zmfp\+Zptk5YuBOHug7ll79x5fOtHiR69tSHEddQ/asuzdVeGvITDMV0r3p666u5ZXWDkc1DZq3xFtWIkkwgMK3QfChtcLMSrMAduV//NDW\+kXF1iSiKDPUAznwq/E8ZadQA\+3g3bwoUzf7sq/EAKiOWJ9YCeVthnqM/AVz0lxC3LJUTOobqw\+pFDu\+krbXLbc2m3JPxiB1oXHekU4m16tQwyDJjpSyWu3Zw4OIwwHbfelXZT7IiiteU5j6LQXcNsI\+X7UhKnyqVKm3anyqVKWUrlSpQHDValSpP//Z" alt="" />
 <img src="/images/nyela-map-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map" />
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+<path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
 </a>
@@ -301,7 +301,8 @@ Vendors cranking out nom noms:
 
 ## Transportation
 
-The event will take place at [Grand Park \+ The Music Center](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614).
+The event will take place at Grand Park \+ The Music Center:
+[200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 ### Street Closure Info and Parking Details
 
@@ -314,12 +315,12 @@ View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-pa
 <img src="/images/street-closures.jpg" width="788" height="496" data-aspect-ratio="788/496" alt="Street Closure Map" />
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-  <path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-    L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-    c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-  <path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-    c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-    C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+<path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
 </a>
@@ -372,7 +373,7 @@ See the highlights from last year’s event:
 
 <ul>
 <li><img src="/images/logos/los-angeles.svg" width="150" height="150" alt="County of Los Angeles" /></li>
-<li><img src="/images/logos/grandpark-musiccenter.svg" width="150" height="150" alt="Grand Park &plus; The Music Center" /></li>
+<li><img src="/images/logos/grandpark-musiccenter.svg" width="150" height="150" alt="Grand Park \+ The Music Center" /></li>
 <li><img src="/images/logos/hildal.svg" width="150" height="150" alt="Supervisor Hilda L. Solis" /></li>
 <li><img src="/images/logos/huizar.svg" width="150" height="150" alt="Councilmember Jose Huizar" /></li>
 <li><img src="/images/logos/metro.svg" width="150" height="150" alt="Metro" /></li>
