@@ -297,17 +297,6 @@
 
   /* =Footer
   ----------------------------------------------- */
-  footer {
-    background: white;
-    color: rgb(76, 78, 76);
-    background: linear-gradient(rgb(252, 254, 252), white 25%, white);
-    padding-top: 1px;
-    padding-bottom: 1px;
-    margin-left: -1.45em;
-    margin-right: -1.45em;
-    padding-left: 1.45em;
-    padding-right: 1.45em;
-  }
   footer h2,
   footer p {
     text-align: center;
