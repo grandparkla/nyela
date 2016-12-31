@@ -156,6 +156,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 Event begins at 8pm on December 31. Projections and music run all night. Food service will run until 1am. The event ends at 1am on January 1.
 
+<!--
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/nyela-schedule-1687wide.jpg" target="_blank" class="has-icon">
@@ -174,38 +175,47 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+-->
 
 ### 3 Music Stages
 
-#### The Countdown Stage, the Get Down Stage, and the Funktown Stage
+#### Countdown Stage
 
-Experience some of L.A.’s best:
+Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
-* [Jungle Fire](http://junglefiremusic.com/)
+1. 08:00pm—09:00pm : [DJ Expo](https://soundcloud.com/expothedj)
+1. 09:00pm—09:30pm : [Jungle Fire](http://junglefiremusic.com/)
+1. 09:30pm—10:00pm : DJ Expo
+1. 10:00pm—10:30pm : [Lyric Jones](http://thelyricjones.com/)
+1. 10:30pm—10:45pm : DJ Expo
+1. 10:45pm—11:45pm : Jungle Fire with guests [QVLN](http://www.qviolin.com/) and [Afrodyete](https://afrodyete.bandcamp.com/)
+1. *11:55pm—12:00am : All Eyes On City Hall*
+1. 12:00am—12:50am : Jungle Fire with guests QVLN, Afrodyete and [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
 
-* [QVLN](http://www.qviolin.com/)
+#### Get Down Stage
 
-* [Afrodyete](https://afrodyete.bandcamp.com/)
+Hosted by: [Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)
 
-* [Lyric Jones](http://thelyricjones.com/)
+1. 08:00pm—08:40pm : [Victoria Van Damn](http://www.victoriavandamn.com/)
+1. 08:40pm—09:20pm : Gazoo Olmeda
+1. 09:20pm—10:00pm : Victoria Van Damn
+1. 10:00pm—10:40pm : Gazoo Olmeda
+1. 10:40pm—11:00pm : Gazoo Olmeda with [Jose Marquez](https://soundcloud.com/jose-marquez)
+1. 11:00pm—11:45pm : Jose Marquez
+1. *11:55pm—12:00am : All Eyes On City Hall*
+1. 12:00am—01:00am : Jose Marquez
 
-* [DJ Expo](https://soundcloud.com/expothedj)
+#### Funktown Stage
 
-* [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
+Hosted by: [DJ Paris Paul](https://www.facebook.com/DJParisPaul/)
 
-* [Jose Marquez](https://soundcloud.com/jose-marquez)
+Dancers: [CheckOne2 Dancers](http://checkone2ent.com/)
 
-* [Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)
+1. 08:00pm—10:30pm : DJ Paris Paul
+1. 10:30pm—11:45pm : DJ Rell
+1. *11:55pm—12:00am : All Eyes On City Hall*
+1. 12:00am—01:00am : [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
 
-* [Victoria Van Damn](http://www.victoriavandamn.com/)
-
-* [DJ Paris Paul](https://www.facebook.com/DJParisPaul/)
-
-* [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
-
-* [CheckOne2 Dancers](http://checkone2ent.com/)
-
-Host: [Mario Hernandez](http://eatmomovies.tumblr.com/)
 
 ## Event Map
 
@@ -369,7 +379,7 @@ See the highlights from last year’s event:
 </figure>
 
 <footer>
-<h2><a href="http://grandparkla.org">Grand Park</a> is an <span style="display: inline-block;">LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
+<h2><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
 <ul>
 <li><img src="/images/logos/los-angeles.svg" width="150" height="150" alt="County of Los Angeles" /></li>
@@ -379,5 +389,5 @@ See the highlights from last year’s event:
 <li><img src="/images/logos/metro.svg" width="150" height="150" alt="Metro" /></li>
 </ul>
 
-<p><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
+<p><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout&nbsp;the&nbsp;day.</p>
 </footer>
