@@ -160,77 +160,77 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 ### Countdown Stage
 
-Hosted by: [Mario Hernandez](http://eatmomovies.tumblr.com/)
+Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 08:00pm—09:00pm
-\: [DJ Expo](https://soundcloud.com/expothedj)
+\: *[DJ Expo](https://soundcloud.com/expothedj)*
 
 09:00pm—09:30pm
-\: [Jungle Fire](http://junglefiremusic.com/)
+\: *[Jungle Fire](http://junglefiremusic.com/)*
 
 09:30pm—10:00pm
-\: DJ Expo
+\: *DJ Expo*
 
 10:00pm—10:30pm
-\: [Lyric Jones](http://thelyricjones.com/)
+\: *[Lyric Jones](http://thelyricjones.com/)*
 
 10:30pm—10:45pm
-\: DJ Expo
+\: *DJ Expo*
 
 10:45pm—11:45pm
-\: Jungle Fire with guests [QVLN](http://www.qviolin.com/) and [Afrodyete](https://afrodyete.bandcamp.com/)
+\: *Jungle Fire* with guests *[QVLN](http://www.qviolin.com/)* and *[Afrodyete](https://afrodyete.bandcamp.com/)*
 
-*11:55pm—12:00am*
-\: *All Eyes On City Hall*
+**11:55pm—12:00am**
+\: **All Eyes On City Hall**
 
 12:00am—12:50am
-\: Jungle Fire with guests QVLN, Afrodyete and [L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)
+\: *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
 
 ### Get Down Stage
 
-Hosted by: [Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)
+Hosted by: *[Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)*
 
 08:00pm—08:40pm
-\: [Victoria Van Damn](http://www.victoriavandamn.com/)
+\: *[Victoria Van Damn](http://www.victoriavandamn.com/)*
 
 08:40pm—09:20pm
-\: Gazoo Olmeda
+\: *Gazoo Olmeda*
 
 09:20pm—10:00pm
-\: Victoria Van Damn
+\: *Victoria Van Damn*
 
 10:00pm—10:40pm
-\: Gazoo Olmeda
+\: *Gazoo Olmeda*
 
 10:40pm—11:00pm
-\: Gazoo Olmeda with [Jose Marquez](https://soundcloud.com/jose-marquez)
+\: *Gazoo Olmeda* with *[Jose Marquez](https://soundcloud.com/jose-marquez)*
 
 11:00pm—11:45pm
-\: Jose Marquez
+\: *Jose Marquez*
 
-*11:55pm—12:00am*
-\: *All Eyes On City Hall*
+**11:55pm—12:00am**
+\: **All Eyes On City Hall**
 
 12:00am—01:00am
-\: Jose Marquez
+\: *Jose Marquez*
 
 ### Funktown Stage
 
-Hosted by: [DJ Paris Paul](https://www.facebook.com/DJParisPaul/)
+Hosted by: *[DJ Paris Paul](https://www.facebook.com/DJParisPaul/)*
 
-Dancers: [CheckOne2 Dancers](http://checkone2ent.com/)
+Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 
 08:00pm—10:30pm
-\: DJ Paris Paul
+\: *DJ Paris Paul*
 
 10:30pm—11:45pm
-\: DJ Rell
+\: *DJ Rell*
 
-*11:55pm—12:00am*
-\: *All Eyes On City Hall*
+**11:55pm—12:00am**
+\: **All Eyes On City Hall**
 
 12:00am—01:00am
-\: [DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)
+\: *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
 
 ## Event Map
 
