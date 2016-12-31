@@ -342,6 +342,37 @@
     height: auto;
   }
 
+  /* OPTIONAL: Show a preview image while the real image is loading */
+  figure > div {
+    position: relative;
+
+    /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
+    overflow: hidden;
+
+    /* TRICKY: This causes iOS 7 & 8 to crash.
+    -webkit-transform: translate3d(0, 0, 0);
+    */
+  }
+  figure a,
+  figure img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+  }
+  figure a {
+    height: 100%;
+  }
+  figure img.preview {
+    margin: calc(-3em);
+    width: calc(100% + 6em) !important;
+    -webkit-filter: blur(1.5em);
+            filter: blur(1.5em);
+  }
+
 
   /* =Map
   ----------------------------------------------- */
@@ -354,13 +385,10 @@
 
   /* =Video
   ----------------------------------------------- */
-  figure div,
   .video div {
     display: block;
     position: relative;
   }
-  figure a,
-  figure img,
   .video iframe {
     position: absolute;
     top: 0;
