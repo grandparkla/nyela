@@ -4,15 +4,10 @@ title: 'Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdo
 date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
-
 * [Weather](#weather)
-
 * [Safety](#safety)
-
 * [Schedule](#event-schedule)
-
 * [Map](#event-map)
-
 * [Transportation](#transportation)
 
 What up Los Angeles? Look forward to 2017 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food), and [photo booths](#photo-booth) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
@@ -49,59 +44,32 @@ Ponchos, rain boots, and waterproof outerwear *are* allowed.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
-
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
-
 * Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
-
 * Chairs
-
 * Coolers
-
 * Confetti Cannons
-
 * Drones (including Drone Operation)
-
 * Explosives
-
 * Firearms
-
 * Firecrackers
-
 * Flag Poles
-
 * Generators
-
 * Glass
-
 * Identity-Covering
-
 * Costumes
-
 * Narcotics
-
 * Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
-
 * Projection Devices
-
 * Printed Signage Measuring Larger than 8.5 inches x 11 inches
-
 * Props
-
 * Selfie Sticks
-
 * Smartboards
-
 * Sparklers
-
 * Sticks
-
 * Tents
-
 * Unleashed Animals
-
 * **Umbrellas**
-
 * Weapons
 
 ### A Note for Beautiful Los Angeles
@@ -111,41 +79,25 @@ This is a space for unity – where Angelenos and visitors from all around the w
 ### The Following Is Also Prohibited at This Event
 
 * Amplified Noise
-
 * Outside Solicitation
-
 * Public Intoxication
-
 * Rollerblading
-
 * Skateboarding
-
 * Smoking
-
 * Staking Objects to Ground
-
 * Unauthorized Vending
-
 * Vaping
-
 * Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
 
 ### Items You Can Bring
 
 * Snacks
-
 * Food
-
 * Ponchos/Waterproof Outerwear
-
 * Sealed Juice Boxes
-
 * Small Bags
-
 * Smiling Faces
-
 * Strollers
-
 * Empty Reusable Non-Glass Water Containers.
 
 ### Have a Ball But Please No Alcohol
@@ -278,53 +230,29 @@ Snap the final photos of 2016 at a photo booth.
 Vendors cranking out nom noms:
 
 * [Bling Bling Dumplings](http://blingblingdumpling.com/blingblingdumpling/Home.html)
-
 * [C & C Concessions](http://www.candcconcessions.com/)
-
 * Candelario’s Tacos
-
 * [Casa de Brisa](http://www.casadebrisa.com/)
-
 * [Chano’s Tacos](https://www.yelp.com/biz/chanos-los-angeles-2)
-
 * Fun Time Kettle Corn
-
 * [Hawaiian Dancing Grill](https://www.facebook.com/Hawaiian-Dancing-Grill-BBQ-932476513497875/)
-
 * Isabel’s Hot Dogs
-
 * [Jacks Thai BBQ](https://www.yelp.com/biz/jacks-thai-b-b-q-cuisine-los-angeles)
-
 * [Kali Churros ](http://www.city-data.com/ventura-county-ca-restaurants/KALI-CHURROS.html)
-
 * [Kiddo’s Kettle Korn](https://www.yelp.com/biz/kiddos-kettle-corn-whittier)
-
 * [Koko Natti Catering](https://www.facebook.com/kokonatti714/)
-
 * [Leonor’s Mexican Food](http://www.leonorsvegetarian.com/)
-
 * [Maggie’s](https://www.facebook.com/Maggies-Catering-1709990559324574/) Cocina
-
 * [Mario’s Tacos](https://www.yelp.com/biz/marios-tacos-pico-rivera)
-
 * [Pizza On Wheelz](https://www.yelp.com/biz/pizza-on-wheels-east-los-angeles)
-
 * Pupusas Delmi
-
 * Ramirez Mex Food
-
 * Ricas Tortas de Jalisco
-
 * Street Tacos
-
 * [Taqueria El Torito](https://www.yelp.com/biz/taqueria-el-torito-plano-2)
-
 * The Catering Man
-
 * The King of Kettle Corn
-
 * Tropicana Funnel Cakes
-
 * [What the Funnel](http://www.what-the-funnel.com/)
 
 ## Transportation
