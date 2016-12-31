@@ -242,7 +242,6 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/nyela-map-1687wide.jpg" target="_blank" class="has-icon">
-<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAGIAQAMBIgACEQEDEQH/xACEAAACAwEAAAAAAAAAAAAAAAADBAACBQEQAAIBAwIEAgkDAwUAAAAAAAECEQADIRIxBCJBUWGBBRMyQnGRobHRUsHwkuHxFBViY9IBAQEBAQEAAAAAAAAAAAAAAAEAAgMEEQEAAgECBAcAAAAAAAAAAAAAARECEjEhIkGBA2FicbHh8P/aAAwDAQACEQMRAD8AwRUioKtFLurFXVJ65HjVkEEk9BTMIWSEMDBx7X+aiUKbeNVimwA1tjHvCTGwPQedAIpQUVKtFciph0CiAUS3YZ0a4I0oQD57U/8A7XeHVfr+KG7hnrgz0o4OiDzGNubHy/amV4C5qKysrE+dX/0L/qT+qk3BMPClQOU9On2oBFag9Hudip86Xv8ACNZAJjmMVM3G0M8iqmjskGJB86GVjqKmDfD2lazcY7hljzNavqUWQBgHu35rO4dGazc0mOZcYz59IrZ9UerSe+laFl7lRZSTyj3d5PSh3W0GFC/0ijPFosWc9PdXOOnbFL3B65uQzy+90/vU6eHWrn2rr2MBEIBhfLH2pbi/dEkjODmPPf50wtxdIloPYifDcRQuKtt7RiFgY8aoctpohcaNt6XbYfE0zcLDYGgN7IHjSDPDlxZuaQI1LJnI+A61s3Lj2wWZVgf8v7Vi8O7LYuQpYFlzjGR55rauFmJGgkdjFDXX7JX2LjUwgEiIz7tDtuFWP1NG3+KK41SrrojTnGMdvHwrisiDKahvkr2yfOp1qNUzMcumOFx6fNRiiMCOcRENReLabbn/ALAPkK5bRDc0uDqnaV+NCusx4fKkBn1apHU4xvU45bzJViBn+fel3IInMzRrhx/PzSrHlA8TS52d4Z9Ni4IJllyBgZG9bpuiTg/T81gWLoSxcBBMsuwxuNz08O9aF2zrdm/UZyprMum/SxrrBgQTokruOw/fpS7mCNJGFgEj61HGsaFGUiZBzjt9u9UNokCZ5R+lvxS9eOOOPPlwmo+BWbTca4QYUE7ZGIznaq8SxHDKulhGncY+9VvPCt7XOAvssNyPCr+kL6vZhQwyPaUgfWqHgljk0I0y3qwASrj4/wA/goDlI5Zmfp+Zptk5YuBOHug7ll79x5fOtHiR69tSHEddQ/asuzdVeGvITDMV0r3p666u5ZXWDkc1DZq3xFtWIkkwgMK3QfChtcLMSrMAduV//NDW+kXF1iSiKDPUAznwq/E8ZadQA+3g3bwoUzf7sq/EAKiOWJ9YCeVthnqM/AVz0lxC3LJUTOobqw+pFDu+krbXLbc2m3JPxiB1oXHekU4m16tQwyDJjpSyWu3Zw4OIwwHbfelXZT7IiiteU5j6LQXcNsI+X7UhKnyqVKm3anyqVKWUrlSpQHDValSpP//Z" alt="" />
 <img src="/images/nyela-map-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map" />
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -384,7 +383,7 @@ See the highlights from last year’s event:
 <figure>
 <div style="padding-bottom: 56.25%">
 <a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
-<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park &plus; The Music Center’s New Year’s Eve Celebration in 2015">
+<img src="https://i.vimeocdn.com/video/568787114_1280x720.jpg" width="1000" height="563" data-aspect-ratio="1280/720" alt="Video of Grand Park and The Music Center’s New Year’s Eve Celebration in 2015">
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <switch>
@@ -402,7 +401,7 @@ See the highlights from last year’s event:
 
 <ul>
 <li><img src="/images/logos/los-angeles.png" height="100" alt="County of Los Angeles" /></li>
-<li><img src="/images/logos/grandpark-musiccenter.png" height="100" alt="Grand Park &plus; The Music Center" /></li>
+<li><img src="/images/logos/grandpark-musiccenter.png" height="100" alt="Grand Park and The Music Center" /></li>
 <li><img src="/images/logos/hildal.png" height="100" alt="Supervisor Hilda L. Solis" /></li>
 <li><img src="/images/logos/huizar.png" height="100" alt="Councilmember Jose Huizar" /></li>
 <li><img src="/images/logos/metro.png" height="100" alt="Metro" /></li>

@@ -393,6 +393,7 @@
 
   /* OPTIONAL: Show a preview image while the real image is loading */
   figure > div {
+    background: rgb(204, 206, 204);
     position: relative;
 
     /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
