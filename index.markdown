@@ -396,16 +396,12 @@ See the highlights from last year’s event:
 </div>
 </figure>
 
-<footer>
-<h2><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
+## [Grand Park](http://grandparkla.org) is an <span>LA County park</span> powered by [The Music Center](http://www.musiccenter.org/)
 
-<ul>
-<li><img src="/images/logos/los-angeles.png" height="100" alt="County of Los Angeles" /></li>
-<li><img src="/images/logos/grandpark-musiccenter.png" height="100" alt="Grand Park and The Music Center" /></li>
-<li><img src="/images/logos/hildal.png" height="100" alt="Supervisor Hilda L. Solis" /></li>
-<li><img src="/images/logos/huizar.png" height="100" alt="Councilmember Jose Huizar" /></li>
-<li><img src="/images/logos/metro.png" height="100" alt="Metro" /></li>
-</ul>
+*   ![County of Los Angeles](/images/logos/los-angeles.png)
+*   ![Grand Park + The Music Center](/images/logos/grandpark-musiccenter.png)
+*   ![Supervisor Hilda L. Solis](/images/logos/hildal.png)
+*   ![Councilmember Jose Huizar](/images/logos/huizar.png)
+*   ![Metro](/images/logos/metro.png)
 
-<p><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
-</footer>
+_The information on this page is subject to change._ Please check back here, [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.

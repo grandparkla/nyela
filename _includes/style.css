@@ -116,7 +116,6 @@
     margin-bottom: 0.725em;
   }
 
-
   dt {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     padding-top: 0.375em;
@@ -179,9 +178,6 @@
     font-size: 1.375em;
     line-height: 1.5818181818;
     margin-top: 2.7rem;
-  }
-  footer h2 {
-    color: inherit;
   }
   h3 {
     font-size: inherit;
@@ -297,53 +293,54 @@
 
   /* =Footer
   ----------------------------------------------- */
-  footer h2,
-  footer p {
+  body > h2:last-of-type,
+  body > p:last-of-type {
     text-align: center;
   }
-  footer h2 {
+  body > h2:last-of-type {
     max-width: none;
+    color: inherit;
   }
-  footer h2 a,
-  footer h2 span {
+  body > h2:last-of-type a,
+  body > h2:last-of-type span {
     display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
   }
-  footer p {
+  body > p:last-of-type {
     margin: 2.9em auto;
   }
-  footer ul {
+  body > ul:last-of-type {
     margin-top: 1.45em;
     margin-bottom: 1.45em;
     max-width: none;
     text-align: center;
   }
   @media (min-width: 45em) {
-    footer ul {
+    body > ul:last-of-type {
       margin-top: 4.35em;
       margin-bottom: 4.35em;
     }
-    footer p {
+    body > p:last-of-type {
       margin-top: 4.35em;
       margin-bottom: 5.8em;
     }
   }
-  footer ul,
-  footer li {
+  body > ul:last-of-type,
+  body > ul:last-of-type li {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
   }
-  footer li {
+  body > ul:last-of-type li {
     display: inline-block;
     vertical-align: middle;
     margin: 1.45em;
   }
-  footer img {
+  body > ul:last-of-type img {
     width: auto;
     height: 2.9em;
   }
   @media (min-width: 100em) {
-    footer li {
+    body > ul:last-of-type li {
       font-size: 1.5em;
     }
   }
