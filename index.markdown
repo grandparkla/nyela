@@ -190,7 +190,9 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 -->
 ## Event Map
 
-The event will take place at Grand Park \+ The Music Center:
+Coming soon!
+
+The event will take place at Grand Park:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 <!--
@@ -214,9 +216,9 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 -->
-### 3 Music Stages
+### 2 Music Stages
 
-Experience some of L.A.’s best at the [Countdown Stage](#countdown-stage), the [Get Down Stage](#get-down-stage), and the [Funktown Stage](#funktown-stage).
+Experience some of L.A.’s best at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
 
 ### Projections
 
@@ -228,10 +230,13 @@ Oh wow! See large pieces floating and growing throughout the space.
 
 ### Photo Booth
 
-Snap the final photos of 2016 at a photo booth.
+Snap the final photos of 2017 at a photo booth.
 
 ### Food
 
+Coming soon!
+
+<!--
 Vendors cranking out nom noms:
 
 * [Bling Bling Dumplings](http://blingblingdumpling.com/blingblingdumpling/Home.html)
@@ -259,14 +264,16 @@ Vendors cranking out nom noms:
 * The King of Kettle Corn
 * Tropicana Funnel Cakes
 * [What the Funnel](http://www.what-the-funnel.com/)
+-->
 
 ## Transportation
 
-The event will take place at Grand Park \+ The Music Center:
+The event will take place at Grand Park:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 ### Street Closure Info and Parking Details
 
+<!--
 View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
 
 <figure>
@@ -287,6 +294,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+-->
+
+### Go Metro
+
+All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -301,15 +313,13 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 *This address is for navigation only and is not an official event or affiliate address.*
 
-### Go Metro
-
-All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Bicycle Parking
 
 [LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047). The valet service is **free**.
 
-## N.Y.E.L.A. 2016
+<!--
+## N.Y.E.L.A. 2017
 
 See the highlights from last year’s event:
 
@@ -328,6 +338,7 @@ See the highlights from last year’s event:
 </a>
 </div>
 </figure>
+-->
 
 ## [Grand Park](http://grandparkla.org) is an <span>LA County park</span> powered by [The Music Center](http://www.musiccenter.org/)
 
