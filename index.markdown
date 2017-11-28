@@ -15,7 +15,7 @@ What up Los Angeles? Look forward to 2018 with best friends, sweeties, friendly 
 
 ### When
 
-The event begins at 8pm on December 31, 2016 and ends at 1am on January 1, 2017.
+The event begins at 8pm on December 31, 2017 and ends at 1am on January 1, 2018.
 
 ### Where
 
@@ -107,6 +107,9 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Event Schedule
 
+Coming soon!
+
+<!--
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food) will run until 1am. The event ends at 1am on January 1.
 
 *Experience some of L.A.’s best at the three music stages:*
@@ -184,12 +187,13 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 
 12:00am—01:00am
 : *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
-
+-->
 ## Event Map
 
 The event will take place at Grand Park \+ The Music Center:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+<!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
 <figure>
@@ -209,7 +213,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
-
+-->
 ### 3 Music Stages
 
 Experience some of L.A.’s best at the [Countdown Stage](#countdown-stage), the [Get Down Stage](#get-down-stage), and the [Funktown Stage](#funktown-stage).
