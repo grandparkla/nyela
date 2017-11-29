@@ -19,7 +19,7 @@ The event begins at 8pm on December 31, 2017 and ends at 1am on January 1, 2018.
 
 ### Where
 
-Grand Park \+ The Music Center:
+Grand Park:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 ### Cost
