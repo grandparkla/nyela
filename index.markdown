@@ -11,7 +11,7 @@ layout: default
 * [Map](#event-map)
 * [Transportation](#transportation)
 
-What up Los Angeles? Look forward to 2018 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food), and [photo booths](#photo-booth) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
+What's up Los Angeles? Dance your heart out and into 2018 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food), and [photo booths](#photo-booth) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 ### When
 
