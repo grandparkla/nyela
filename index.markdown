@@ -24,7 +24,7 @@ Grand Park \+ The Music Center:
 
 ### Cost
 
-This is a **free** event. There’s no cost to attend.
+Grand Park + The Music Center New Year's Eve is free!  There is no cost to attend.
 
 ## Weather
 
@@ -45,12 +45,12 @@ Ponchos, rain boots, and waterproof outerwear *are* allowed.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
-* Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
+* Bags and backpacks measuring larger than standard backpack size (16.75 inches x 13 inches x 8.5 inches)
 * Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
 * Chairs
 * Coolers
-* Confetti Cannons
-* Drones (including Drone Operation)
+* Confetti cannons
+* Drones (including drone operation)
 * Explosives
 * Firearms
 * Firecrackers
@@ -60,16 +60,16 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Identity-Covering
 * Costumes
 * Narcotics
-* Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
-* Projection Devices
-* Printed Signage Measuring Larger than 8.5 inches x 11 inches
+* Sealed or open beverage bottles with liquid, including water (fountains and water for purchase will be available)
+* Projection devices
+* Printed signage measuring larger than 8.5 inches x 11 inches
 * Props
-* Selfie Sticks
+* Selfie sticks
 * Smartboards
 * Sparklers
 * Sticks
 * Tents
-* Unleashed Animals
+* Unleashed animals
 * **Umbrellas**
 * Weapons
 
@@ -80,13 +80,13 @@ This is a space for unity – where Angelenos and visitors from all around the w
 ### The Following Is Also Prohibited at This Event
 
 * Amplified Noise
-* Outside Solicitation
-* Public Intoxication
+* Outside solicitation
+* Public intoxication
 * Rollerblading
 * Skateboarding
 * Smoking
-* Staking Objects to Ground
-* Unauthorized Vending
+* Staking objects to the ground
+* Unauthorized vending
 * Vaping
 * Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
 
@@ -94,12 +94,12 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 * Snacks
 * Food
-* Ponchos/Waterproof Outerwear
-* Sealed Juice Boxes
-* Small Bags
-* Smiling Faces
+* Ponchos/Waterproof outerwear
+* Sealed juice boxes
+* Small bags
+* Smiling faces
 * Strollers
-* Empty Reusable Non-Glass Water Containers.
+* Empty reusable non-glass water containers.
 
 ### Have a Ball But Please No Alcohol
 
@@ -218,7 +218,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 -->
 ### 2 Music Stages
 
-Experience some of L.A.’s best at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
+Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
 
 ### Projections
 
@@ -298,7 +298,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Go Metro
 
-All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. Take the Metro Red/Purple Line to the *Civic Center/Grand Park Station* or the Gold Line to the *Little Tokyo/Arts District Station*. Plan your trip at [metro.net](https://www.metro.net/)
+All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. While the the Metro Red/Purple Line *Civic Center/Grand Park Station* exits directly into Grand Park, the Gold Line to the *Little Tokyo/Arts District Station* and the Red Line Union Station are also within walkable distance (and might be less crowded!) Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Taking Rideshare Like Lyft Or Uber?
 
