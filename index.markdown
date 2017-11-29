@@ -24,7 +24,7 @@ Grand Park:
 
 ### Cost
 
-Grand Park + The Music Center New Year's Eve is free!  There is no cost to attend.
+Grand Park + The Music Center's N.Y.E.L.A. is free!  There is no cost to attend.
 
 ## Weather
 
