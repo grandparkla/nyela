@@ -226,7 +226,7 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 
 ### Inflatable Art
 
-Oh wow! See large pieces floating and growing throughout the space.
+Oh wow! See large pieces floating and glowing throughout the space.
 
 ### Photo Booth
 
