@@ -29,7 +29,11 @@
       <!--
       <img src="/images/nyela-background-640wide.jpg" srcset="/images/nyela-background-320wide.jpg 320w, /images/nyela-background-640wide.jpg 640w, /images/nyela-background-768wide.jpg 768w, /images/nyela-background-1024wide.jpg 1024w, /images/nyela-background-1536wide.jpg 1536w, /images/nyela-background-2048wide.jpg 2048w" sizes="100vw" alt="" width="1" height="1" style="display: none;" />
       -->
-      <img src="/images/background-nyela.jpg" alt="" width="1" height="1" style="display: none;" />
+      <picture>
+        <source srcset="/images/background-nyela.jpg" media="(max-aspect-ratio: 1/1)" />
+        <source srcset="/images/background-nyela-landscape.jpg" />
+        <img src="/images/background-nyela-landscape.jpg" alt="" width="1" height="1" style="display: none;" />
+      </picture>
       {% include nyela.svg %}
     </h1>
   </header>
