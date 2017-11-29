@@ -54,10 +54,10 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Explosives
 * Firearms
 * Firecrackers
-* Flag Poles
+* Flag poles
 * Generators
 * Glass
-* Identity-Covering
+* Identity-covering
 * Costumes
 * Narcotics
 * Sealed or open beverage bottles with liquid, including water (fountains and water for purchase will be available)
@@ -224,9 +224,9 @@ Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdow
 
 Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
 
-### Inflatable Art
+<!--### Inflatable Art
 
-Oh wow! See large pieces floating and glowing throughout the space.
+Oh wow! See large pieces floating and glowing throughout the space. -->
 
 ### Photo Booth
 
