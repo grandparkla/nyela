@@ -298,7 +298,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Go Metro
 
-All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. While the the Metro Red/Purple Line *Civic Center/Grand Park Station* exits directly into Grand Park, the Gold Line to the *Little Tokyo/Arts District Station* and the Red Line Union Station are also within walkable distance (and might be less crowded!). Plan your trip at [metro.net](https://www.metro.net/)
+All metro rail lines including Orange and Silver Lines run **24 hours** on New Year’s Eve with **free fares from 9pm–2am**. While the Metro Red/Purple Line *Civic Center/Grand Park Station* exits directly into Grand Park, the Gold Line to the *Little Tokyo/Arts District Station* and the Red Line Union Station are also within walkable distance (and might be less crowded!). Plan your trip at [metro.net](https://www.metro.net/)
 
 ### Taking Rideshare Like Lyft Or Uber?
 
