@@ -232,7 +232,7 @@ Oh wow! See large pieces floating and glowing throughout the space. -->
 
 Snap the final photos of 2017 at one of our photo booths.
 
-### Food
+### Food Trucks
 
 Coming soon!
 
