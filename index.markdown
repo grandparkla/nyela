@@ -230,7 +230,7 @@ Oh wow! See large pieces floating and glowing throughout the space. -->
 
 ### Photo Booth
 
-Snap the final photos of 2017 at a photo booth.
+Snap the final photos of 2017 at one of our photo booths.
 
 ### Food
 
