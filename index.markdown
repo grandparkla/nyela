@@ -301,7 +301,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 Go Metro:
 Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2017 to 2 a.m. on January 1, 2018. While the Metro Red/Purple Line to Civic Center/Grand Park Station exits directly into Grand Park, Pershing Square Station and Union Station are also within walkable distance (and might be less crowded!). Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.466.3876).
 
-Ride a Metro Bike to NYELA! Check out and return your bike to nearby stations Main & 1st or Grand & Temple. See [Station Map] (https://bikeshare.metro.net/stations/) for a full list of stations.
+Ride a Metro Bike to NYELA! Check out and return your bike to nearby stations Main & 1st or Grand & Temple. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
 
 
 ### Taking Rideshare Like Lyft Or Uber?
