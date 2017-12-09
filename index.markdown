@@ -105,6 +105,17 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
+## Featured Artists
+
+Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Chris Pierce, Kam Talbert, and more
+
+The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
+
+DJ Francesca Harding
+
+Hosted by D'Lo
+
+
 ## Event Schedule
 
 Coming soon!
@@ -112,7 +123,7 @@ Coming soon!
 <!--
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food) will run until 1am. The event ends at 1am on January 1.
 
-*Experience some of L.A.’s best at the three music stages:*
+*Experience some of L.A.’s best at the three music stages:* 
 
 ### Countdown Stage
 
