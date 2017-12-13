@@ -57,8 +57,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Flag poles
 * Generators
 * Glass
-* Identity-covering
-* Costumes
+* Identity-covering costumes
 * Narcotics
 * Sealed or open beverage bottles with liquid, including water (fountains and water for purchase will be available)
 * Projection devices
