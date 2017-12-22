@@ -479,7 +479,9 @@ See the highlights from last year’s event:
       <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
     </ul>
     <ul class="nav">
+      <!--
       <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
+      -->
       <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
       <li><a href="http://grandparkla.org/sign-up/">Newsletter</a></li>
       <li><a href="http://grandparkla.org/media/">Press</a></li>
