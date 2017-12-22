@@ -244,10 +244,9 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 
 Coming soon!
 
-The event will take place at Grand Park:
+<!--The event will take place at Grand Park:
 [200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
-<!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. Sign up for more Grand Park \+ The Music Center updates or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
 
 <figure>
@@ -268,6 +267,9 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 -->
+
+## Fun Stuff to Hear, See and Do!
+
 ### 2 Music Stages
 
 Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
@@ -290,16 +292,17 @@ Snap the final photos of 2017 at one of our photo booths.
 
 ### Food Trucks
 
-Belly Bombz 
-Cocina Fresca by Mangia 
-Cousins Maine Lobster 
-The Deli Dr. 
-India Jones Chow Truck 
-The Paradise Truck
-The Pudding Truck
-The Queso Truck 
-The Surfer Taco
+* Belly Bombz 
+* Cocina Fresca by Mangia 
+* Cousins Maine Lobster 
+* The Deli Dr. 
+* India Jones Chow Truck 
+* The Paradise Truck
+* The Pudding Truck
+* The Queso Truck 
+* The Surfer Taco
 ...and more to be announced!
+
 <!--
 Vendors cranking out nom noms:
 
