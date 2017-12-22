@@ -132,9 +132,11 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 
-The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
-
 DJ Francesca Harding
+
+The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
+![DJ Babu](/images/artist/babu.jpg)
+![Mr. Choc](/images/artist/mrchoc.jpg)
 
 Hosted by D'Lo
 
