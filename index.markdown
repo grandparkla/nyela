@@ -147,33 +147,36 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 ### Countdown Stage
 
-Located at Grand Park’s Event Lawn in front of City Hall
-Host: D’Lo
-8:00 PM – 9:00 PM 
-DJ Francesca Harding
+#### Located at Grand Park’s Event Lawn in front of City Hall
 
-9:00 PM – 9:30 PM	
-Raquel Rodriguez
+_Hosted by: D’Lo_
 
-9:30 PM – 10:00 PM	
-DJ Francesca Harding
+8:00 to 9:00 p.m.
+: DJ Francesca Harding
 
-10:00 PM – 10:30 PM 
-Raquel Rodriguez
+9:00 to 9:30 p.m.
+: Raquel Rodriguez
 
-10:45 PM – 11:30 PM	
-Dexter Story New Year's Eve All Star Band 
+9:30 to 10:00 p.m.
+: DJ Francesca Harding
 
-11:30 PM – 11:45 PM	
-DJ Francesca Harding 
+10:00 to 10:30 p.ml
+: Raquel Rodriguez
 
-11:45 PM – 11:55 PM	
-Dexter Story New Year's Eve All Star Band w/Raquel Rodriguez
+10:45 p.m. to 11:30 p.m.
+: Dexter Story New Year's Eve All Star Band 
 
-11:55 PM – 12:00 AM	
-**All eyes on City Hall for Countdown to 2018** 
+11:30 p.m. to 11:45 p.m.
+: DJ Francesca Harding 
 
-12:00 AM – 1:00 AM Dexter Story New Year's Eve All Star Band 
+11:45 p.m. to 11:55 p.m.
+: Dexter Story New Year's Eve All Star Band w/Raquel Rodriguez
+
+**11:55 p.m. to 12:00 a.m.**
+: **All eyes on City Hall for Countdown to 2018** 
+
+12:00 a.m. to 1:00 a.m.
+: Dexter Story New Year's Eve All Star Band 
 
 <!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
@@ -204,20 +207,21 @@ Dexter Story New Year's Eve All Star Band w/Raquel Rodriguez
 
 ### Get Down Stage
 
-Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
-Host: Mr. Choc
+#### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
-8:00 PM – 8:25 PM 
-The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs 
+_Host by: Mr. Choc_
 
-8:30 PM – 11:55PM	
-The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut 
+8:00 p.m. to 8:25 p.m.
+: The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs 
 
-11:55 PM – 12:00 AM	
-**All eyes on City Hall for Countdown to 2018** 
+8:30 p.m. to 11:55 p.m.
+: The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut 
 
-12:00 AM – 1:00AM	
-The Beat Junkies
+**11:55 p.m. to 12:00 a.m.**
+: **All eyes on City Hall for Countdown to 2018** 
+
+12:00 a.m. to 1:00 a.m.
+: The Beat Junkies
 
 <!--
 Hosted by: *[Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)*
@@ -389,10 +393,15 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ### Go Metro
 
-Go Metro:
-Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2017 to 2 a.m. on January 1, 2018. While the Metro Red/Purple Line to Civic Center/Grand Park Station exits directly into Grand Park, Pershing Square Station and Union Station are also within walkable distance (and might be less crowded!). Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.466.3876).
+Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2017 to 2 a.m. on January 1, 2018.
 
-Ride a Metro Bike to NYELA! Check out and return your bike to nearby stations Main & 1st or Grand & Temple. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
+While the Metro Red/Purple Line to _Civic Center/Grand Park Station_ exits directly into Grand Park, _Pershing Square Station_ and _Union Station_ are also within walkable distance (and might be less crowded!) 
+
+Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.466.3876).
+
+### Ride a Metro Bike to NYELA!
+
+Check out and return your bike to nearby stations _Main & 1st_ or _Grand & Temple_. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
 
 
 ### Taking Rideshare Like Lyft Or Uber?
@@ -408,10 +417,12 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 *This address is for navigation only and is not an official event or affiliate address.*
 
-
 ### Bicycle Parking
 
-[LA County Bicycle Coalition](http://la-bike.org/)’s Bike Valet available at [Broadway and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047). The valet service is **free**.
+Valet parking for bicycles will be available at [Broadway and West 2nd Street](https://www.google.com/maps/place/W+2nd+St+%26+S+Broadway,+Los+Angeles,+CA+90012/@34.0524028,-118.2488869,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64ea867361b:0xc143f475fbc36043!8m2!3d34.0524028!4d-118.2466929).
+
+The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](http://la-bike.org/).
+
 
 <!--
 ## N.Y.E.L.A. 2017
