@@ -74,7 +74,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 
 ### A Note for Beautiful Los Angeles
 
-This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, say something.**
+This is a space for unity – where Angelenos and visitors from all around the world can celebrate together. Any bullying, discrimination, or hateful acts are not allowed in this space.  **If you are an attendee, and you see something, reach out to security or staff (they will be wearing pink vests) for assistance.**
 
 ### The Following Is Also Prohibited at This Event
 
@@ -106,7 +106,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
-Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Chris Pierce, Kam Talbert, and more
+Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 
 The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
@@ -117,16 +117,41 @@ Hosted by D'Lo
 
 ## Event Schedule
 
-Coming soon!
-
-<!--
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food) will run until 1am. The event ends at 1am on January 1.
 
-*Experience some of L.A.’s best at the three music stages:* 
+*Experience some of L.A.’s best on two music stages:* 
 
 ### Countdown Stage
 
-Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
+Located at Grand Park’s Event Lawn in front of City Hall
+Host: D’Lo
+8:00 PM – 9:00 PM 
+DJ Francesca Harding
+
+9:00 PM – 9:30 PM	
+Raquel Rodriguez
+
+9:30 PM – 10:00 PM	
+DJ Francesca Harding
+
+10:00 PM – 10:30 PM 
+Raquel Rodriguez
+
+10:45 PM – 11:30 PM	
+Dexter Story New Year's Eve All Star Band 
+
+11:30 PM – 11:45 PM	
+DJ Francesca Harding 
+
+11:45 PM – 11:55 PM	
+Dexter Story New Year's Eve All Star Band w/Raquel Rodriguez
+
+11:55 PM – 12:00 AM	
+**All eyes on City Hall for Countdown to 2018** 
+
+12:00 AM – 1:00 AM Dexter Story New Year's Eve All Star Band 
+
+<!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 08:00pm—09:00pm
 : *[DJ Expo](https://soundcloud.com/expothedj)*
@@ -151,9 +176,26 @@ Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 12:00am—12:50am
 : *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
+-->
 
 ### Get Down Stage
 
+Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
+Host: Mr. Choc
+
+8:00 PM – 8:25 PM 
+The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs 
+
+8:30 PM – 11:55PM	
+The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut 
+
+11:55 PM – 12:00 AM	
+**All eyes on City Hall for Countdown to 2018** 
+
+12:00 AM – 1:00AM	
+The Beat Junkies
+
+<!--
 Hosted by: *[Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)*
 
 08:00pm—08:40pm
@@ -238,14 +280,26 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 
 Oh wow! See large pieces floating and glowing throughout the space. -->
 
-### Photo Booth
+### Digital Dance Zone
+
+Step into the new Digital Dance Zone, and your dance moves will transform into larger-than-life images that will be projected on the side of the LA County Hall of Records building!
+
+### Photo Booths
 
 Snap the final photos of 2017 at one of our photo booths.
 
 ### Food Trucks
 
-Coming soon!
-
+Belly Bombz 
+Cocina Fresca by Mangia 
+Cousins Maine Lobster 
+The Deli Dr. 
+India Jones Chow Truck 
+The Paradise Truck
+The Pudding Truck
+The Queso Truck 
+The Surfer Taco
+...and more to be announced!
 <!--
 Vendors cranking out nom noms:
 
