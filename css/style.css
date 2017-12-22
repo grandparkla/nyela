@@ -1,0 +1,998 @@
+
+  @charset "utf-8";
+
+  /*
+  Grand Park LA Style Sheet
+
+  Sections are grouped under headings with a “=” symbol,
+  to make searching easier.
+
+  When a style is used more than once, it sometimes has a “@keyword”
+  in a comment next to it (to help with search and replace).
+
+  For example…
+
+  16px  @font-size
+  24px  @line-height
+  32em  @page-max-width
+  */
+
+
+  /* =Colors
+  ----------------------------------------------- */
+  body {
+    background: rgb(252, 254, 252);
+
+    color: rgb(252, 239, 71); /* @yellow */
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    color: rgb(140, 197, 65); /* @green */
+    color: rgb(90, 150, 55); /* @mediumgreen */
+
+    color: rgb(2, 4, 2);
+    color: rgb(76, 78, 76);
+  }
+
+  strong {
+    font-weight: inherit;
+    font-style: italic;
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+  small {
+    font-style: italic;
+  }
+
+  h1, h2 {
+    color: rgb(235, 12, 128); /* @pink */
+  }
+
+  a {
+    color: inherit;
+    color: rgb(90, 150, 55); /* @mediumgreen */
+    transition: color 0.2s;
+    /*
+    text-decoration: none;
+    */
+  }
+  a[href]:hover,
+  a[href]:active,
+  a[href]:focus {
+    color: rgb(235, 12, 128); /* @pink */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: underline;
+  }
+
+  .action a {
+    display: inline-block;
+    text-align: center;
+    padding: 0.725em 1.45em;
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white !important;
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: none;
+    border-radius: 0.25em;
+    transition: background-color 0.2s, color 0.2s;
+    font-weight: bold;
+
+  }
+  .action a:hover,
+  .action a:active,
+  .action a:focus {
+    background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    text-decoration: none;
+  }
+
+
+  /* =Fields
+  ----------------------------------------------- */
+  textarea {
+    margin: 0.725em 0 0 0;
+    font-size: inherit;
+    font-family: inherit;
+    padding: 0;
+    border: 2px solid rgb(242, 244, 242);
+    background: rgb(242, 244, 242);
+    padding: 0.725em 1.45em;
+    width: 100%;
+    box-sizing: border-box;
+    line-height: 1.45;
+    min-height: 4.35em;
+    text-align: center;
+  }
+
+
+  /* =Type
+  ----------------------------------------------- */
+  body {
+    font: 100%/1.45 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.714285714;
+    margin: 0;
+    padding: 0 1.45em 0;
+  }
+
+  @media (min-width: 40em) {
+    body {
+      padding: 0 2.9em 0;
+    }
+  }
+
+  /* OPTIONAL: Increase the font size on big screens. */
+  @media screen and (min-width: 600px) and (min-height: 600px) {
+    html {
+      font-size: 112.5%;
+    }
+  }
+  @media screen and (min-width: 800px) and (min-height: 800px) {
+    html {
+      font-size: 125%;
+    }
+  }
+  @media screen and (min-width: 1000px) and (min-height: 1000px) {
+    html {
+      font-size: 137.5%;
+    }
+  }
+  @media screen and (min-width: 1200px) and (min-height: 1200px) {
+    html {
+      font-size: 150%;
+    }
+  }
+
+  /* SHIM: Siteleaf insists on adding paragraphs inside lists. */
+  li p {
+    margin: 0;
+  }
+
+  /* Limit line lengths, for readability. */
+  h1, h2, h3, h4, p, ol, ul, dl, .map, .video, figure {
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.725em;
+    margin-bottom: 0.725em;
+  }
+
+  .time,
+  dt {
+    /*
+    color: rgb(57, 174, 215);
+    */
+  }
+  /*
+  dd a {
+    font-style: italic;
+  }
+  dd a:first-child::after {
+    content: ":";
+  }
+  */
+
+  dt {
+    /*
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    */
+    margin-top: 0.75em;
+
+  }
+  /*
+  dd {
+    padding-bottom: 0.375em;
+  }
+  @media (min-width: 40em) {
+    dl {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, calc(50% - 1.625rem));
+      grid-gap: 3.25rem;
+    }
+  }
+  */
+
+
+  /* =Links
+  ----------------------------------------------- */
+  a img {
+    border-width: 0; /* For Explorer */
+  }
+
+
+  /* =Headlines
+  ----------------------------------------------- */
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin-top: 1.45rem;
+    margin-bottom: 0.725rem;
+  }
+  h1,
+  h2 {
+    font-size: 1.75em;
+    line-height: 1.2428571429;
+    font-size: 1.375em;
+    line-height: 1.5818181818;
+    margin-top: 2.7rem;
+  }
+  h3 {
+    font-size: inherit;
+  }
+  h4 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  h3 + h4 {
+    margin-top: 0;
+  }
+  @media (min-width: 50em) {
+    h1,
+    h2 {
+      margin-top: 2.9rem;
+      padding-top: 2.8rem;
+    }
+    h3 {
+      margin-top: 1.45rem;
+    }
+  }
+
+
+  /* =Header
+  ----------------------------------------------- */
+  header h1 {
+    font-size: inherit;
+    background: rgb(147, 0, 100) radial-gradient(circle at bottom left, rgb(235, 0, 139), rgb(6, 0, 37)) !important;
+    color: white;
+    position: relative;
+/*
+    padding-left: 1.45em;
+    padding-right: 1.45em;
+    padding-top: 1.45em;
+    padding-bottom: 1.45em;
+*/
+    margin: 0 -1.45em;
+    text-align: center;
+    position: relative;
+    max-width: none;
+    overflow-y: hidden;
+  }
+  @media (min-width: 40em) {
+    header h1 {
+      margin: 0 -2.9em;
+    }
+  }
+  header h1 img {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  header h1 svg {
+    display: block;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 500px;
+    height: 100vw;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    header h1 svg {
+      height: 50vw;
+    }
+  }
+
+
+  /* =Icon Button
+  ----------------------------------------------- */
+  a.has-icon {
+    display: block;
+    position: relative;
+    text-decoration: none
+  }
+  figure > div[data-aspect-ratio] a.has-icon {
+    position: absolute;
+  }
+
+  .has-icon .icon {
+    position: absolute;
+    top: 0.725em;
+    right: 0.725em;
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
+    padding: 0.35em 0.4em 0em 0.4em;
+    border-radius: 0.3125em;
+    color: black;
+    transition: background-color 0.2s;
+    font-size: 1.5em;
+  }
+  .has-icon .icon.play {
+    top: 50%;
+    left: 50%;
+    right: auto;
+    padding: 0.725em 1.45em 0.3625em 1.45em;
+    margin-top: -1.0875em; /* (line height + vertical padding) / 2    (1.45em + 1.45em) / 2  */
+    margin-left: -1.95em; /* (icon width + horizontal padding) / 2    (1em + 2.9em) / 2  */
+  }
+
+  .has-icon:hover .icon,
+  .has-icon:active .icon,
+  .has-icon:focus .icon {
+    background-color: white
+  }
+
+  .has-icon .icon {
+    vertical-align: middle
+  }
+
+  .has-icon svg {
+    width: 1em;
+    height: 1em
+  }
+
+  .has-icon svg polygon {
+    fill: currentColor
+  }
+
+
+  .has-icon .credit {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
+    color: black;
+    font-size: 0.75em;
+    padding: 0.25em 0.5em;
+  }
+
+
+
+  /* =Footer
+  ----------------------------------------------- */
+  .powered-by,
+  .legal,
+  .top {
+    text-align: center;
+  }
+  .powered-by {
+    max-width: none;
+    color: inherit;
+  }
+  .powered-by a,
+  .powered-by span {
+    text-decoration: none;
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  .legal,
+  .top {
+    margin: 2.9em auto;
+  }
+  .logos {
+    margin-top: 1.45em;
+    margin-bottom: 1.45em;
+    max-width: none;
+    text-align: center;
+  }
+  @media (min-width: 45em) {
+    .logos {
+      margin-top: 4.35em;
+      margin-bottom: 4.35em;
+    }
+    .legal,
+    .top {
+      margin-top: 4.35em;
+      margin-bottom: 5.8em;
+    }
+  }
+  .logos,
+  .logos li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .logos li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1.45em;
+  }
+  .logos img {
+    width: auto;
+    height: 2.9em;
+  }
+  @media (min-width: 100em) {
+    .logos li {
+      font-size: 1.5em;
+    }
+  }
+
+
+  /* =Images
+  ----------------------------------------------- */
+  @media (max-width: 40em) {
+    figure,
+    .video,
+    .map {
+      margin-left: -1.45em;
+      margin-right: -1.45em;
+    }
+  }
+  figure,
+  .map,
+  .video {
+    margin-top: 1.45em;
+    position: relative;
+  }
+  @media (min-width: 45em) {
+    .map,
+    figure,
+    .video {
+      margin-top: 2.9em;
+      margin-bottom: 2.9em;
+    }
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* OPTIONAL: Show a preview image while the real image is loading */
+  figure > div {
+    background: rgb(204, 206, 204);
+    position: relative;
+    text-align: center;
+
+    /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
+    overflow: hidden;
+
+    /* TRICKY: This causes iOS 7 & 8 to crash.
+    -webkit-transform: translate3d(0, 0, 0);
+    */
+  }
+  figure > div img {
+    display: block;
+    width: 100%;
+  }
+  figure > div[data-aspect-ratio] a,
+  figure > div[data-aspect-ratio] img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+  }
+  figure > div[data-aspect-ratio] a {
+    height: 100%;
+  }
+  figure > div img {
+    position: relative;
+  }
+  figure > div img.preview {
+    position: absolute;
+    margin: calc(-3em);
+    width: calc(100% + 6em) !important;
+    -webkit-filter: blur(1.5em);
+            filter: blur(1.5em);
+  }
+
+  figure > div[data-aspect-ratio="1280/720"] {
+    padding-bottom: 56.25%;
+  }
+
+  figure > div[data-aspect-ratio="1687/2587"] {
+    padding-bottom: 153.33333333%; 
+  }
+
+  figure > div[data-aspect-ratio="853/940"] {
+    padding-bottom: 110.1992966%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1678/940"] {
+      padding-bottom: 56.01907032%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="600/300"] {
+    padding-bottom: 50%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1920/465"] {
+      padding-bottom: 24.21875%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="1/1"] {
+    padding-bottom: 100%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="2/1"] {
+      padding-bottom: 50%;
+    }
+  }
+
+
+  /* =Map
+  ----------------------------------------------- */
+  .map iframe {
+    width: 100%;
+    height: 500px;
+    max-height: 50vh;
+  }
+
+
+  /* =Video
+  ----------------------------------------------- */
+  .video div {
+    display: block;
+    position: relative;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+
+  /* =Navigation
+  ----------------------------------------------- */
+  body > ul:first-of-type,
+  body > ul:first-of-type li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  body > ul:first-of-type {
+    margin-left: auto;
+    margin-top: 2.175em;
+    margin-bottom: 1.45em;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  @media (min-width: 40em) {
+    body > ul:first-of-type {
+      margin-top: 3.625em;
+      margin-bottom: 2.175em;
+    }
+  }
+  body > ul:first-of-type li {
+    display: inline-block;
+    margin-right: 0.25em;
+    margin-bottom: 0.25em;
+    flex-grow: 1;
+  }
+  body > ul:first-of-type a {
+    display: block;
+    text-align: center;
+    padding: 0.725em 1.45em;
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    text-decoration: none;
+    border-radius: 0.25em;
+    transition: background-color 0.2s, color 0.2s;
+    font-weight: bold;
+  }
+  body > ul:first-of-type a[href]:hover,
+  body > ul:first-of-type a[href]:active,
+  body > ul:first-of-type a[href]:focus {
+    background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(90, 150, 55); /* @mediumgreen */
+    color: white;
+    text-decoration: none;
+  }
+
+
+  /* =Header
+  ----------------------------------------------- */
+  .header {
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+  }
+  .header .logo,
+  .tagline {
+    max-width: none;
+  }
+  .logo {
+    margin-top: 0;
+    margin-bottom: 0.725em;
+    font-size: inherit;
+    padding-top: 1.45em;
+    color: rgb(235, 12, 128); /* @pink */
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+  .header .logo {
+    border-top: 0.3625em solid;
+
+    padding-top: 2.375em;
+    /*
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+    */
+  }
+  footer .logo {
+    text-align: center;
+    margin-bottom: 2.175em;
+    color: inherit;
+  }
+  footer .logo svg {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .logo a,
+  .logo a[href]:hover,
+  .logo a[href]:active,
+  .logo a[href]:focus {
+    color: inherit;
+  }
+  .header svg * {
+    fill: currentColor;
+  }
+  .header svg {
+    display: block;
+    height: 1em; /* 1.45*1.5 */
+  }
+  .tagline {
+    margin-top: 0.725em;
+    margin-bottom: 0.725em;
+    /*
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+    */
+    background-color: rgb(140, 197, 65); /* @green */
+    color: rgb(41, 96, 46); /* @darkgreen */
+    padding: 0.3625em 1.45em;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    background-color: transparent;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .nav-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    /*
+    right: -1.45em;
+    */
+  }
+  .nav-link a {
+    font-size: 0.75em;
+    display: inline-block;
+    text-align: center;
+    padding: 1.9333333333em; /* 1.45 / 0.75em */
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+  }
+  .nav-link a:hover,
+  .nav-link a:active,
+  .nav-link a:focus {
+    color: rgb(39, 183, 234); /* @skyblue */
+    color: rgb(252, 248, 187); /* @lightyellow */
+  }
+
+
+  /* =Footer
+  ----------------------------------------------- */
+  footer .logo {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2.175em;
+    color: inherit;
+  }
+  footer .logo svg {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .logo a {
+    color: inherit;
+  }
+  .logo a[href]:hover,
+  .logo a[href]:active,
+  .logo a[href]:focus {
+    color: inherit;
+  }
+  .logo svg * {
+    fill: currentColor;
+  }
+  svg.grand-park {
+    display: block;
+    height: 2.175em; /* 1.45 * 1.5 */
+    width: 9.5458333333em; /* 158/36 * 2.175em */
+  }
+  footer ul,
+  footer li {
+    max-width: none;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  footer {
+    text-align: center;
+    background-color: rgb(252, 239, 71); /* @yellow */
+    background-color: rgb(235, 12, 128); /* @pink */
+    color: rgb(252, 239, 71); /* @yellow */
+    margin-top: 0;
+    text-align: center;
+    padding: 2.9em 1.45em;
+    margin-bottom: 4.35em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  @media (min-width: 40em) {
+    footer {
+      padding: 2.9em;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
+    }
+  }
+  footer h2 {
+    color: rgb(252, 239, 71); /* @yellow */
+  }
+  footer .nav {
+    max-width: none;
+    margin: 0;
+    padding-top: 0.725em;
+    padding-bottom: 0.725em;
+    background-color: transparent;
+    text-align: center;
+  }
+  footer li a {
+    display: inline-block;
+    padding: 0.3625em 1.45em;
+    color: inherit;
+  }
+  footer li a:hover,
+  footer li a:active,
+  footer li a:focus {
+    color: inherit !important;
+  }
+  .social,
+  .social li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .social li {
+    display: inline-block;
+    margin: 0.725em;
+  }
+  .social a {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 0.54375em;
+  }
+  .social svg {
+    display: block;
+    width: 1.45em;
+    height: 1.45em;
+  }
+  .social svg path {
+    fill: currentColor;
+  }
+
+
+  footer ul,
+  footer li {
+    max-width: none;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  main + footer {
+    margin-top: 0;
+  }
+  footer h2 {
+    color: rgb(252, 239, 71); /* @yellow */
+  }
+  footer .navigation-lists {
+    margin-top: 2.25em;
+    font-size: 1.25em;
+  }
+  @media (min-width: 40em) { /* @medium */
+    footer .navigation-lists {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, calc(33.3333% - 2.1666666667rem));
+      grid-gap: 3.25rem;
+    }
+  }
+  footer li a {
+    display: inline-block;
+    padding: 0.3625em 1.45em;
+    color: inherit;
+    text-decoration: none;
+  }
+
+
+  .social-links,
+  .social-links li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .social-links {
+    margin-top: 3em !important;
+    font-size: 2rem;
+    max-width: none;
+  }
+  .social-links {
+    text-align: center;
+    max-width: none;
+  }
+  .social-links li {
+    display: inline;
+    margin: 0 0.5em;
+  }
+  .social-links li a {
+    text-decoration: none;
+  }
+  .social-links svg {
+    width: 1.5em;
+    height: 1.5em;
+  }
+
+
+  /* =Type
+  ----------------------------------------------- */
+
+  .entry-header .entry-title,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(235, 12, 128); /* @pink */
+  }
+  .entry-header .entry-title,
+  h1 {
+    font-size: 2.5em;
+    font-size: 1.5em;
+  }
+  .entry-content h1,
+  .entry-content h2,
+  h2 {
+    font-size: 2em;
+    margin-top: 3em;
+    font-size: 1.5em;
+  }
+  .entry-content h3,
+  h3 {
+    font-size: 1.5em;
+  }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit !important;
+  }
+  h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+    font-weight: inherit;
+  }
+
+
+  h2.powered-by {
+    max-width: none;
+    color: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    text-transform: inherit;
+    font-size: 1.45em;
+    line-height: 1.5818181818; /* (1.45 / 1.375) x 1.5 */
+    margin-bottom: 4.35em;
+  }
+  h2.powered-by a,
+  h2.powered-by span {
+    display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
+  }
+  h2.powered-by a[href] {
+    color: rgb(90, 150, 55) !important; /* @mediumgreen */
+  }
+  h2.powered-by a[href]:hover,
+  h2.powered-by a[href]:active,
+  h2.powered-by a[href]:focus {
+    color: rgb(41, 96, 46) !important; /* @darkgreen */
+  }
+
+  h3,
+  h4 {
+    font-weight: normal;
+    font-weight: bold;
+    font-style: italic;
+    color: inherit;
+    text-transform: none;
+  }
+  h3 {
+    margin-top: 2.9rem;
+    font-size: 1.25em;
+  }
+  h4 {
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: inherit;
+  }
+
+  figure.feature {
+    max-width: none;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
+  }
+  @media (min-width: 40em) {
+    figure.feature {
+      max-width: none;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
+    }
+  }
+
+  header h1,
+  .map.feature div {
+    background: black;
+    background-image: url(/images/stars-1024wide.jpg);
+    background-size: 100% auto;
+    color: rgb(252, 248, 187); /* @lightyellow */
+    color: white;
+  }
+
+  @media (max-width: 40em) {
+    header h1 {
+      background-size: auto 100%;
+    }
+  }
+
+  @media (min-width: 384px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-1536wide.jpg);
+    }
+  }
+
+  @media (min-width: 512px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-2048wide.jpg);
+    }
+  }
+
+  @media (min-width: 768px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-3072wide.jpg);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-4096wide.jpg);
+    }
+  }
+
+  @media (min-width: 1536px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-5120wide.jpg);
+    }
+  }
+
+  @media (min-width: 2048px) {
+    header h1,
+    .map.feature {
+      background-image: url(/images/stars-6720wide.jpg);
+    }
+  }
