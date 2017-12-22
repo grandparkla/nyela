@@ -160,7 +160,7 @@ _Hosted by: D’Lo_
 9:30 to 10:00 p.m.
 : DJ Francesca Harding
 
-10:00 to 10:30 p.ml
+10:00 to 10:30 p.m.
 : Raquel Rodriguez
 
 10:45 p.m. to 11:30 p.m.
