@@ -141,7 +141,9 @@ Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, J
 DJ Francesca Harding
 
 The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
+
 ![DJ Babu](/images/artist/babu.jpg)
+
 ![Mr. Choc](/images/artist/mrchoc.jpg)
 
 Hosted by D'Lo

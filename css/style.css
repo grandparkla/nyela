@@ -441,6 +441,12 @@
     height: auto;
   }
 
+  /* SHIM: Make artist images a little smaller */
+  img[src*="images/artist"] {
+    width: 100%;
+    max-width: 25em;
+  }
+
   /* OPTIONAL: Show a preview image while the real image is loading */
   figure > div {
     background: rgb(204, 206, 204);
