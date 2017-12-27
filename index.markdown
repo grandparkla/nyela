@@ -340,63 +340,62 @@ Snap the final photos of 2017 at one of our photo booths.
 
 ### Food Trucks
 
-* Austyn's Burger
-* Banh Mi in LA
+* [Austyn's Burger](http://www.austynsburger.com)
+* [Banh Mi in LA](https://twitter.com/banhmiinla)
 * [Belly Bombz](http://www.bellybombz.com)
 * Beverage and Water Truck
-* Beverage and Water Truck
-* Blast Ice Cream
+* [Blast Ice Cream](http://www.blast-ic.com)
 * [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)
 * [Brew Wings](http://brewwing.com)
 * [Canvas food truck](https://www.canvasfoodsla.com)
-* Chancho's Tacos
-* Cocina Fresca by Mangia
-* Cousins Maine Lobster
-* Creations Cup Cake Truck
-* District Burger
-* Epic Gourmet Tacos
+* [Chancho's Tacos](http://www.chanchostacos.com)
+* [Cocina Fresca by Mangia](https://www.cocinafrescatruck.com)
+* [Cousins Maine Lobster](https://www.cousinsmainelobster.com/los-angeles)
+* [Dreamy Creations Cupcake Truck](https://www.dreamycreations.com)
+* [District Burger](https://www.facebook.com/districtburgerla)
+* [Epic Gourmet Tacos](http://www.epictacosla.com)
 * Food Truck Man
 * [Go Fusion Grill](https://www.yelp.com/biz/go-fusion-n-grill-sun-valley)
-* Heritage LA
-* India Jones Chow Truck
-* King Kone Ice Cream
-* Kogi BBQ
-* Kona Ice
-* Main Squeeze Lemonade
-* Mapuche Native Argentinian Food
-* Meat the Greek
-* Middle Feast
-* Oaxaca on wheels
-* Paradise Cookies and Ice Cream
-* Phillyfornia
-* Pinch of flavor food truck
+* [Heritage LA](http://www.heritagelacatering.com)
+* [India Jones Chow Truck](http://indiajoneschowtruck.com)
+* [King Kone Ice Cream](http://www.kingkonela.com)
+* [Kogi BBQ](http://kogibbq.com)
+* [Kona Ice](https://www.kona-ice.com)
+* [Main Squeeze Lemonade](http://www.mainsqueezela.com)
+* [Mapuche Native Argentinian Food](http://www.mapuchenative.com)
+* [Meat the Greek](http://www.meat-the-greek.com)
+* [Middle Feast](http://themiddlefeastfoodtruck.com)
+* [Oaxaca on wheels](http://oaxacaonwheels.com)
+* [Paradise Cookies and Ice Cream](http://www.theparadisetruck.com)
+* [Phillyfornia](https://www.facebook.com/phillyfornia1)
+* [Pinch of flavor food truck](http://pinchofflavortruck.com)
 * [Rice balls of fire](https://riceballsoffire.com)
 * [Richeeze Melts](https://www.richeezemelts.com)
-* Roll'n Lobster
-* Rushed art food truck
-* SLAMMIN SLIDERS
-* Slanging Corea
-* Socal Caribbean
-* Spitz Truck
+* [Roll'n Lobster](http://www.rollnlobster.com)
+* [Rushed art food truck](http://www.rushedartfoodtruck.com)
+* [SLAMMIN SLIDERS](http://www.slamminsliders.com)
+* [Slanging Corea](https://www.yelp.com/biz/slanging-corea-los-angeles-132)
+* [Socal Caribbean](http://www.socalcaribbeanfoodtruck.com)
+* [Spitz Truck](https://twitter.com/spitztruckla)
 * [Street Kitchen LA](http://www.streetkitchenla.com)
-* Surfin Sumo
-* Tender Grill Gourmet Brazilian Kitchen
-* Thai-Mex Cocina
-* The Falafel Factory
-* The Grilled Cheese Truck
-* The Paradise Truck
-* The Pudding Truck
-* The Queso Truck
-* The Taco Cartel
-* The Triple Threat Truck
-* The Waffel Oh Truck
+* [Surfin Sumo](http://surfinsumo.com)
+* [Tender Grill Gourmet Brazilian Kitchen](https://twitter.com/tender_grill)
+* [Thai-Mex Cocina](https://www.facebook.com/thaimexcocina)
+* [The Falafel Factory](http://thefalafel-factory.com)
+* [The Grilled Cheese Truck](http://www.thegrilledcheesetruck.com)
+* [The Paradise Truck](http://www.theparadisetruck.com)
+* [The Pudding Truck](https://www.thepuddingtruck.com)
+* [The Queso Truck](https://www.thequesotruck.com)
+* [The Taco Cartel](https://twitter.com/thetacocartella)
+* [The Triple Threat Truck](https://www.thetriplethreattruck.com)
+* [The Waffle Oh Truck](http://thewaffleohtruck.com)
 * [The big cheese](http://thebigcheesesocal.com)*
-* The shrimp and taco stop
+* [The shrimp and taco stop](http://www.theshrimpandtacostop.com)
 * [The surfer taco](http://thesurfertaco.com)
-* Turnt Up Deli
+* [Turnt Up Food Truck](http://turntupfoodtruck.com)
 * [V CHOS](http://vchostruck.com)
-* Wise Barbecue
-* Woody's Grill Truck
+* [Wise Barbecue](https://wisebarbecue.com)
+* [Woody's Grill Truck](https://www.woodysgrilltruck.com)
 
 <!--
 Vendors cranking out nom noms:
