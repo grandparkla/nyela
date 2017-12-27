@@ -398,35 +398,7 @@ Snap the final photos of 2017 at one of our photo booths.
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
 
-<!--
-Vendors cranking out nom noms:
 
-* [Bling Bling Dumplings](http://blingblingdumpling.com/blingblingdumpling/Home.html)
-* [C & C Concessions](http://www.candcconcessions.com/)
-* Candelario’s Tacos
-* [Casa de Brisa](http://www.casadebrisa.com/)
-* [Chano’s Tacos](https://www.yelp.com/biz/chanos-los-angeles-2)
-* Fun Time Kettle Corn
-* [Hawaiian Dancing Grill](https://www.facebook.com/Hawaiian-Dancing-Grill-BBQ-932476513497875/)
-* Isabel’s Hot Dogs
-* [Jacks Thai BBQ](https://www.yelp.com/biz/jacks-thai-b-b-q-cuisine-los-angeles)
-* [Kali Churros ](http://www.city-data.com/ventura-county-ca-restaurants/KALI-CHURROS.html)
-* [Kiddo’s Kettle Korn](https://www.yelp.com/biz/kiddos-kettle-corn-whittier)
-* [Koko Natti Catering](https://www.facebook.com/kokonatti714/)
-* [Leonor’s Mexican Food](http://www.leonorsvegetarian.com/)
-* [Maggie’s](https://www.facebook.com/Maggies-Catering-1709990559324574/) Cocina
-* [Mario’s Tacos](https://www.yelp.com/biz/marios-tacos-pico-rivera)
-* [Pizza On Wheelz](https://www.yelp.com/biz/pizza-on-wheels-east-los-angeles)
-* Pupusas Delmi
-* Ramirez Mex Food
-* Ricas Tortas de Jalisco
-* Street Tacos
-* [Taqueria El Torito](https://www.yelp.com/biz/taqueria-el-torito-plano-2)
-* The Catering Man
-* The King of Kettle Corn
-* Tropicana Funnel Cakes
-* [What the Funnel](http://www.what-the-funnel.com/)
--->
 ## Transportation
 
 The event will take place at Grand Park:
