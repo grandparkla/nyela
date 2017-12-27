@@ -342,7 +342,7 @@ Snap the final photos of 2017 at one of our photo booths.
 
 * Austyn's Burger
 * Banh Mi in LA
-* [Belly Bombz](http://www.bellybombz.com)
+* [Belly Bombz](http://www.bellybombz.com)*
 * Beverage and Water Truck
 * Beverage and Water Truck
 * Blast Ice Cream
