@@ -398,7 +398,6 @@ Snap the final photos of 2017 at one of our photo booths.
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
 
-
 ## Transportation
 
 The event will take place at Grand Park:
