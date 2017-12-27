@@ -137,8 +137,17 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 ## Featured Artists
 
 Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
+ 
+![Dexter Story](/images/artist/dexterstory.jpg) 
+![Raquel Rodriguez](/images/artist/raquelrodriguez.jpg) 
+![Jimetta Rose](/images/artist/jimettarose.png) 
+![Kenneth Crouch](/images/artist/kennethcrouch.jpg) 
+![Kam Talbert](/images/artist/kamtalbert.jpg) 
+
 
 DJ Francesca Harding
+
+![DJ Francesca Harding](/images/artist/djfrancescaharding.jpg) 
 
 The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
@@ -146,8 +155,9 @@ The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
 ![Mr. Choc](/images/artist/mrchoc.jpg)
 
-Hosted by D'Lo
 
+Hosted by D'Lo
+![D'Lo](/images/artist/dlo.jpg) 
 
 ## Event Schedule
 
@@ -330,16 +340,71 @@ Snap the final photos of 2017 at one of our photo booths.
 
 ### Food Trucks
 
-* Belly Bombz 
-* Cocina Fresca by Mangia 
-* Cousins Maine Lobster 
-* The Deli Dr. 
-* India Jones Chow Truck 
+<u>Taste of the World</u> - Dirt Lot 
+
+* Surfin Sumo 
+* Boba Ni Taco
+* The Falafel Factory 
+* The surfer taco 
+* Meat the Greek
+* The Triple Threat Truck
+* Roll'n Lobster
+* Socal Caribbean
+* Thai-Mex Cocina
+* Tender Grill Gourmet Brazilian Kitchen
+* Mapuche Native Argentinian Food
+* Middle Feast
+* Kogi BBQ
+* V CHOS 
+* Rushed art food truck
+* India Jones Chow Truck
+* Slanging Corea
+* Cocina Fresca by Mangia
+* Pinch of flavor food truck
+* Rice balls of fire
+* The Taco Cartel 
+* Banh Mi in LA
+* Beverage and Water Truck
 * The Paradise Truck
+* King Kone Ice Cream
+ 
+
+<u>Street Food</u> - First Street
+* Street Kitchen LA
+* Woody's Grill Truck
+* SLAMMIN SLIDERS
+* BrewWings
+* Chancho's Tacos
+* Wise Barbecue
+* Spitz Truck
+* Richeeze Melts
+* Blast Ice Cream
+* Paradise Cookies and Ice Cream 
+ 
+<u>Lot 26</u> 
+* Cousins Maine Lobster
+* Canvas food truck
+* Austyn's Burger
+* Heritage LA 
+* Belly Bombz
+* District Burger 
+* The shrimp and taco stop
+* Oaxaca on wheels 
+* Epic Gourmet Tacos
+* The Queso Truck
+* Turnt Up Deli
+* The big cheese
+* Phillyfornia
+* District Burger 
+* Main Squeeze Lemonade
 * The Pudding Truck
-* The Queso Truck 
-* The Surfer Taco
-...and more to be announced!
+* Creations Cup Cake Truck
+* Kona Ice 
+* Beverage and Water Truck
+* Go Fusion Grill 
+* Food Truck Man
+* The Grilled Cheese Truck
+* The Waffel Oh Truck
 
 <!--
 Vendors cranking out nom noms:
