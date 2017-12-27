@@ -157,7 +157,6 @@ The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
 
 Hosted by D'Lo
-
 ![D'Lo](/images/artist/dlo.jpg) 
 
 ## Event Schedule
