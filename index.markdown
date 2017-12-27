@@ -342,13 +342,13 @@ Snap the final photos of 2017 at one of our photo booths.
 
 * Austyn's Burger
 * Banh Mi in LA
-* [Belly Bombz](http://www.bellybombz.com)*
+* [Belly Bombz](http://www.bellybombz.com)
 * Beverage and Water Truck
 * Beverage and Water Truck
 * Blast Ice Cream
-* [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)*
-* [Brew Wings](http://brewwing.com)*
-* [Canvas food truck](https://www.canvasfoodsla.com)*
+* [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)
+* [Brew Wings](http://brewwing.com)
+* [Canvas food truck](https://www.canvasfoodsla.com)
 * Chancho's Tacos
 * Cocina Fresca by Mangia
 * Cousins Maine Lobster
