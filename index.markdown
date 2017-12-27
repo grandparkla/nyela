@@ -346,9 +346,9 @@ Snap the final photos of 2017 at one of our photo booths.
 * Beverage and Water Truck
 * Beverage and Water Truck
 * Blast Ice Cream
-* Boba Ni Taco
-* BrewWings
-* Canvas food truck
+* [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)*
+* [Brew Wings](http://brewwing.com)*
+* [Canvas food truck](https://www.canvasfoodsla.com)*
 * Chancho's Tacos
 * Cocina Fresca by Mangia
 * Cousins Maine Lobster
@@ -390,7 +390,7 @@ Snap the final photos of 2017 at one of our photo booths.
 * The Taco Cartel
 * The Triple Threat Truck
 * The Waffel Oh Truck
-* The big cheese
+* [The big cheese](http://thebigcheesesocal.com)*
 * The shrimp and taco stop
 * The surfer taco
 * Turnt Up Deli
