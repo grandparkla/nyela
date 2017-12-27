@@ -356,7 +356,7 @@ Snap the final photos of 2017 at one of our photo booths.
 * District Burger
 * Epic Gourmet Tacos
 * Food Truck Man
-* Go Fusion Grill
+* [Go Fusion Grill](https://www.yelp.com/biz/go-fusion-n-grill-sun-valley)
 * Heritage LA
 * India Jones Chow Truck
 * King Kone Ice Cream
@@ -370,15 +370,15 @@ Snap the final photos of 2017 at one of our photo booths.
 * Paradise Cookies and Ice Cream
 * Phillyfornia
 * Pinch of flavor food truck
-* Rice balls of fire
-* Richeeze Melts
+* [Rice balls of fire](https://riceballsoffire.com)
+* [Richeeze Melts](https://www.richeezemelts.com)
 * Roll'n Lobster
 * Rushed art food truck
 * SLAMMIN SLIDERS
 * Slanging Corea
 * Socal Caribbean
 * Spitz Truck
-* Street Kitchen LA
+* [Street Kitchen LA](http://www.streetkitchenla.com)
 * Surfin Sumo
 * Tender Grill Gourmet Brazilian Kitchen
 * Thai-Mex Cocina
@@ -392,9 +392,9 @@ Snap the final photos of 2017 at one of our photo booths.
 * The Waffel Oh Truck
 * [The big cheese](http://thebigcheesesocal.com)*
 * The shrimp and taco stop
-* The surfer taco
+* [The surfer taco](http://thesurfertaco.com)
 * Turnt Up Deli
-* V CHOS
+* [V CHOS](http://vchostruck.com)
 * Wise Barbecue
 * Woody's Grill Truck
 
