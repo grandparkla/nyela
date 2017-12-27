@@ -397,6 +397,7 @@ Snap the final photos of 2017 at one of our photo booths.
 * [V CHOS](http://vchostruck.com)
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
+
 <!--
 Vendors cranking out nom noms:
 
