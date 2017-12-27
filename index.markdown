@@ -340,71 +340,64 @@ Snap the final photos of 2017 at one of our photo booths.
 
 ### Food Trucks
 
-<u>Taste of the World</u> - Dirt Lot 
-
-* Surfin Sumo 
+* Austyn's Burger
+* Banh Mi in LA
+* Belly Bombz
+* Beverage and Water Truck
+* Beverage and Water Truck
+* Blast Ice Cream
 * Boba Ni Taco
-* The Falafel Factory 
-* The surfer taco 
-* Meat the Greek
-* The Triple Threat Truck
-* Roll'n Lobster
-* Socal Caribbean
-* Thai-Mex Cocina
-* Tender Grill Gourmet Brazilian Kitchen
-* Mapuche Native Argentinian Food
-* Middle Feast
-* Kogi BBQ
-* V CHOS 
-* Rushed art food truck
-* India Jones Chow Truck
-* Slanging Corea
+* BrewWings
+* Canvas food truck
+* Chancho's Tacos
 * Cocina Fresca by Mangia
+* Cousins Maine Lobster
+* Creations Cup Cake Truck
+* District Burger
+* District Burger
+* Epic Gourmet Tacos
+* Food Truck Man
+* Go Fusion Grill
+* Heritage LA
+* India Jones Chow Truck
+* King Kone Ice Cream
+* Kogi BBQ
+* Kona Ice
+* Main Squeeze Lemonade
+* Mapuche Native Argentinian Food
+* Meat the Greek
+* Middle Feast
+* Oaxaca on wheels
+* Paradise Cookies and Ice Cream
+* Phillyfornia
 * Pinch of flavor food truck
 * Rice balls of fire
-* The Taco Cartel 
-* Banh Mi in LA
-* Beverage and Water Truck
-* The Paradise Truck
-* King Kone Ice Cream
- 
-
-<u>Street Food</u> - First Street
-* Street Kitchen LA
-* Woody's Grill Truck
-* SLAMMIN SLIDERS
-* BrewWings
-* Chancho's Tacos
-* Wise Barbecue
-* Spitz Truck
 * Richeeze Melts
-* Blast Ice Cream
-* Paradise Cookies and Ice Cream 
- 
-<u>Lot 26</u> 
-* Cousins Maine Lobster
-* Canvas food truck
-* Austyn's Burger
-* Heritage LA 
-* Belly Bombz
-* District Burger 
-* The shrimp and taco stop
-* Oaxaca on wheels 
-* Epic Gourmet Tacos
-* The Queso Truck
-* Turnt Up Deli
-* The big cheese
-* Phillyfornia
-* District Burger 
-* Main Squeeze Lemonade
-* The Pudding Truck
-* Creations Cup Cake Truck
-* Kona Ice 
-* Beverage and Water Truck
-* Go Fusion Grill 
-* Food Truck Man
+* Roll'n Lobster
+* Rushed art food truck
+* SLAMMIN SLIDERS
+* Slanging Corea
+* Socal Caribbean
+* Spitz Truck
+* Street Kitchen LA
+* Surfin Sumo
+* Tender Grill Gourmet Brazilian Kitchen
+* Thai-Mex Cocina
+* The Falafel Factory
 * The Grilled Cheese Truck
+* The Paradise Truck
+* The Pudding Truck
+* The Queso Truck
+* The Taco Cartel
+* The Triple Threat Truck
 * The Waffel Oh Truck
+* The big cheese
+* The shrimp and taco stop
+* The surfer taco
+* Turnt Up Deli
+* V CHOS
+* Wise Barbecue
+* Woody's Grill Truck
 
 <!--
 Vendors cranking out nom noms:
