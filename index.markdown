@@ -342,7 +342,7 @@ Snap the final photos of 2017 at one of our photo booths.
 
 * Austyn's Burger
 * Banh Mi in LA
-* Belly Bombz
+* [Belly Bombz](http://www.bellybombz.com)
 * Beverage and Water Truck
 * Beverage and Water Truck
 * Blast Ice Cream
@@ -353,7 +353,6 @@ Snap the final photos of 2017 at one of our photo booths.
 * Cocina Fresca by Mangia
 * Cousins Maine Lobster
 * Creations Cup Cake Truck
-* District Burger
 * District Burger
 * Epic Gourmet Tacos
 * Food Truck Man
