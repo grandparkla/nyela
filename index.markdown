@@ -164,7 +164,7 @@ Hosted by D'Lo
 
 Special Guests - The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
 
-![D'Lo](/images/artist/dlo.jpg) 
+![Turns The Tables](/images/artist/turnthetablesdj.jpg)
 
 
 ## Event Schedule
