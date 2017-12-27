@@ -108,6 +108,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 ### The Following Is Also Prohibited at This Event
 
+* Aerosol Cans
 * Amplified Noise
 * Outside solicitation
 * Public intoxication
@@ -159,6 +160,12 @@ The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 Hosted by D'Lo
 
 ![D'Lo](/images/artist/dlo.jpg) 
+
+
+Special Guests - The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
+
+![D'Lo](/images/artist/dlo.jpg) 
+
 
 ## Event Schedule
 
