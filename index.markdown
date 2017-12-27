@@ -426,7 +426,6 @@ Vendors cranking out nom noms:
 * Tropicana Funnel Cakes
 * [What the Funnel](http://www.what-the-funnel.com/)
 -->
-
 ## Transportation
 
 The event will take place at Grand Park:
