@@ -441,12 +441,6 @@
     height: auto;
   }
 
-  /* SHIM: Make artist images a little smaller */
-  img[src*="images/artist"] {
-    width: 100%;
-    max-width: 25em;
-  }
-
   /* OPTIONAL: Show a preview image while the real image is loading */
   figure > div {
     background: rgb(204, 206, 204);
@@ -1010,3 +1004,60 @@
     }
   }
   */
+
+
+  /* =Featured Artists
+  ----------------------------------------------- */
+
+  /* SHIM: Make artist images a little smaller */
+  .featured-artists ul,
+  .featured-artists li {
+    list-style: none;
+    padding-left: 0;
+  }
+  .featured-artists img {
+    display: block;
+    width: 100%;
+  }
+
+  @media (min-width: 40em) {
+    .featured-artists ul {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .featured-artists li {
+      flex-basis: 100%;
+    }
+    .featured-artists li {
+      max-width: 25em;
+    }
+
+    /* In general, items are half of the available width */
+    .featured-artists li:nth-child(n) {
+      flex-basis: 50%;
+    }
+
+    /* If there is an odd number of items, make the last one full-width. */
+    // .featured-artists li:nth-child(2n+1):nth-last-child(1) {
+    //   flex-basis: 100%;
+    // }
+    .featured-artists li:nth-child(1):nth-last-child(5) {
+      flex-basis: 100%;
+      max-width: none;
+    }
+
+    @supports (object-fit: cover) {
+      .featured-artists img[src*="babu"] {
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    .featured-artists img[src*="dlo"],
+    .featured-artists img[src*="turnthetablesdj"] {
+      width: 40em;
+      max-width: none;
+    }
+  }
+
+
+

@@ -175,37 +175,40 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
+<div class="featured-artists" markdown="1">
+
 ## Featured Artists
 
-Dexter Story and the All-Star New Year's Eve Band, featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
- 
-![Dexter Story](/images/artist/dexterstory.jpg) 
-![Raquel Rodriguez](/images/artist/raquelrodriguez.jpg) 
-![Jimetta Rose](/images/artist/jimettarose.png) 
-![Kenneth Crouch](/images/artist/kennethcrouch.jpg) 
-![Kam Talbert](/images/artist/kamtalbert.jpg) 
+### Dexter Story and the All-Star New Year's Eve Band
 
+_featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more_
 
-DJ Francesca Harding
+* ![Dexter Story](/images/artist/dexterstory.jpg)
+* ![Kenneth Crouch](/images/artist/kennethcrouch.jpg) 
+* ![Raquel Rodriguez](/images/artist/raquelrodriguez.jpg)
+* ![Jimetta Rose](/images/artist/jimettarose.png)
+* ![Kam Talbert](/images/artist/kamtalbert.jpg)
 
-![DJ Francesca Harding](/images/artist/djfrancescaharding.jpg) 
+### DJ Francesca Harding
 
-The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
+* ![DJ Francesca Harding](/images/artist/djfrancescaharding.jpg) 
 
-![DJ Babu](/images/artist/babu.jpg)
+### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
-![Mr. Choc](/images/artist/mrchoc.jpg)
+* ![Mr. Choc](/images/artist/mrchoc.jpg)
+* ![DJ Babu](/images/artist/babu.jpg)
 
+### Hosted by D'Lo
 
-Hosted by D'Lo
+* ![D'Lo](/images/artist/dlo.jpg) 
 
-![D'Lo](/images/artist/dlo.jpg) 
+### Special Guests
 
+_The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs_
 
-Special Guests - The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
+* ![Turns the Tables Youth DJs](/images/artist/turnthetablesdj.jpg)
 
-![Turns the Tables Youth DJs](/images/artist/turnthetablesdj.jpg)
-
+</div>
 
 ## Event Schedule
 
