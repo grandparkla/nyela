@@ -1025,7 +1025,7 @@
     max-width: 25em;
   }
 
-  @media (min-width: 40em) {
+  @media (min-width: 45.8em) {
     .featured-artists ul {
       display: flex;
       flex-wrap: wrap;
@@ -1048,10 +1048,17 @@
       max-width: none;
     }
 
-    @supports (object-fit: cover) {
+    @supports (object-fit: cover) and (object-position: top) {
       .featured-artists img[src*="babu"] {
         height: 100%;
         object-fit: cover;
+      }
+      .featured-artists img[src*="djfrancescaharding"] {
+        width: 40em;
+        max-width: none;
+        height: 30em;
+        object-fit: cover;
+        object-position: top;
       }
     }
     .featured-artists img[src*="dlo"],
