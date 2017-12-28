@@ -14,15 +14,9 @@ layout: default
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
-
-<!--
 * [Watch Live](#watch-live)
--->
 
 What's up Los Angeles? Dance your heart out and into 2018 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food), and [photo booths](#photo-booth) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
-
-### Watch Live!
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### When
 
@@ -61,25 +55,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
-## Highlights from past events
+## Watch Live!
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
-<!--
-<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
--->
-<img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
-<span class="icon play">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
-<title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>
-<switch>
-<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
-<foreignobject>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</foreignobject>
-</switch>
-</svg>
-</span>
-</a>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
 </figure>
 
@@ -519,7 +499,29 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 *This address is for navigation only and is not an official event or affiliate address.*
 
-<div style="margin-top: 12.5vh;"></div>
+## Highlights from past events
+
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
+<a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
+<!--
+<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
+-->
+<img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</foreignobject>
+</switch>
+</svg>
+</span>
+</a>
+</div>
+</figure>
+
+<div style="margin-bottom: -2.9em"></div>
 
 <!--
 <p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
