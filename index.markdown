@@ -306,9 +306,9 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 <figure>
 <div style="padding-bottom: 153.34914049%">
 <a href="/images/gpnyela2017mapflat.pdf" target="_blank" class="has-icon">
-<img src="/images/nyela-map-640wide.jpg" width="1000" height="1000" data-aspect-ratio="1687/2587" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map" />
+<img src="/images/nyela-map-640wide.jpg" width="1000" height="1534" data-aspect-ratio="1687/2587" srcset="/images/nyela-map-640wide.jpg 640w, /images/nyela-map-1024wide.jpg 1024w, /images/nyela-map-1687wide.jpg 1687w" sizes="100vw" alt="Event Map" />
 <span class="icon">
-
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
 
 
 ## Fun Stuff to Hear, See and Do!
