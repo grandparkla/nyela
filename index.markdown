@@ -103,6 +103,7 @@ Ponchos, rain boots, and waterproof outerwear *are* allowed.
 
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
+* Aerosol cans
 * Alcohol
 * Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
 * Chairs
@@ -135,7 +136,6 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 ### The Following Is Also Prohibited at This Event
 
-* Aerosol Cans
 * Amplified Noise
 * Outside Solicitation
 * Public Intoxication
@@ -232,19 +232,19 @@ _Hosted by: D’Lo_
 : Raquel Rodriguez
 
 10:45 p.m. to 11:30 p.m.
-: Dexter Story New Year's Eve All Star Band 
+: Dexter Story and the All-Star New Year's Eve Band
 
 11:30 p.m. to 11:45 p.m.
 : DJ Francesca Harding 
 
 11:45 p.m. to 11:55 p.m.
-: Dexter Story New Year's Eve All Star Band w/Raquel Rodriguez
+: Dexter Story and the All-Star New Year's Eve Band w/Raquel Rodriguez
 
 **11:55 p.m. to 12:00 a.m.**
 : **All eyes on City Hall for Countdown to 2018** 
 
 12:00 a.m. to 1:00 a.m.
-: Dexter Story New Year's Eve All Star Band 
+: Dexter Story and the All-Star New Year's Eve Band 
 
 <!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
@@ -420,7 +420,7 @@ Snap the final photos of 2017 at one of our photo booths.
 
 ## Event Map
 
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
 [Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
 
@@ -460,7 +460,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </figure>
 -->
 
-<!--
 ### Street Closures
 
 See the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for details about streets that will be closed during the event.
@@ -488,7 +487,6 @@ Chinatown Garage
 
 [FIGat7th](http://www.figat7th.com/directions-parking-2/)
 : located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
--->
 
 ### Go Metro
 
