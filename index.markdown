@@ -8,11 +8,13 @@ layout: default
 <!--
 * [Weather](#weather)
 -->
+
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
+
 <!--
 * [Watch Live](#watch-live)
 -->
@@ -105,31 +107,29 @@ Ponchos, rain boots, and waterproof outerwear *are* allowed.
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
 * Alcohol
-* Bags and backpacks measuring larger than standard backpack size (16.75 inches x 13 inches x 8.5 inches)
-* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
+* Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
 * Chairs
 * Coolers
-* Confetti cannons
-* Drones (including drone operation)
+* Confetti Cannons
+* Drones (including Drone Operation)
 * Explosives
 * Firearms
 * Firecrackers
-* Flag poles
+* Flag Poles
 * Generators
 * Glass
-* Identity-covering costumes
+* Identity-Covering Costumes
 * Narcotics
-* Sealed or open beverage bottles with liquid, including water (fountains and water for purchase will be available)
-* Projection devices
-* Printed signage measuring larger than 8.5 inches x 11 inches
+* Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
+* Projection Devices
+* Printed Signage Measuring Larger than 8.5 inches x 11 inches
 * Props
-* Selfie sticks
+* Selfie Sticks
 * Smartboards
 * Sparklers
 * Sticks
 * Tents
-* Unleashed animals
-* **Umbrellas**
+* Unleashed Animals
 * Weapons
 
 ### A Note for Beautiful Los Angeles
@@ -140,26 +140,36 @@ This is a space for unity – where Angelenos and visitors from all around the w
 
 * Aerosol Cans
 * Amplified Noise
-* Outside solicitation
-* Public intoxication
+* Outside Solicitation
+* Public Intoxication
 * Rollerblading
 * Skateboarding
 * Smoking
-* Staking objects to the ground
-* Unauthorized vending
+* Umbrellas
+* Staking Objects to Ground
+* Unauthorized Vending
 * Vaping
-* Bicycles ([parking for bicycles](#bicycle-parking) is available outside of event at [Hill Street and West 2nd Street](https://www.google.com/maps/place/Hill%20St%20%26%20W%202nd%20St,%20Los%20Angeles,%20CA%2090012/@34.0531909,-118.2497424,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x40319b44d9ac20f7!8m2!3d34.0531909!4d-118.2477047))
+* Bicycles
+
+[Valet parking for bicycles](#bicycle-parking) will be available at Broadway and West 2nd Street.
 
 ### Items You Can Bring
 
 * Snacks
 * Food
-* Ponchos/Waterproof outerwear
-* Sealed juice boxes
-* Small bags
-* Smiling faces
+* Sealed Juice Boxes
+* Small Bags
+* Smiling Faces
 * Strollers
-* Empty reusable non-glass water containers.
+* Empty Reusable Non-Glass Water Containers
+
+### Food & Drink Policy
+
+Outside food is welcome in backpacks or totes. **Coolers are not permitted** in the event space.
+
+The size of bags and backpacks/totes must be standard backpack size or smaller (16.75 inches x 13 inches x 8.5 inches).
+
+**No outside beverages** including juice and soda (sealed juice boxes are the only exception). Only empty, non glass water bottles are allowed. Park water fountains and water for purchase booths will be available in the event space. [Food vendor booths](#food-trucks) will be available throughout event space.
 
 ### Have a Ball But Please No Alcohol
 
