@@ -415,6 +415,10 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+### Street Closures
+
+See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
+
 <figure>
   <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
 </figure>
@@ -443,10 +447,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 -->
-
-### Street Closures
-
-See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
 
 ### Parking
 
