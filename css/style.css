@@ -1019,6 +1019,9 @@
     display: block;
     width: 100%;
   }
+  .featured-artists li {
+    max-width: 25em;
+  }
 
   @media (min-width: 40em) {
     .featured-artists ul {
@@ -1027,9 +1030,6 @@
     }
     .featured-artists li {
       flex-basis: 100%;
-    }
-    .featured-artists li {
-      max-width: 25em;
     }
 
     /* In general, items are half of the available width */
