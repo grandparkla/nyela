@@ -415,6 +415,8 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
+
 <figure>
 <div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
 <a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
