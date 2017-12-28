@@ -21,11 +21,8 @@ layout: default
 
 What's up Los Angeles? Dance your heart out and into 2018 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food), and [photo booths](#photo-booth) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
-
-<!--
 ### Watch Live!
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
--->
 
 ### When
 
