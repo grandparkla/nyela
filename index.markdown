@@ -5,9 +5,12 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
+<!--
 * [Weather](#weather)
+-->
 * [Safety](#safety)
 * [Schedule](#event-schedule)
+* [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
 <!--* [Watch Live](#watch-live)-->
@@ -56,6 +59,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
+<!--
 ## Weather
 
 Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
@@ -65,6 +69,7 @@ Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The
 **Please note that umbrellas will not be allowed in the event.**
 
 Ponchos, rain boots, and waterproof outerwear *are* allowed.
+-->
 
 ## Safety
 
@@ -297,18 +302,6 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 : *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
 -->
 
-## Event Map
-
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
-
-[Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
-
-<figure class="feature map">
-<div data-aspect-ratio="2048/2506" style="background-color: black; color: white;">
-<img src="/images/map.png" width="1000" alt="Event Map" />
-</div>
-</figure>
-
 ## Fun Stuff to Hear, See and Do!
 
 ### 2 Music Stages
@@ -390,34 +383,76 @@ Snap the final photos of 2017 at one of our photo booths.
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
 
+## Event Map
+
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free giant glow stick** (while supplies last).
+
+[Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
+
+<figure class="feature map">
+<div data-aspect-ratio="2048/2506" style="background-color: black; color: white;">
+<img src="/images/map.png" width="1000" alt="Event Map" />
+</div>
+</figure>
+
 ## Transportation
 
-The event will take place at Grand Park:
-[200 North Grand Avenue, Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
-
-### Street Closure Info and Parking Details
+The event will take place at Grand Park + The Music Center:<br />
+[200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
 <!--
-View the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for a complete street closure schedule, or maybe a handy dandy Google map with all parking and transportation recommendations:
-
 <figure>
-<div style="padding-bottom: 62.94416244%">
-<a href="https://www.google.com/maps/d/viewer?mid=1y4qVJtiU0otj7SNQacA1LOg-yus&hl=en&ll=34.054321657258626%2C-118.24870346470647&z=16" target="_blank" class="has-icon">
-<img class="preview" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABoZGSccJz4lJT5CLy8vQkc9Ozs9R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0cBHCcnMyYzPSYmPUc9Mj1HR0dEREdHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIACgAQAMBIgACEQEDEQH/xABsAAADAQADAAAAAAAAAAAAAAAAAQIDBAUGEAABAwMDAwQDAAAAAAAAAAABAAIRITFBAxJRImFxBFKB8BNCYgEBAQEAAAAAAAAAAAAAAAAAAAECEQEAAgIDAAAAAAAAAAAAAAAAASERMUFRYf/aAAwDAQACEQMRAD8A9Be6TqVAlE0lIOPBqoHMpOE2uqJrGVLgGwcj78pul0GwRIVVWbdVriSyq1CkdCanhUVLWxcyUZorACSLCUbtrZNFRNFm4e5JkW1oaFlrOIa7bTpPVmcQMrQEdyPv0ImMFIHXDXLQGNG0i7ZqT7Wnvd5/UXqubpav5G7vilicx/M2PZZavpW6gp0jtgZ28Odl3C3YzbDZEAAWGEanGPQ4AxXbBmhv55CbTUmQluG6OPCoQbBLYoAAeTlQ0OBvLQLZnmUIQpZPClrdpJBkuMoQpa0oPbynS4QhXgS0NkugScq6BCFUf//Z" alt="" />
-<img src="/images/street-closures.jpg" width="788" height="496" data-aspect-ratio="788/496" alt="Street Closure Map" />
+<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
+<a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
+<picture>
+<source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
+<source srcset="/images/street-closures-portrait.png" sizes="100vw" />
+<img src="/images/street-closures-portrait.png" width="1000" alt="" />
+</picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="white" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
 L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
 c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="white" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
 c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
 C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </svg>
 </span>
+<span class="credit">Street Closures and Parking on Google Maps</span>
 </a>
 </div>
 </figure>
+-->
+
+<!--
+### Street Closures
+
+See the [N.Y.E.L.A. Community Letter](http://www.musiccenter.org/Media/grand-park/2016/calendar/FallWinter16/Grand%20Park%20The%20Music%20Center%20NYELA%20Countdown%20to%202017.%20Final.pdf) for details about streets that will be closed during the event.
+
+### Parking
+
+Due to street closures, **the parking area underneath Grand Park (Lot 10) will not be accessible during the event**.
+
+[The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
+: <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
+: **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
+
+[Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
+: <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
+
+County Courthouse Garage
+: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street. Enter on Olive Street.
+: _(limited spaces available)_
+
+Health Services Garage
+: <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
+
+Chinatown Garage
+: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring street. Enter on Spring Street.
+
+[FIGat7th](http://www.figat7th.com/directions-parking-2/)
+: located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
 -->
 
 ### Go Metro
@@ -428,10 +463,15 @@ While the Metro Red/Purple Line to _Civic Center/Grand Park Station_ exits direc
 
 Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.466.3876).
 
-### Ride a Metro Bike to NYELA!
+### Metro Bikes
 
-Check out and return your bike to nearby stations _Main & 1st_ or _Grand & Temple_. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
+**Ride a Metro Bike to NYELA!** Check out and return your bike to nearby stations _Main & 1st_ or _Grand & Temple_. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
 
+### Bicycle Parking
+
+Valet parking for bicycles will be available at [Broadway and West 2nd Street](https://www.google.com/maps/place/W+2nd+St+%26+S+Broadway,+Los+Angeles,+CA+90012/@34.0524028,-118.2488869,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64ea867361b:0xc143f475fbc36043!8m2!3d34.0524028!4d-118.2466929).
+
+The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](http://la-bike.org/).
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -445,12 +485,6 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 </p>
 
 *This address is for navigation only and is not an official event or affiliate address.*
-
-### Bicycle Parking
-
-Valet parking for bicycles will be available at [Broadway and West 2nd Street](https://www.google.com/maps/place/W+2nd+St+%26+S+Broadway,+Los+Angeles,+CA+90012/@34.0524028,-118.2488869,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64ea867361b:0xc143f475fbc36043!8m2!3d34.0524028!4d-118.2466929).
-
-The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](http://la-bike.org/).
 
 
 <!--
@@ -475,8 +509,11 @@ See the highlights from last year’s event:
 </figure>
 -->
 
+<div style="margin-top: 12.5vh;"></div>
 
+<!--
 <p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
+-->
 
 <footer id="navigation">
   <h2 class="logo">
