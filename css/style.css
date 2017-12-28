@@ -492,8 +492,14 @@
     padding-bottom: 56.25%;
   }
 
+  /* July 4th Map */
   figure > div[data-aspect-ratio="1687/2587"] {
     padding-bottom: 153.33333333%; 
+  }
+
+  /* NYELA Map */
+  figure > div[data-aspect-ratio="2048/2506"] {
+    padding-bottom: 122.36328125%; 
   }
 
   figure > div[data-aspect-ratio="853/940"] {
@@ -975,6 +981,7 @@
     }
   }
 
+  /*
   @media (min-width: 768px) {
     header h1,
     .map.feature {
@@ -1002,3 +1009,4 @@
       background-image: url(/images/stars-6720wide.jpg);
     }
   }
+  */
