@@ -419,7 +419,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
 
-<figure>
+<figure class="map">
   <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
 </figure>
 
