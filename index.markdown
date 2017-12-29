@@ -59,9 +59,28 @@ This is a **free** event. There’s no cost to attend.
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
+<a href="https://www.facebook.com/grandparklosangeles/videos/1550529334993779/" target="_blank" class="has-icon">
+<img src="/images/live-video-poster.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</foreignobject>
+</switch>
+</svg>
+</span>
+</a>
+</div>
+</figure>
+
+<!--
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
 </figure>
+-->
 
 <!--
 ## Weather
