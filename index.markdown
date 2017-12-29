@@ -70,6 +70,7 @@ This is a **free** event. There’s no cost to attend.
 </switch>
 </svg>
 </span>
+<span class="credit">Grand Park’s video page on Facebook</span>
 </a>
 </div>
 </figure>
@@ -540,6 +541,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 </switch>
 </svg>
 </span>
+<span class="credit">Grand Park on Vimeo</span>
 </a>
 </div>
 </figure>

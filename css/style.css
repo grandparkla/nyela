@@ -1034,7 +1034,7 @@
     max-width: 25em;
   }
 
-  @media (min-width: 45.8em) {
+  @media (min-width: 60em) {
     .featured-artists ul {
       display: flex;
       flex-wrap: wrap;
