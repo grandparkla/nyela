@@ -723,12 +723,13 @@
     position: absolute;
     top: 0;
     right: 0;
+    width: 100%;
     /*
     right: -1.45em;
     */
   }
   .nav-link a {
-    font-size: 0.75em;
+    font-size: 1.125em;
     display: inline-block;
     text-align: center;
     padding: 1.9333333333em; /* 1.45 / 0.75em */
@@ -737,6 +738,8 @@
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     color: white;
+    display: block;
+    opacity: 0;
   }
   .nav-link a:hover,
   .nav-link a:active,
