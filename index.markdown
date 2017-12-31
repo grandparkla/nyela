@@ -194,6 +194,7 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 
 * ![Mr. Choc](/images/artist/mrchoc.jpg)
 * ![DJ Babu](/images/artist/babu.jpg)
+* ![Shortkut](/images/artist/shortkut.jpg)
 
 ### Hosted by D'Lo
 
@@ -358,6 +359,10 @@ Step into the new Digital Dance Zone, and your dance moves will transform into l
 ### Photo Booths
 
 Snap the final photos of 2017 at one of our photo booths.
+
+### Interactive Light Installation 
+
+Dance and snap your selfies at the audio-responsive light installation located at the fountain overlook.
 
 ### Food Trucks
 
