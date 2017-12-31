@@ -180,31 +180,31 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more_
 
-* ![Dexter Story](/images/artists/2048-wide/dexterstory.jpg)
-* ![Kenneth Crouch](/images/artists/2048-wide/kennethcrouch.jpg) 
-* ![Raquel Rodriguez](/images/artists/2048-wide/raquelrodriguez.jpg)
-* ![Jimetta Rose](/images/artists/2048-wide/jimettarose.png)
-* ![Kam Talbert](/images/artists/2048-wide/kamtalbert.jpg)
+* ![Dexter Story](/images/artists/1024-wide/dexterstory.jpg)
+* ![Kenneth Crouch](/images/artists/1024-wide/kennethcrouch.jpg) 
+* ![Raquel Rodriguez](/images/artists/1024-wide/raquelrodriguez.jpg)
+* ![Jimetta Rose](/images/artists/1024-wide/jimettarose.png)
+* ![Kam Talbert](/images/artists/1024-wide/kamtalbert.jpg)
 
 ### DJ Francesca Harding
 
-* ![DJ Francesca Harding](/images/artists/2048-wide/djfrancescaharding.jpg) 
+* ![DJ Francesca Harding](/images/artists/1024-wide/djfrancescaharding.jpg) 
 
 ### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
-* ![Mr. Choc](/images/artists/2048-wide/mrchoc.jpg)
-* ![Shortkut](/images/artists/2048-wide/shortkut.jpg)
-* ![DJ Babu](/images/artists/2048-wide/babu.jpg)
+* ![Mr. Choc](/images/artists/1024-wide/mrchoc.jpg)
+* ![Shortkut](/images/artists/1024-wide/shortkut.jpg)
+* ![DJ Babu](/images/artists/1024-wide/babu.jpg)
 
 ### Hosted by D'Lo
 
-* ![D'Lo](/images/artists/2048-wide/dlo.jpg) 
+* ![D'Lo](/images/artists/1024-wide/dlo.jpg) 
 
 ### Special Guests
 
 _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs_
 
-* ![Turns the Tables Youth DJs](/images/artists/2048-wide/turnthetablesdj.jpg)
+* ![Turns the Tables Youth DJs](/images/artists/1024-wide/turnthetablesdj.jpg)
 
 </div>
 
