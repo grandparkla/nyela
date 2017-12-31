@@ -59,7 +59,7 @@ This is a **free** event. There’s no cost to attend.
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://www.facebook.com/grandparklosangeles/videos/1550529334993779/" target="_blank" class="has-icon">
+<a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" class="has-icon">
 <img src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
