@@ -435,7 +435,7 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 
 <figure class="feature map">
 <div data-aspect-ratio="2048/2506" style="background-color: black; color: white;">
-<img src="/images/map.png" width="1000" alt="Event Map" />
+<img src="/images/map-8.png" width="1000" alt="Event Map" />
 </div>
 </figure>
 
