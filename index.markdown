@@ -57,6 +57,8 @@ This is a **free** event. There’s no cost to attend.
 
 ## Watch Live!
 
+Couldn't make it to Grand Park this year? Witness the [LIVE countdown to 2018](https://www.facebook.com/MusicCenterLA/videos/10155190090262844/) from the comfort of your own home or mobile device direct from Grand Park and The Music Center’s N.Y.E.L.A celebration!
+
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" class="has-icon">
@@ -70,7 +72,7 @@ This is a **free** event. There’s no cost to attend.
 </switch>
 </svg>
 </span>
-<span class="credit">Grand Park’s video page on Facebook</span>
+<span class="credit">The Music Center’s video page on Facebook</span>
 </a>
 </div>
 </figure>
