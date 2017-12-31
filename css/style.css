@@ -549,6 +549,29 @@
     }
   }
 
+  /* NYELA Artist images */
+  figure > div[data-aspect-ratio="2/3"] {
+    padding-bottom: 150%;
+  }
+  @supports (object-fit: cover) {
+    .featured-artists figure > div[data-aspect-ratio="1/1"] img,
+    .featured-artists figure > div[data-aspect-ratio="3/2"] img,
+    .featured-artists figure > div[data-aspect-ratio="2/3"] img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  figure > div[data-aspect-ratio="5/3"] {
+    padding-bottom: 60%;
+  }
+  figure > div[data-aspect-ratio="3/2"],
+  figure > div[data-aspect-ratio="1000/667"] {
+    padding-bottom: 66.7%;
+  }
+  figure > div[data-aspect-ratio="5312/2988"] {
+    padding-bottom: 56.25%;
+  }
+
 
   /* =Map
   ----------------------------------------------- */
@@ -1054,6 +1077,47 @@
   }
 
   @media (min-width: 60em) {
+    .all-star-band {
+      width: 40em;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .all-star-band:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    .all-star-band figure:nth-child(1) {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .all-star-band figure:nth-child(2),
+    .all-star-band figure:nth-child(3),
+    .all-star-band figure:nth-child(4),
+    .all-star-band figure:nth-child(5) {
+      width: 20em;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .beat-junkies {
+      width: 40em;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .beat-junkies figure:nth-child(1),
+    .beat-junkies figure:nth-child(2) {
+      width: 20em;
+      float: left;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    .beat-junkies figure:nth-child(3) {
+      clear: both;
+    }
+
+
     .featured-artists ul {
       display: flex;
       flex-wrap: wrap;
@@ -1068,40 +1132,14 @@
     }
 
     /* If there is an odd number of items, make the last one full-width. */
-    // .featured-artists li:nth-child(2n+1):nth-last-child(1) {
-    //   flex-basis: 100%;
-    // }
+/*    .featured-artists li:nth-child(2n+1):nth-last-child(1) {
+      flex-basis: 100%;
+    }*/
     .featured-artists li:nth-child(1):nth-last-child(5) {
       flex-basis: 100%;
       max-width: none;
     }
     .featured-artists img[src*="babu"] {
-      width: 40em;
-      max-width: none;
-    }
-
-    @supports (object-fit: cover) and (object-position: top) {
-      .featured-artists img[src*="mrchoc"],
-      .featured-artists img[src*="shortkut"] {
-        width: 20em;
-        height: 30em;
-        object-fit: cover;
-      }
-      .featured-artists img[src*="kennethcrouch"],
-      .featured-artists img[src*="raquelrodriguez"] {
-        width: 20em;
-        height: 13.3333333333em;
-        object-fit: cover;
-      }
-      .featured-artists img[src*="jimettarose"],
-      .featured-artists img[src*="kamtalbert"] {
-        width: 20em;
-        height: 20em;
-        object-fit: cover;
-      }
-    }
-    .featured-artists img[src*="dlo"],
-    .featured-artists img[src*="turnthetablesdj"] {
       width: 40em;
       max-width: none;
     }

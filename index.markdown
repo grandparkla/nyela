@@ -184,35 +184,85 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more_
 
-* ![Dexter Story](/images/artists/1024-wide/dexterstory.jpg)
-* ![Kenneth Crouch](/images/artists/512-wide/kennethcrouch.jpg) 
-* ![Raquel Rodriguez](/images/artists/512-wide/raquelrodriguez.jpg)
-* ![Jimetta Rose](/images/artists/512-wide/jimettarose.jpg)
-* ![Kam Talbert](/images/artists/512-wide/kamtalbert.jpg)
+<div class="all-star-band">
+<figure>
+<div data-aspect-ratio="5/3">
+<img srcset="/images/artists/384-wide/dexterstory.jpg 384w, /images/artists/512-wide/dexterstory.jpg 512w, /images/artists/768-wide/dexterstory.jpg 768w, /images/artists/1024-wide/dexterstory.jpg 1024w, /images/artists/2048-wide/dexterstory.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/dexterstory.jpg" width="500" alt="Dexter Story" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="3/2">
+<img srcset="/images/artists/384-wide/kennethcrouch.jpg 384w, /images/artists/512-wide/kennethcrouch.jpg 512w, /images/artists/768-wide/kennethcrouch.jpg 768w, /images/artists/1024-wide/kennethcrouch.jpg 1024w, /images/artists/2048-wide/kennethcrouch.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/kennethcrouch.jpg" width="500" alt="Kenneth Crouch" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="3/2">
+<img srcset="/images/artists/384-wide/raquelrodriguez.jpg 384w, /images/artists/512-wide/raquelrodriguez.jpg 512w, /images/artists/768-wide/raquelrodriguez.jpg 768w, /images/artists/1024-wide/raquelrodriguez.jpg 1024w, /images/artists/2048-wide/raquelrodriguez.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/raquelrodriguez.jpg" width="500" alt="Raquel Rodriguez" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="1/1">
+<img srcset="/images/artists/384-wide/jimettarose.jpg 384w, /images/artists/512-wide/jimettarose.jpg 512w, /images/artists/768-wide/jimettarose.jpg 768w, /images/artists/1024-wide/jimettarose.jpg 1024w, /images/artists/2048-wide/jimettarose.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/jimettarose.jpg" width="500" alt="Jimetta Rose" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="1/1">
+<img srcset="/images/artists/384-wide/kamtalbert.jpg 384w, /images/artists/512-wide/kamtalbert.jpg 512w, /images/artists/768-wide/kamtalbert.jpg 768w, /images/artists/1024-wide/kamtalbert.jpg 1024w, /images/artists/2048-wide/kamtalbert.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/kamtalbert.jpg" width="500" alt="Kam Talbert" />
+</div>
+</figure>
+</div>
 
 ### DJ Francesca Harding
 
 <figure>
 <div data-aspect-ratio="1/1">
-<img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
+<img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1024-wide/djfrancescaharding.jpg 1024w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
 </div>
 </figure>
 
 ### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
-* ![Mr. Choc](/images/artists/512-wide/mrchoc.jpg)
-* ![Shortkut](/images/artists/512-wide/shortkut.jpg)
-* ![DJ Babu](/images/artists/1024-wide/babu.jpg)
+<div class="beat-junkies">
+<figure>
+<div data-aspect-ratio="2/3">
+<img srcset="/images/artists/384-wide/mrchoc.jpg 384w, /images/artists/512-wide/mrchoc.jpg 512w, /images/artists/768-wide/mrchoc.jpg 768w, /images/artists/1024-wide/mrchoc.jpg 1024w, /images/artists/2048-wide/mrchoc.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/mrchoc.jpg" width="500" alt="Mr. Choc" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="2/3">
+<img srcset="/images/artists/384-wide/shortkut.jpg 384w, /images/artists/512-wide/shortkut.jpg 512w, /images/artists/768-wide/shortkut.jpg 768w, /images/artists/1024-wide/shortkut.jpg 1024w, /images/artists/2048-wide/shortkut.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/shortkut.jpg" width="500" alt="Shortkut" />
+</div>
+</figure>
+
+<figure>
+<div data-aspect-ratio="3/2">
+<img srcset="/images/artists/384-wide/babu.jpg 384w, /images/artists/512-wide/babu.jpg 512w, /images/artists/768-wide/babu.jpg 768w, /images/artists/1024-wide/babu.jpg 1024w, /images/artists/2048-wide/babu.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/babu.jpg" width="500" alt="DJ Babu" />
+</div>
+</figure>
+</div>
 
 ### Hosted by D'Lo
 
-* ![D'Lo](/images/artists/1024-wide/dlo.jpg) 
+<figure>
+<div data-aspect-ratio="1000/667">
+<img srcset="/images/artists/384-wide/dlo.jpg 384w, /images/artists/512-wide/dlo.jpg 512w, /images/artists/768-wide/dlo.jpg 768w, /images/artists/1024-wide/dlo.jpg 1024w, /images/artists/2048-wide/dlo.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/dlo.jpg" width="500" alt="D'Lo" />
+</div>
+</figure>
 
 ### Special Guests
 
 _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs_
 
-* ![Turns the Tables Youth DJs](/images/artists/1024-wide/turnthetablesdj.jpg)
+<figure>
+<div data-aspect-ratio="5312/2988">
+<img srcset="/images/artists/384-wide/turnthetablesdj.jpg 384w, /images/artists/512-wide/turnthetablesdj.jpg 512w, /images/artists/768-wide/turnthetablesdj.jpg 768w, /images/artists/1024-wide/turnthetablesdj.jpg 1024w, /images/artists/2048-wide/turnthetablesdj.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/turnthetablesdj.jpg" width="500" alt="D'Lo" />
+</div>
+</figure>
 
 </div>
 
