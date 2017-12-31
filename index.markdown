@@ -64,7 +64,7 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" class="has-icon">
-<img src="/images/live-video-poster.jpg" width="1000" alt="" />
+<img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>
@@ -192,7 +192,11 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 
 ### DJ Francesca Harding
 
-* ![DJ Francesca Harding](/images/artists/1024-wide/djfrancescaharding.jpg) 
+<figure>
+<div data-aspect-ratio="1/1">
+<img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
+</div>
+</figure>
 
 ### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
@@ -543,7 +547,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 <!--
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
 -->
-<img src="/images/highlights-video-poster.jpg" width="1000" alt="" />
+<img srcset="/images/highlights-video-poster-320-wide.jpg 320w, /images/highlights-video-poster-640-wide.jpg 640w, /images/highlights-video-poster-768-wide.jpg 768w, /images/highlights-video-poster-1024-wide.jpg 1024w, /images/highlights-video-poster.jpg 1680w" sizes="100vw" src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
 <title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>

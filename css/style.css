@@ -438,6 +438,11 @@
     }
   }
 
+  /* Artist images */
+  h3 + figure {
+    margin-top: 0;
+  }
+
   img {
     max-width: 100%;
     height: auto;
@@ -1094,13 +1099,6 @@
         height: 20em;
         object-fit: cover;
       }
-      .featured-artists img[src*="djfrancescaharding"] {
-        width: 40em;
-        max-width: none;
-        height: 30em;
-        object-fit: cover;
-        object-position: top;
-      }
     }
     .featured-artists img[src*="dlo"],
     .featured-artists img[src*="turnthetablesdj"] {
@@ -1108,6 +1106,5 @@
       max-width: none;
     }
   }
-
 
 
