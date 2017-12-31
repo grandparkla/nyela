@@ -193,8 +193,8 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 ### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
 * ![Mr. Choc](/images/artist/mrchoc.jpg)
-* ![DJ Babu](/images/artist/babu.jpg)
 * ![Shortkut](/images/artist/shortkut.jpg)
+* ![DJ Babu](/images/artist/babu.jpg)
 
 ### Hosted by D'Lo
 

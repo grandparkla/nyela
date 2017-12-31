@@ -1059,10 +1059,16 @@
       flex-basis: 100%;
       max-width: none;
     }
+    .featured-artists img[src*="babu"] {
+      width: 40em;
+      max-width: none;
+    }
 
     @supports (object-fit: cover) and (object-position: top) {
-      .featured-artists img[src*="babu"] {
-        height: 100%;
+      .featured-artists img[src*="mrchoc"],
+      .featured-artists img[src*="shortkut"] {
+        width: 20em;
+        height: 30em;
         object-fit: cover;
       }
       .featured-artists img[src*="djfrancescaharding"] {
