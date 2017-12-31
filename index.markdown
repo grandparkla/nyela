@@ -59,7 +59,7 @@ This is a **free** event. There’s no cost to attend.
 
 Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
 
-Watch the [live countdown to 2018](https://www.facebook.com/grandparklosangeles/videos/1565696286810417/).
+Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos/10155190090262844/).
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
