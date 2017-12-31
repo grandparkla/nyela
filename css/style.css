@@ -506,12 +506,23 @@
     padding-bottom: 122.36328125%; 
   }
 
+  /* July 4th Road Closures */
   figure > div[data-aspect-ratio="853/940"] {
     padding-bottom: 110.1992966%;
   }
   @media (min-aspect-ratio: 1/1) {
     figure > div[data-aspect-ratio-landscape="1678/940"] {
       padding-bottom: 56.01907032%;
+    }
+  }
+
+  /* NYELA Road Closures */
+  figure > div[data-aspect-ratio="850/942"] {
+    padding-bottom: 110.82352941%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1680/942"] {
+      padding-bottom: 56.07142857%;
     }
   }
 

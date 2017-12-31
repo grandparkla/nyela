@@ -448,14 +448,15 @@ The event will take place at Grand Park + The Music Center:<br />
 
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
 
+<!--
 <figure class="map">
   <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
 </figure>
+-->
 
-<!--
 <figure>
-<div data-aspect-ratio-landscape="1678/940" data-aspect-ratio="853/940">
-<a href="https://www.google.com/maps/d/embed?mid=1iSXK6lDTokgNFjJLaeR8w5542U8&ll=34.054197212341414%2C-118.25399278088383&z=15" target="_blank" class="has-icon">
+<div data-aspect-ratio-landscape="1680/942" data-aspect-ratio="850/942">
+<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" target="_blank" class="has-icon">
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
@@ -475,7 +476,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
--->
 
 ### Parking
 
