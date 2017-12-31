@@ -57,7 +57,9 @@ This is a **free** event. There’s no cost to attend.
 
 ## Watch Live!
 
-Couldn't make it to Grand Park this year? Witness the [LIVE countdown to 2018](https://www.facebook.com/MusicCenterLA/videos/10155190090262844/) from the comfort of your own home or mobile device direct from Grand Park and The Music Center’s N.Y.E.L.A celebration!
+Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
+
+Watch the [live countdown to 2018](https://www.facebook.com/grandparklosangeles/videos/1565696286810417/).
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
