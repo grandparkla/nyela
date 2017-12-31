@@ -1071,6 +1071,18 @@
         height: 30em;
         object-fit: cover;
       }
+      .featured-artists img[src*="kennethcrouch"],
+      .featured-artists img[src*="raquelrodriguez"] {
+        width: 20em;
+        height: 13.3333333333em;
+        object-fit: cover;
+      }
+      .featured-artists img[src*="jimettarose"],
+      .featured-artists img[src*="kamtalbert"] {
+        width: 20em;
+        height: 20em;
+        object-fit: cover;
+      }
       .featured-artists img[src*="djfrancescaharding"] {
         width: 40em;
         max-width: none;

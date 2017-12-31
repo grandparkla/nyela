@@ -185,10 +185,10 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more_
 
 * ![Dexter Story](/images/artists/1024-wide/dexterstory.jpg)
-* ![Kenneth Crouch](/images/artists/1024-wide/kennethcrouch.jpg) 
-* ![Raquel Rodriguez](/images/artists/1024-wide/raquelrodriguez.jpg)
-* ![Jimetta Rose](/images/artists/1024-wide/jimettarose.png)
-* ![Kam Talbert](/images/artists/1024-wide/kamtalbert.jpg)
+* ![Kenneth Crouch](/images/artists/512-wide/kennethcrouch.jpg) 
+* ![Raquel Rodriguez](/images/artists/512-wide/raquelrodriguez.jpg)
+* ![Jimetta Rose](/images/artists/512-wide/jimettarose.jpg)
+* ![Kam Talbert](/images/artists/512-wide/kamtalbert.jpg)
 
 ### DJ Francesca Harding
 
@@ -196,8 +196,8 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 
 ### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
 
-* ![Mr. Choc](/images/artists/1024-wide/mrchoc.jpg)
-* ![Shortkut](/images/artists/1024-wide/shortkut.jpg)
+* ![Mr. Choc](/images/artists/512-wide/mrchoc.jpg)
+* ![Shortkut](/images/artists/512-wide/shortkut.jpg)
 * ![DJ Babu](/images/artists/1024-wide/babu.jpg)
 
 ### Hosted by D'Lo
