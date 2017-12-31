@@ -566,6 +566,8 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
   <li><img src="/images/logos/huizar.png" alt="Team Huizar, Council District 14" /></li>
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
+  <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
+  <li><img src="/images/logos/macys.png" alt="Macy’s" /></li>
 </ul>
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
