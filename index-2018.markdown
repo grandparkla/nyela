@@ -12,9 +12,9 @@ layout: default
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
-{% comment %}
+<!--
 * [Watch Live](#watch-live)
-{% endcomment %}
+-->
 
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
@@ -30,7 +30,7 @@ Grand Park + The Music Center:<br />
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
-{% comment %} Jim’s Google Maps API key {% endcomment %}
+<!-- Jim’s Google Maps API key -->
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" />
@@ -55,7 +55,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
-{% comment %}
+<!--
 ## Watch Live!
 
 Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
@@ -79,15 +79,15 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 </a>
 </div>
 </figure>
-{% endcomment %}
+-->
 
-{% comment %}
+<!--
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
 </figure>
-{% endcomment %}
+-->
 
 ## Weather
 
@@ -203,7 +203,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
-{% comment %}
+<!--
 <div class="all-star-band">
 <figure>
 <div data-aspect-ratio="5/3">
@@ -235,14 +235,14 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 </div>
 </figure>
 </div>
-{% endcomment %}
+-->
 
 ### DJ Day
 
 
 ### The NYELA All-Female DJ Lineup featuring Ericalandia, Kronika, Spiñorita
 
-{% comment %}
+<!--
 <figure>
 <div data-aspect-ratio="1/1">
 <img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1024-wide/djfrancescaharding.jpg 1024w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
@@ -251,7 +251,7 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 --!>
 
 
-{% comment %}
+<!--
 <div class="beat-junkies">
 <figure>
 <div data-aspect-ratio="2/3">
@@ -271,9 +271,9 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 </div>
 </figure>
 </div>
-{% endcomment %}
+-->
 
-{% comment %}
+<!--
 ### Hosted by D'Lo
 
 <figure>
@@ -293,13 +293,13 @@ _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
 </figure>
 
 </div>
-{% endcomment %}
+-->
 
 ## Event Schedule
 
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food-trucks) will run until 1am. The event ends at 1am on January 1.
 
-{% comment %}
+<!--
 *Experience some of L.A.’s best on two music stages:* 
 
 
@@ -332,7 +332,7 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 12:00 a.m. to 1:00 a.m.
 : Aloe Blacc + Maya Jupiter + DJ Day + Special Guests
 
-{% comment %}Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
+<!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
 08:00pm—09:00pm
 : *[DJ Expo](https://soundcloud.com/expothedj)*
@@ -357,9 +357,9 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 12:00am—12:50am
 : *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
-{% endcomment %}
+-->
 
-{% comment %}
+<!--
 ### Get Down Stage
 
 #### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
@@ -377,10 +377,10 @@ _Host by: Mr. Choc_
 
 12:00 a.m. to 1:00 a.m.
 : The Beat Junkies
-{% endcomment %}
+-->
 
 
-{% comment %}
+<!--
 ### Funktown Stage
 
 Hosted by: *[DJ Paris Paul](https://www.facebook.com/DJParisPaul/)*
@@ -398,7 +398,7 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 
 12:00am—01:00am
 : *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
-{% endcomment %}
+-->
 
 ## Fun Stuff to Hear, See and Do!
 
@@ -409,33 +409,33 @@ Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdow
 ### Projections
 
 Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
-{% endcomment %}
+-->
 
-{% comment %}### Inflatable Art
+<!--### Inflatable Art
 
-Oh wow! See large pieces floating and glowing throughout the space. {% endcomment %}
+Oh wow! See large pieces floating and glowing throughout the space. -->
 
-{% comment %}
+<!--
 ### Digital Dance Zone
 
 Step into the new Digital Dance Zone, and your dance moves will transform into larger-than-life images that will be projected on the side of the LA County Hall of Records building!
-{% endcomment %}
+-->
 
 ### Photo Booths
 
 Snap the final photos of 2018 at one of our photo booths.
 
-{% comment %}
+<!--
 ### Interactive Light Installation 
 
 Dance and snap your selfies at the audio-responsive light installation located at the fountain overlook.
-{% endcomment %}
+-->
 
 
 ### Food Trucks
 
 * To be announced!
-{% comment %}
+<!--
 * [Austyn's Burger](http://www.austynsburger.com)
 * [Banh Mi in LA](https://twitter.com/banhmiinla)
 * [Belly Bombz](http://www.bellybombz.com)
@@ -492,13 +492,13 @@ Dance and snap your selfies at the audio-responsive light installation located a
 * [V CHOS](http://vchostruck.com)
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
-{% endcomment %}
+-->
 
 
 ## Event Map
 
 Coming soon!
-{% comment %}
+<!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
 [Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
@@ -508,7 +508,7 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 <img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
-{% endcomment %}
+-->
 
 ## Transportation
 
@@ -518,11 +518,11 @@ The event will take place at Grand Park + The Music Center:<br />
 ### Street Closures
 
 Coming soon! 
-{% comment %}
+<!--
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
-{% endcomment %}
+-->
 
-{% comment %}
+<!--
 <figure class="map">
   <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
 </figure>
@@ -549,7 +549,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
-{% endcomment %}
+-->
 
 ### Parking
 
@@ -558,9 +558,9 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 [The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
 : <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
 
-{% comment %}
+<!--
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
-{% endcomment %}
+-->
 
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
@@ -610,9 +610,9 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
-{% comment %}
+<!--
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
-{% endcomment %}
+-->
 <img srcset="/images/highlights-video-poster-320-wide.jpg 320w, /images/highlights-video-poster-640-wide.jpg 640w, /images/highlights-video-poster-768-wide.jpg 768w, /images/highlights-video-poster-1024-wide.jpg 1024w, /images/highlights-video-poster.jpg 1680w" sizes="100vw" src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -628,9 +628,9 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 </div>
 </figure>
 
-{% comment %}
+<!--
 <p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
-{% endcomment %}
+-->
 
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
@@ -638,12 +638,12 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  {% comment %}
+  <!--
 <li><img src="/images/logos/huizar.png" alt="Team Huizar, Council District 14" /></li>
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
   <li><img src="/images/logos/macys.png" alt="Macy’s" /></li>
-{% endcomment %}
+-->
 </ul>
 
 
@@ -726,9 +726,9 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
       <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
     </ul>
     <ul class="nav">
-      {% comment %}
+      <!--
       <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
-      {% endcomment %}
+      -->
       <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
       <li><a href="http://grandparkla.org/sign-up/">Newsletter</a></li>
       <li><a href="http://grandparkla.org/media/">Press</a></li>
