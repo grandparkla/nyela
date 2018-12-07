@@ -5,22 +5,22 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
-<!--
-* [Weather](#weather)
--->
 
+* [Weather](#weather)
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
+<!--
 * [Watch Live](#watch-live)
+-->
 
-What's up Los Angeles? Dance your heart out and into 2018 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
+What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 ### When
 
-The event begins at 8pm on December 31, 2017 and ends at 1am on January 1, 2018.
+The event begins at 8pm on December 31, 2018 and ends at 1am on January 1, 2019.
 
 ### Where
 
@@ -55,9 +55,10 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
+<!--
 ## Watch Live!
 
-Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
+Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
 
 Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos/10155190090262844/).
 
@@ -78,6 +79,7 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 </a>
 </div>
 </figure>
+-->
 
 <!--
 <figure class="feature">
@@ -87,7 +89,6 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 </figure>
 -->
 
-<!--
 ## Weather
 
 Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
@@ -97,7 +98,6 @@ Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The
 **Please note that umbrellas will not be allowed in the event.**
 
 Ponchos, rain boots, and waterproof outerwear *are* allowed.
--->
 
 ## Safety
 
@@ -107,32 +107,51 @@ Ponchos, rain boots, and waterproof outerwear *are* allowed.
 
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
-* Aerosol cans
-* Alcohol
-* Bags and Backpacks Measuring Larger Than Standard Backpack Size (16.75 inches x 13 inches x 8.5 inches)
+* Aerosol cans 
+* Amplified noise
+* Bags and backpacks  (larger than 16.75 in x 13 in x 8.5 in)
+* Bicycles
+* Confetti cannons
+* Coolers 
 * Chairs
-* Coolers
-* Confetti Cannons
-* Drones (including Drone Operation)
+* Drones
+* Drone operation 
 * Explosives
-* Firearms
+* Firearms 
 * Firecrackers
-* Flag Poles
+* Fire matches 
+* Flag poles
+* Frowny faces
 * Generators
 * Glass
-* Identity-Covering Costumes
+* Identity-covering costumes
+* Lighters
 * Narcotics
-* Sealed or Open Beverage Bottles with Liquid Including Water (Fountains and Water for Purchase Will Be Available)
-* Projection Devices
-* Printed Signage Measuring Larger than 8.5 inches x 11 inches
+* Outside alcoholic beverages
+* Outside solicitation 
+* Printed signage (larger than 8.5 in x 11 in)
+* Projection devices 
 * Props
-* Selfie Sticks
-* Smartboards
+* Public intoxication 
+* Ride share scooters
+* Rollerblading
+* Sealed or open beverage bottles with liquid including water
+* Selfie sticks
+* Skateboarding
+* Skating objects to ground
+* Smartboards & smartboarding
+* Smoking of any kind
+* Smoking paraphernalia
 * Sparklers
+* Staking objects to ground
 * Sticks
 * Tents
-* Unleashed Animals
+* Umbrellas
+* Unauthorized vending
+* Unleased animals 
+* Vaping 
 * Weapons
+
 
 ### A Note for Beautiful Los Angeles
 
@@ -180,10 +199,11 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
-### Dexter Story and the All-Star New Year's Eve Band
+### Aloe Blacc + Maya Jupiter and Special Guests
 
-_featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more_
+_featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
+<!--
 <div class="all-star-band">
 <figure>
 <div data-aspect-ratio="5/3">
@@ -215,17 +235,21 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 </div>
 </figure>
 </div>
+-->
 
-### DJ Francesca Harding
+### DJ Day
 
+<!--
 <figure>
 <div data-aspect-ratio="1/1">
 <img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1024-wide/djfrancescaharding.jpg 1024w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
 </div>
 </figure>
+--!>
 
-### The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut
+### The NYELA all-female DJ lineup: Ericalandia, Kronika, Spiñorita
 
+<!--
 <div class="beat-junkies">
 <figure>
 <div data-aspect-ratio="2/3">
@@ -245,7 +269,9 @@ _featuring Raquel Rodriguez, Jimetta Rose, Kenneth Crouch, Kam Talbert, and more
 </div>
 </figure>
 </div>
+-->
 
+<!--
 ### Hosted by D'Lo
 
 <figure>
@@ -265,6 +291,7 @@ _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
 </figure>
 
 </div>
+-->
 
 ## Event Schedule
 
@@ -272,38 +299,35 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 *Experience some of L.A.’s best on two music stages:* 
 
+<!--
 ### Countdown Stage
 
 #### Located at Grand Park’s Event Lawn in front of City Hall
 
-_Hosted by: D’Lo_
 
 8:00 to 9:00 p.m.
-: DJ Francesca Harding
+: DJ Day
 
 9:00 to 9:30 p.m.
-: Raquel Rodriguez
+: Georgia Anne Muldrow
 
 9:30 to 10:00 p.m.
-: DJ Francesca Harding
+: DJ Day
 
 10:00 to 10:30 p.m.
-: Raquel Rodriguez
+: Irka Mateo + Band
 
-10:45 p.m. to 11:30 p.m.
-: Dexter Story and the All-Star New Year's Eve Band
+10:45 p.m. to 11:05 p.m.
+: Maya Jupiter
 
-11:30 p.m. to 11:45 p.m.
-: DJ Francesca Harding 
-
-11:45 p.m. to 11:55 p.m.
-: Dexter Story and the All-Star New Year's Eve Band w/Raquel Rodriguez
+11:05 p.m. to 11:55 p.m.
+: Aloe Blacc
 
 **11:55 p.m. to 12:00 a.m.**
 : **All eyes on City Hall for Countdown to 2018** 
 
 12:00 a.m. to 1:00 a.m.
-: Dexter Story and the All-Star New Year's Eve Band 
+: Aloe Blacc + Maya Jupiter + DJ Day + Special Guests
 
 <!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
@@ -350,32 +374,6 @@ _Host by: Mr. Choc_
 12:00 a.m. to 1:00 a.m.
 : The Beat Junkies
 
-<!--
-Hosted by: *[Gazoo Olmeda](https://www.facebook.com/DJ-Gazoo-Olmedo-140328819333338/)*
-
-08:00pm—08:40pm
-: *[Victoria Van Damn](http://www.victoriavandamn.com/)*
-
-08:40pm—09:20pm
-: *Gazoo Olmeda*
-
-09:20pm—10:00pm
-: *Victoria Van Damn*
-
-10:00pm—10:40pm
-: *Gazoo Olmeda*
-
-10:40pm—11:00pm
-: *Gazoo Olmeda* with *[Jose Marquez](https://soundcloud.com/jose-marquez)*
-
-11:00pm—11:45pm
-: *Jose Marquez*
-
-**11:55pm—12:00am**
-: **All Eyes On City Hall**
-
-12:00am—01:00am
-: *Jose Marquez*
 
 ### Funktown Stage
 
@@ -405,25 +403,33 @@ Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdow
 ### Projections
 
 Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
+-->
 
 <!--### Inflatable Art
 
 Oh wow! See large pieces floating and glowing throughout the space. -->
 
+<!--
 ### Digital Dance Zone
 
 Step into the new Digital Dance Zone, and your dance moves will transform into larger-than-life images that will be projected on the side of the LA County Hall of Records building!
+-->
 
 ### Photo Booths
 
-Snap the final photos of 2017 at one of our photo booths.
+Snap the final photos of 2018 at one of our photo booths.
 
+<!--
 ### Interactive Light Installation 
 
 Dance and snap your selfies at the audio-responsive light installation located at the fountain overlook.
+-->
+
 
 ### Food Trucks
 
+* To be announced!
+<!--
 * [Austyn's Burger](http://www.austynsburger.com)
 * [Banh Mi in LA](https://twitter.com/banhmiinla)
 * [Belly Bombz](http://www.bellybombz.com)
@@ -480,9 +486,13 @@ Dance and snap your selfies at the audio-responsive light installation located a
 * [V CHOS](http://vchostruck.com)
 * [Wise Barbecue](https://wisebarbecue.com)
 * [Woody's Grill Truck](https://www.woodysgrilltruck.com)
+-->
+
 
 ## Event Map
 
+Coming soon!
+<!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
 [Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
@@ -492,6 +502,7 @@ Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booth
 <img src="/images/map.png" width="1000" alt="Event Map" />
 </div>
 </figure>
+-->
 
 ## Transportation
 
@@ -500,13 +511,15 @@ The event will take place at Grand Park + The Music Center:<br />
 
 ### Street Closures
 
+Coming soon! 
+<!--
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
+-->
 
 <!--
 <figure class="map">
   <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
 </figure>
--->
 
 <figure>
 <div data-aspect-ratio-landscape="1680/942" data-aspect-ratio="850/942">
@@ -530,6 +543,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+-->
 
 ### Parking
 
@@ -545,10 +559,6 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 [Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
-County Courthouse Garage
-: <abbr title="also known as">aka</abbr> Lot 17, located at 131 South Olive Street. Enter on Olive Street.
-: _(limited spaces available)_
-
 Health Services Garage
 : <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
@@ -560,7 +570,7 @@ Chinatown Garage
 
 ### Go Metro
 
-Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2017 to 2 a.m. on January 1, 2018.
+Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2018 to 2 a.m. on January 1, 2019.
 
 While the Metro Red/Purple Line to _Civic Center/Grand Park Station_ exits directly into Grand Park, _Pershing Square Station_ and _Union Station_ are also within walkable distance (and might be less crowded!) 
 
@@ -622,11 +632,14 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
   <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
   <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-  <li><img src="/images/logos/huizar.png" alt="Team Huizar, Council District 14" /></li>
+  <!--
+<li><img src="/images/logos/huizar.png" alt="Team Huizar, Council District 14" /></li>
   <li><img src="/images/logos/metro.png" alt="Metro" /></li>
   <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
   <li><img src="/images/logos/macys.png" alt="Macy’s" /></li>
+-->
 </ul>
+
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
 
