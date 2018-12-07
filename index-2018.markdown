@@ -239,6 +239,9 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 ### DJ Day
 
+
+### The NYELA All-Female DJ Lineup featuring Ericalandia, Kronika, Spiñorita
+
 <!--
 <figure>
 <div data-aspect-ratio="1/1">
@@ -247,7 +250,6 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 </figure>
 --!>
 
-### The NYELA all-female DJ lineup: Ericalandia, Kronika, Spiñorita
 
 <!--
 <div class="beat-junkies">
@@ -297,9 +299,10 @@ _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
 
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food-trucks) will run until 1am. The event ends at 1am on January 1.
 
+<!--
 *Experience some of L.A.’s best on two music stages:* 
 
-<!--
+
 ### Countdown Stage
 
 #### Located at Grand Park’s Event Lawn in front of City Hall
@@ -356,6 +359,7 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 : *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
 -->
 
+<!--
 ### Get Down Stage
 
 #### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
@@ -373,8 +377,10 @@ _Host by: Mr. Choc_
 
 12:00 a.m. to 1:00 a.m.
 : The Beat Junkies
+-->
 
 
+<!--
 ### Funktown Stage
 
 Hosted by: *[DJ Paris Paul](https://www.facebook.com/DJParisPaul/)*
