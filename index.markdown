@@ -290,7 +290,7 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 <figure>
 <div>
-<img src="/images/artists/spiñorita.jpg" width="500" alt="Spiñorita" />
+<img src="/images/artists/spinorita.jpg" width="500" alt="Spiñorita" />
 </div>
 </figure>
 
