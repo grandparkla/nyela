@@ -204,6 +204,32 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
+<div class="all-star-band">
+<figure>
+<div>
+<img src="/images/artists/aloe-blacc.jpg" width="500" alt="Aloe Blacc" />
+</div>
+</figure>
+
+<figure>
+<div>
+<img src="/images/artists/maya-jupiter.jpg" width="500" alt="Maya Jupiter" />
+</div>
+</figure>
+
+<figure>
+<div>
+<img src="/images/artists/irka-mateo.jpg" width="500" alt="Irka Mateo" />
+</div>
+</figure>
+
+<figure>
+<div>
+<img src="/images/artists/georgia-muldrow.jpg" width="500" alt="Irka Mateo" />
+</div>
+</figure>
+</div>
+
 <!--
 <div class="all-star-band">
 <figure>
@@ -240,8 +266,35 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 ### DJ Day
 
+<figure>
+<div>
+<img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
+</div>
+</figure>
+
 
 ### The NYELA All-Female DJ Lineup featuring Ericalandia, Kronika, Spiñorita
+
+<div class="all-star-band">
+<figure>
+<div>
+<img src="/images/artists/erica-landia.jpg" width="500" alt="Erica Landia" />
+</div>
+</figure>
+
+<figure>
+<div>
+<img src="/images/artists/kronika.jpg" width="500" alt="Kronika" />
+</div>
+</figure>
+
+<figure>
+<div>
+<img src="/images/artists/spiñorita.jpg" width="500" alt="Spiñorita" />
+</div>
+</figure>
+
+</div>
 
 <!--
 <figure>
