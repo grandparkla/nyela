@@ -12,6 +12,7 @@ layout: default
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
+
 <!--
 * [Watch Live](#watch-live)
 -->
@@ -248,7 +249,7 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 <img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1024-wide/djfrancescaharding.jpg 1024w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
 </div>
 </figure>
---!>
+-->
 
 
 <!--
@@ -292,8 +293,8 @@ _The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs
 </div>
 </figure>
 
-</div>
 -->
+</div>
 
 ## Event Schedule
 
@@ -331,6 +332,7 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 12:00 a.m. to 1:00 a.m.
 : Aloe Blacc + Maya Jupiter + DJ Day + Special Guests
+-->
 
 <!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
 
@@ -402,6 +404,7 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 
 ## Fun Stuff to Hear, See and Do!
 
+<!--
 ### 2 Music Stages
 
 Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
@@ -434,7 +437,8 @@ Dance and snap your selfies at the audio-responsive light installation located a
 
 ### Food Trucks
 
-* To be announced!
+To be announced!
+
 <!--
 * [Austyn's Burger](http://www.austynsburger.com)
 * [Banh Mi in LA](https://twitter.com/banhmiinla)
@@ -498,6 +502,7 @@ Dance and snap your selfies at the audio-responsive light installation located a
 ## Event Map
 
 Coming soon!
+
 <!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
@@ -518,6 +523,7 @@ The event will take place at Grand Park + The Music Center:<br />
 ### Street Closures
 
 Coming soon! 
+
 <!--
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
 -->
