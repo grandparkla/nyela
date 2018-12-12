@@ -149,7 +149,7 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Tents
 * Umbrellas
 * Unauthorized vending
-* Unleased animals 
+* Unleashed animals 
 * Vaping 
 * Weapons
 
