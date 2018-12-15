@@ -4,15 +4,14 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
-
-* [Weather](#weather)
 * [Safety](#safety)
 * [Schedule](#event-schedule)
-* [Fun!](#fun-stuff-to-hear-see-and-do)
+* [Artists](#featured-artists)
 * [Map](#event-map)
 * [Transportation](#transportation)
 
 <!--
+* [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Watch Live](#watch-live)
 -->
 
@@ -609,7 +608,7 @@ Olive Street
 -->
 </figure>
 
-_See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event._
+See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event.
 
 <!--
 <figure class="map">
