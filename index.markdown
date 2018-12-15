@@ -171,7 +171,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Vaping
 * Bicycles
 
-[Valet parking for bicycles](#bicycle-parking) will be available at Broadway and West 2nd Street.
+[Valet parking for bicycles](#bicycle-parking) will be available at Hill St. and West 2nd Street.
 
 ### Items You Can Bring
 
