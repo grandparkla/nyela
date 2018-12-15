@@ -171,7 +171,7 @@ This is a space for unity – where Angelenos and visitors from all around the w
 * Vaping
 * Bicycles
 
-[Valet parking for bicycles](#bicycle-parking) will be available at Hill St. and West 2nd Street.
+[Valet parking for bicycles](#bicycle-parking) will be available at Hill Street and West 2nd Street.
 
 ### Items You Can Bring
 
@@ -642,7 +642,7 @@ Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.
 
 ### Bicycle Parking
 
-Valet parking for bicycles will be available at [Broadway and West 2nd Street](https://www.google.com/maps/place/W+2nd+St+%26+S+Broadway,+Los+Angeles,+CA+90012/@34.0524028,-118.2488869,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64ea867361b:0xc143f475fbc36043!8m2!3d34.0524028!4d-118.2466929).
+Valet parking for bicycles will be available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/S+Hill+St+%26+W+2nd+St,+Los+Angeles,+CA+90012/@34.0531231,-118.2499742,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x58663dce62ee9943!8m2!3d34.0531231!4d-118.2477855).
 
 The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](http://la-bike.org/).
 
