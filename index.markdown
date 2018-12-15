@@ -574,7 +574,42 @@ The event will take place at Grand Park + The Music Center:<br />
 
 ### Street Closures
 
-See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
+<figure>
+<div>
+<a href="/nyela-community-letter.pdf">
+<img src="/images/street-closures.png" width="500" alt="Olive Street, Hill Street, Broadway, and Spring Street will be closed in the area around Grand Park (between Temple Street and 2nd Street). 1st Street and 2nd street will also be closed in the area around Grand Park (between Grand Avenue and Main Street)." />
+</a>
+</div>
+
+<!--
+<figcaption markdown="1" style="position: absolute; left: -9999px;">
+Street Closures
+
+Hill Street
+: Between Temple Street and 2nd Street
+
+Broadway
+: Between Temple Street and 2nd Street
+
+Spring Street
+: Between Temple Street and 2nd Street
+
+1st Street
+: Between Grand Avenue and Spring Street
+
+1st Street
+: Between Spring Street and Main Street (eastbound lane only)
+
+Olive Street
+: Between 1st Street and 2nd Street
+
+2nd Street
+: Between Grand Avenue and Hill Street
+</figcaption>
+-->
+</figure>
+
+_See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event._
 
 <!--
 <figure class="map">
