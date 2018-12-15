@@ -574,11 +574,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 ### Street Closures
 
-Coming soon! 
-
-<!--
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for details about streets that will be closed during the event.
--->
 
 <!--
 <figure class="map">
