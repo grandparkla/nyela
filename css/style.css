@@ -250,7 +250,10 @@
   ----------------------------------------------- */
   header h1 {
     font-size: inherit;
-    background-color: rgb(29, 15, 81);
+    background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
+    border-bottom-width: calc(1.45em / 8);
+    border-bottom-style: solid;
+    border-bottom-color: rgb(125, 210, 242); /* @blue */
     color: white;
     position: relative;
 /*
