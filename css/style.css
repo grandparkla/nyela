@@ -49,7 +49,9 @@
 
   a {
     color: inherit;
+    color: rgb(19, 177, 216); /* @mediumblue */
     color: rgb(90, 150, 55); /* @mediumgreen */
+
     transition: color 0.2s;
     /*
     text-decoration: none;
@@ -59,6 +61,7 @@
   a[href]:active,
   a[href]:focus {
     color: rgb(235, 12, 128); /* @pink */
+    color: rgb(19, 127, 166); /* @darkblue */
     color: rgb(41, 96, 46); /* @darkgreen */
     text-decoration: underline;
   }
@@ -69,6 +72,8 @@
     padding: 0.725em 1.45em;
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white !important;
+    background-color: rgb(69, 227, 255); /* @blue */
+    color: rgb(19, 127, 166); /* @darkblue */
     background-color: rgb(140, 197, 65); /* @green */
     color: rgb(41, 96, 46); /* @darkgreen */
     text-decoration: none;
@@ -81,6 +86,7 @@
   .action a:active,
   .action a:focus {
     background-color: rgb(235, 12, 128); /* @pink */
+    background-color: rgb(19, 177, 216); /* @mediumblue */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     color: white;
     text-decoration: none;
@@ -635,6 +641,8 @@
     color: white;
     background-color: rgb(140, 197, 65); /* @green */
     color: rgb(41, 96, 46); /* @darkgreen */
+    background-color: rgb(125, 210, 242); /* @blue */
+    color: rgb(19, 127, 166); /* @darkblue */
     text-decoration: none;
     border-radius: 0.25em;
     transition: background-color 0.2s, color 0.2s;
@@ -645,6 +653,7 @@
   body > ul:first-of-type a[href]:focus {
     background-color: rgb(235, 12, 128); /* @pink */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
+    background-color: rgb(19, 177, 216); /* @mediumblue */
     color: white;
     text-decoration: none;
   }
@@ -962,11 +971,13 @@
     display: inline-block; /* SHIM: Avoid wrapping links inside the last header */
   }
   h2.powered-by a[href] {
+    color: rgb(19, 177, 216) !important; /* @mediumblue */
     color: rgb(90, 150, 55) !important; /* @mediumgreen */
   }
   h2.powered-by a[href]:hover,
   h2.powered-by a[href]:active,
   h2.powered-by a[href]:focus {
+    color: rgb(19, 127, 166) !important; /* @darkblue */
     color: rgb(41, 96, 46) !important; /* @darkgreen */
   }
 
