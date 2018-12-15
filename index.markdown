@@ -1,6 +1,5 @@
 ---
-title: 'Grand Park + The Music Center. New Year’s Eve – Los Angeles. Countdown to
-  2019. #NYELA'
+title: 'New Year’s Eve, Los Angeles. Countdown to 2019. Grand Park + The Music Center'
 date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
@@ -694,16 +693,12 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 <h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
 
 <ul class="logos">
-  <li><img src="/images/logos/los-angeles.png" alt="County of Los Angeles" /></li>
-  <li><img src="/images/logos/grandpark-musiccenter.png" alt="Grand Park + The Music Center" /></li>
-  <li><img src="/images/logos/hildal.png" alt="Supervisor Hilda L. Solis" /></li>
-	<li><img src="/images/logos/council-district-14.png" alt="Council District 14" /></li>
-  <!--
-<li><img src="/images/logos/huizar.png" alt="Team Huizar, Council District 14" /></li>
-  <li><img src="/images/logos/metro.png" alt="Metro" /></li>
-  <li><img src="/images/logos/kaiser.png" alt="Kasier Permanente" /></li>
-  <li><img src="/images/logos/macys.png" alt="Macy’s" /></li>
--->
+  <li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
+  <li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" /></li>
+  <li><img src="/images/sponsors/hildal.svg" alt="Supervisor Hilda L. Solis" /></li>
+  <li><img src="/images/sponsors/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
+  <li><img src="/images/sponsors/german-light.svg" alt="German Light Products" /></li>
+  <li><img src="/images/sponsors/t-mobile.svg" alt="Metro by T-Mobile" /></li>
 </ul>
 
 
@@ -713,7 +708,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li>
     <a href="https://www.facebook.com/grandparklosangeles">
       <svg class="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
-		<title>Facebook</title>
+        <title>Facebook</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#3B5998"></path>
@@ -727,7 +722,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li>
     <a href="https://twitter.com/GrandPark_LA">
       <svg class="twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
-		<title>Twitter</title>
+        <title>Twitter</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#55ACEE"></path>
@@ -741,7 +736,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li>
     <a href="https://instagram.com/grandpark_la">
       <svg class="instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
-		<title>Instagram</title>
+        <title>Instagram</title>
         <switch>
           <g>
             <path class="circle" d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#E4384E"></path>
@@ -760,7 +755,7 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <h2 class="logo">
     <a href="http://grandparkla.org">
       <svg viewBox="0 0 157.1 35.9" width="158" height="36" class="grand-park">
-		<title>Grand Park</title>
+        <title>Grand Park</title>
         <switch>
           <g>
             <path d="M13.5,11.3V5.8c0-2.8-0.4-5.6-4.9-5.8v0H4.9v0C0.4,0.2,0,3,0,5.8v23.7c0,4.7,1.2,6.1,4.9,6.2v0l3.6,0v0 c3.7,0,4.9-1.5,4.9-6.2V16.7H8.8H6.4v4.3h2.4v8.2c0,1.2-0.1,2-1.5,2H6.2c-1.3,0-1.5-0.8-1.5-2V6.8c0-1.4,0-2.5,1.9-2.5h0.3 c1.8,0,1.9,1.1,1.9,2.5v4.4H13.5z"/>
@@ -786,9 +781,6 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
       <li><a href="http://grandparkla.org/faqs/">FAQs</a></li>
     </ul>
     <ul class="nav">
-      <!--
-      <li><a href="http://grandparkla.org/meet-the-staff/">Staff</a></li>
-      -->
       <li><a href="http://grandparkla.org/category/blog/">Blog</a></li>
       <li><a href="http://grandparkla.org/sign-up/">Newsletter</a></li>
       <li><a href="http://grandparkla.org/media/">Press</a></li>

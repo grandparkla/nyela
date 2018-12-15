@@ -406,7 +406,7 @@
   }
   .logos img {
     width: auto;
-    height: 2.9em;
+    height: 4.35em; /* 1.45 x 3 */
   }
   @media (min-width: 100em) {
     .logos li {
