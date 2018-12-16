@@ -608,6 +608,8 @@ Olive Street
 -->
 </figure>
 
+Street closures will begin taking effect 6 a.m. on Monday, December 31. All streets will reopen by 6 a.m. on Tuesday, January 1.
+
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event.
 
 <!--
