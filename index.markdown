@@ -729,11 +729,12 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 <ul class="logos">
   <li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
-  <li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" /></li>
+  <li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" style="font-size: 0.75em"  /></li>
   <li><img src="/images/sponsors/hildal.svg" alt="Supervisor Hilda L. Solis" /></li>
   <li><img src="/images/sponsors/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
   <li><img src="/images/sponsors/german-light.svg" alt="German Light Products" /></li>
-  <li><img src="/images/sponsors/t-mobile.svg" alt="Metro by T-Mobile" /></li>
+  <li><img src="/images/sponsors/kaiser.png" alt="Kaiser Permanente, Los Angeles Medical Center" style="font-size: 0.5em" /></li>
+  <li><img src="/images/sponsors/t-mobile.svg" alt="Metro by T-Mobile" style="font-size: 0.75em" /></li>
 </ul>
 
 
