@@ -416,6 +416,7 @@
   .logos img {
     width: auto;
     height: 4.35em; /* 1.45 x 3 */
+    object-fit: contain;
   }
   @media (min-width: 100em) {
     .logos li {
@@ -611,13 +612,13 @@
 
   /* =Navigation
   ----------------------------------------------- */
-  body > ul:first-of-type,
-  body > ul:first-of-type li {
+  main > ul:first-of-type,
+  main > ul:first-of-type li {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
   }
-  body > ul:first-of-type {
+  main > ul:first-of-type {
     margin-left: auto;
     margin-top: 2.175em;
     margin-bottom: 1.45em;
@@ -625,18 +626,18 @@
     flex-wrap: wrap;
   }
   @media (min-width: 40em) {
-    body > ul:first-of-type {
+    main > ul:first-of-type {
       margin-top: 3.625em;
       margin-bottom: 2.175em;
     }
   }
-  body > ul:first-of-type li {
+  main > ul:first-of-type li {
     display: inline-block;
     margin-right: 0.25em;
     margin-bottom: 0.25em;
     flex-grow: 1;
   }
-  body > ul:first-of-type a {
+  main > ul:first-of-type a {
     display: block;
     text-align: center;
     padding: 0.725em 1.45em;
@@ -651,9 +652,9 @@
     transition: background-color 0.2s, color 0.2s;
     font-weight: bold;
   }
-  body > ul:first-of-type a[href]:hover,
-  body > ul:first-of-type a[href]:active,
-  body > ul:first-of-type a[href]:focus {
+  main > ul:first-of-type a[href]:hover,
+  main > ul:first-of-type a[href]:active,
+  main > ul:first-of-type a[href]:focus {
     background-color: rgb(235, 12, 128); /* @pink */
     background-color: rgb(90, 150, 55); /* @mediumgreen */
     background-color: rgb(19, 177, 216); /* @mediumblue */
