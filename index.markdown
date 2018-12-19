@@ -288,7 +288,7 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 <figure>
 <div>
-<img src="/images/artists/spinorita.jpg" width="500" alt="Spiñorita" />
+<img src="/images/artists/spinorita.jpg" width="500" alt="Spiñorita" />
 </div>
 </figure>
 
@@ -659,10 +659,13 @@ Health Services Garage
 : <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
 Chinatown Garage
-: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring street. Enter on Spring Street.
+: <abbr title="also known as">aka</abbr> Lot 45, located at 725 North Spring Street. Enter on Spring Street.
 
 [FIGat7th](http://www.figat7th.com/directions-parking-2/)
 : located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
+
+[LA Times Parking](https://www.google.com/maps/place/213+S+Spring+Parking/@34.0559683,-118.2561293,15z/data=!4m19!1m13!4m12!1m4!2m2!1d-118.2482432!2d34.0606976!4e1!1m6!1m2!1s0x80c2c6495b1370a7:0xee50af532b685cb3!2sla+times+parking+google+maps!2m2!1d-118.2463628!2d34.0512112!3m4!1s0x80c2c6495b1370a7:0xee50af532b685cb3!8m2!3d34.0512112!4d-118.2463628)
+: located at 213 South Spring Street. Enter on Spring Street. 
 
 ### Go Metro
 
