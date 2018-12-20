@@ -4,6 +4,13 @@ date: 2016-12-29 15:35:00 -08:00
 layout: default
 ---
 
+<!--
+<section class="special-notice" role="status">
+  <h1>Special Notice</h1>
+  <p>The northern Metro entrance on Hill Street will open after the countdown, and offers the quickest exit from the park.</p>
+</section>
+-->
+
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Artists](#featured-artists)

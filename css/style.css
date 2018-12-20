@@ -1163,3 +1163,12 @@
   }
 
 
+  /* =Special Notice
+  ----------------------------------------------- */
+  .special-notice {
+    padding: 1px 3em 3em;
+    margin-left: -3em;
+    margin-right: -3em;
+    background-color: #F7EF5C;
+  }
+
