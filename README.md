@@ -6,7 +6,7 @@ https://nyela.grandparkla.org
 
 * [How to make changes](#how-to-make-changes)
 * [How to add an image](#how-to-add-an-image)
-* [How to develop locally](#how-to-develop-locally)
+* [How to develop locally](#how-to-work-locally)
 * [Handy guides](#handy-guides)
 
 ## How to make changes
@@ -51,7 +51,7 @@ You can also create an image with [HTML](https://developer.mozilla.org/en-US/doc
 <img src="/uploads/aloe-blacc.jpg" alt="Aloe Blacc" />
 ```
 
-## How to preview the website on your computer
+## How to work locally
 
 If you want to see a preview of your changes while you work, you can [run Jekyll](https://jekyllrb.com) on your computer. [Installing Ruby and Jekyll](https://jekyllrb.com/docs/installation/) is a good place to start.
 
