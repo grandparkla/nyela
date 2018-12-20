@@ -1,6 +1,11 @@
 ---
 title: Grand Park and The Music Center. New Year’s Eve, Los Angeles.
 timezone: America/Los_Angeles
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
 collections:
   posts:
     title: Posts
