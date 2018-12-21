@@ -19,7 +19,7 @@ The northern Metro entrance on Hill Street will open after the countdown, and of
 * [Transportation](#transportation)
 
 <!--
-* [My Dream City](#my-dream-city)
+* [My Dream LA](#my-dream-la)
 -->
 
 <!--
@@ -711,12 +711,12 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 *This address is for navigation only and is not an official event or affiliate address.*
 
 
-## My Dream City
+## My Dream LA
 
-Students from Benjamin Franklin Elementary School, George De La Torre Jr. Elementary School, Magnolia Science, Wilson Elementary School, and Valencia Academy submitted their ideas for [My Dream City](/my-dream-city) as part of the _Countdown to 2019, New Year’s Eve celebration at Grand Park LA_.
+Students from Benjamin Franklin Elementary School, George De La Torre Jr. Elementary School, Magnolia Science, Wilson Elementary School, and Valencia Academy submitted their ideas for [My Dream LA](/my-dream-la) as part of the _Countdown to 2019, New Year’s Eve celebration at Grand Park LA_.
 
 <!--
-[![My Dream City](/images/kids.png)](/my-dream-city)
+[![My Dream LA](/images/kids.png)](/my-dream-la)
 -->
 
 
