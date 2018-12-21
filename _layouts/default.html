@@ -20,6 +20,13 @@
   <meta name="msapplication-TileImage" content="/images/favicon.png" />
   <meta name="msapplication-TileColor" content="rgb(255, 255, 255)" />
 
+  {% if page.redirect %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+  {% endif %}
+
+  {% capture canonical_url %}https://nyela.grandparkla.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  <link rel="canonical" href="{{ canonical_url }}" />
+
 </head>
 <body>
 
