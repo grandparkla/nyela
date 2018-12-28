@@ -254,6 +254,7 @@
     border-bottom-width: calc(1.45em / 8);
     border-bottom-style: solid;
     border-bottom-color: rgb(125, 210, 242); /* @blue */
+    border-bottom-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
     color: white;
     position: relative;
 /*
@@ -1169,6 +1170,16 @@
     padding: 1px 3em 3em;
     margin-left: -3em;
     margin-right: -3em;
-    background-color: #F7EF5C;
+    background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
+    color: white;
+  }
+  .special-notice h1 {
+    color: #ECB0BC;
+  }
+  .special-notice a,
+  .special-notice a:hover,
+  .special-notice a:active,
+  .special-notice a:focus {
+    color: inherit;
   }
 

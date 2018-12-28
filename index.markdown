@@ -2,15 +2,14 @@
 title: 'New Year’s Eve, Los Angeles. Countdown to 2019. Grand Park + The Music Center'
 ---
 
-<!--
 <section class="special-notice" role="status" markdown="1">
 
-# Special Notice
+# Announcements
 
-The northern Metro entrance on Hill Street will open after the countdown, and offers the quickest exit from the park.
+Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for important
+announcements on New Year‘s Eve.
 
 </section>
--->
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
