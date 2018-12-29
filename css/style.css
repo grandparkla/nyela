@@ -1167,9 +1167,9 @@
   /* =Special Notice
   ----------------------------------------------- */
   .special-notice {
-    padding: 1px 3em 3em;
-    margin-left: -3em;
-    margin-right: -3em;
+    padding: 1px 2.9em 2.9em;
+    margin-left: -2.9em;
+    margin-right: -2.9em;
     background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
     color: white;
   }
