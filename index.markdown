@@ -18,8 +18,8 @@ announcements on New Year‘s Eve.
 * [Transportation](#transportation)
 
 <!--
-* [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Watch Live](#watch-live)
+* [Fun!](#fun-stuff-to-hear-see-and-do)
 * [My Dream LA](#my-dream-la)
 -->
 
@@ -36,7 +36,7 @@ Grand Park + The Music Center:<br />
 
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
-<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" rel="noopener" class="has-icon">
+<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
 <!-- Jim’s Google Maps API key -->
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
@@ -62,16 +62,15 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
-<!--
 ## Watch Live!
 
-Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Years Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2018.
+Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
 
-Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos/10155190090262844/).
+Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/videos/).
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" rel="noopener" class="has-icon">
+<a href="https://www.facebook.com/pg/MusicCenterLA/videos/" class="has-icon">
 <img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -86,7 +85,6 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 </a>
 </div>
 </figure>
--->
 
 <!--
 <figure class="feature">
@@ -630,7 +628,7 @@ See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more deta
 
 <figure>
 <div data-aspect-ratio-landscape="1680/942" data-aspect-ratio="850/942">
-<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" target="_blank" rel="noopener" class="has-icon">
+<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" class="has-icon">
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
@@ -738,7 +736,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://vimeo.com/165034815" target="_blank" rel="noopener" class="has-icon">
+<a href="https://vimeo.com/165034815" class="has-icon">
 <!--
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
 -->
