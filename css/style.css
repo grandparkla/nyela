@@ -323,6 +323,7 @@
     color: black;
     transition: background-color 0.2s;
     font-size: 1.5em;
+    z-index: 1;
   }
   .has-icon .icon.play {
     top: 50%;
@@ -1242,3 +1243,23 @@
     color: inherit;
   }
 
+
+  /* =My Dream LA
+  ----------------------------------------------- */
+  figure.my-dream-la > div[data-aspect-ratio] a.has-icon::before {
+    content: "";
+    background-color: hsla(360, 0%, 0%, 0.1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  /* img[src*="images/my-dream-la"] {
+    height: 20em;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: 2px solid;
+  } */

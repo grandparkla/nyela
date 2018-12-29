@@ -18,12 +18,9 @@ announcements on New Year‘s Eve.
 * [Transportation](#transportation)
 
 <!--
-* [My Dream LA](#my-dream-la)
--->
-
-<!--
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Watch Live](#watch-live)
+* [My Dream LA](#my-dream-la)
 -->
 
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
@@ -713,13 +710,28 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 *This address is for navigation only and is not an official event or affiliate address.*
 
 
-## My Dream LA
+## [My Dream LA](/my-dream-la)
 
 Students from Benjamin Franklin Elementary School, George De La Torre Jr. Elementary School, Magnolia Science, Wilson Elementary School, and Valencia Academy submitted their ideas for [My Dream LA](/my-dream-la) as part of the _Countdown to 2019, New Year’s Eve celebration at Grand Park LA_.
 
-<!--
-[![My Dream LA](/images/kids.png)](/my-dream-la)
--->
+<figure class="my-dream-la">
+<div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
+<a href="/my-dream-la" class="has-icon">
+<img src="/images/my-dream-la.jpg" width="1000" alt="" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</div>
+</figure>
+
 
 
 ## Highlights from past events
