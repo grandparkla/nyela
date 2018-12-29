@@ -213,30 +213,32 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
-<div class="all-star-band">
-<figure>
-<div>
-<img src="/images/artists/aloe-blacc.jpg" width="500" alt="Aloe Blacc" />
-</div>
-</figure>
+<div class="artist-group">
 
-<figure>
-<div>
-<img src="/images/artists/maya-jupiter.jpg" width="500" alt="Maya Jupiter" />
-</div>
-</figure>
+  <figure style="--image-width: 451; --image-height: 676;">
+    <div>
+      <img src="/images/artists/aloe-blacc.jpg" width="451" height="676" alt="Aloe Blacc" />
+    </div>
+  </figure>
 
-<figure>
-<div>
-<img src="/images/artists/irka-mateo.jpg" width="500" alt="Irka Mateo" />
-</div>
-</figure>
+  <figure style="--image-width: 486; --image-height: 730;">
+    <div>
+      <img src="/images/artists/maya-jupiter.jpg" width="486" height="730" alt="Maya Jupiter" />
+    </div>
+  </figure>
 
-<figure>
-<div>
-<img src="/images/artists/georgia-muldrow.jpg" width="500" alt="Irka Mateo" />
-</div>
-</figure>
+  <figure style="--image-width: 605; --image-height: 909;">
+    <div>
+      <img src="/images/artists/irka-mateo.jpg" width="605" height="909" alt="Irka Mateo" />
+    </div>
+  </figure>
+
+  <figure style="--image-width: 909; --image-height: 909; --image-focus: left;">
+    <div>
+      <img src="/images/artists/georgia-muldrow.jpg" width="909" height="909" alt="Georgia Anne Muldrow" />
+    </div>
+  </figure>
+
 </div>
 
 <!--
@@ -284,24 +286,25 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 ### The NYELA All-Female DJ Lineup featuring Ericalandia, Kronika, Spiñorita
 
-<div class="all-star-band">
-<figure>
-<div>
-<img src="/images/artists/erica-landia.jpg" width="500" alt="Erica Landia" />
-</div>
-</figure>
+<div class="artist-group">
 
-<figure>
-<div>
-<img src="/images/artists/kronika.jpg" width="500" alt="Kronika" />
-</div>
-</figure>
+  <figure style="--image-width: 375; --image-height: 563;">
+    <div>
+      <img src="/images/artists/erica-landia.jpg" width="375" height="563" alt="Erica Landia" />
+    </div>
+  </figure>
 
-<figure>
-<div>
-<img src="/images/artists/spinorita.jpg" width="500" alt="Spiñorita" />
-</div>
-</figure>
+  <figure style="--image-width: 1999; --image-height: 1336;">
+    <div>
+      <img src="/images/artists/kronika.jpg" width="1999" height="1336" alt="Kronika" />
+    </div>
+  </figure>
+
+  <figure style="--image-width: 943; --image-height: 672;">
+    <div>
+      <img src="/images/artists/spinorita.jpg" width="943" height="672" alt="Spiñorita" />
+    </div>
+  </figure>
 
 </div>
 

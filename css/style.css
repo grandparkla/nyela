@@ -479,7 +479,8 @@
     width: 100%;
   }
   figure > div[data-aspect-ratio] a,
-  figure > div[data-aspect-ratio] img {
+  figure > div[data-aspect-ratio] img,
+  figure[style*="--image-width"][style*="--image-height"] img {
     position: absolute;
     top: 0;
     left: 0;
@@ -508,6 +509,15 @@
     left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  figure[style*="--image-width"][style*="--image-height"] > div {
+    position: relative;
+    padding-bottom: calc(var(--image-height)/var(--image-width) * 100%); 
+  }
+
+  figure > div[data-aspect-ratio="451/676"] {
+    padding-bottom: 149.88913525%;
   }
 
   figure > div[data-aspect-ratio="1280/720"] {
@@ -1097,6 +1107,7 @@
   }
 
   @media (min-width: 45.8em) {
+    /*
     .all-star-band {
       width: 40em;
       max-width: 100%;
@@ -1139,6 +1150,43 @@
     .beat-junkies figure:nth-child(3) {
       clear: both;
     }
+    */
+    
+
+    .artist-group {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      margin-top: 2.9em;
+      margin-bottom: calc(2.9em * 2);
+      max-width: 40em;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .artist-group > figure {
+      width: 100%;
+      margin: 0;
+    }
+    .artist-group > figure > div {
+      padding-bottom: 150% !important;
+    }
+    .artist-group > figure > div img {
+      object-fit: cover;
+      object-position: center;
+      height: 100% !important;
+    }
+    .artist-group > figure:nth-child(2)[style*="--image-width: 1999; --image-height: 1336;"] {
+      grid-column: 1/-1;
+      grid-row: 2;
+    }
+    .artist-group > figure:nth-child(2)[style*="--image-width: 1999; --image-height: 1336;"] div {
+      padding-bottom: 75% !important
+    }
+    .artist-group > figure[style*="--image-focus: left;"] img {
+      object-position: left;
+    }
+    
+
+
 
     .featured-artists ul {
       display: flex;
@@ -1167,11 +1215,18 @@
   /* =Special Notice
   ----------------------------------------------- */
   .special-notice {
-    padding: 1px 2.9em 2.9em;
-    margin-left: -2.9em;
-    margin-right: -2.9em;
+    padding: 1px 1.45em 1.45em;
+    margin-left: -1.45em;
+    margin-right: -1.45em;
     background-color: hsl(254.4, 71.7%, 19.4%); /* @purple */
     color: white;
+  }
+  @media (min-width: 40em) {
+    .special-notice {
+      padding: 1px 2.9em 2.9em;
+      margin-left: -2.9em;
+      margin-right: -2.9em;
+    }
   }
   .special-notice h1 {
     color: #ECB0BC;
