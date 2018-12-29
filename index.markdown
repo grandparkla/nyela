@@ -676,7 +676,7 @@ Chinatown Garage
 : located at South Figueroa Street and 7th Street. Enter on 7th Street. PARK & PLAY for $5 at FIGat7th with retail store or eatery validation. The structure is open 24 hours and parking validation is valid for up to 12 hours.
 
 [LA Times Parking](https://www.google.com/maps/place/221+W+2nd+St,+Los+Angeles,+CA+90012/@34.0522233,-118.2483941,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64eadc4ee6d:0x40845fc2a2ae4142!8m2!3d34.0522233!4d-118.2462054)
-: located at our 221 W. 2nd street garage. Enter on 2nd Street. 
+: located at 221 W. 2nd Street. Enter on 2nd Street. 
 
 ### Go Metro
 
