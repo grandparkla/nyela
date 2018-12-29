@@ -1152,6 +1152,10 @@
     }
     */
     
+    .featured-artists > figure {
+      margin-top: 2.9em;
+      margin-bottom: calc(2.9em * 2);
+    }
 
     .artist-group {
       display: grid;
