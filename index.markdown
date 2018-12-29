@@ -23,7 +23,7 @@ announcements on New Year‘s Eve.
 * [My Dream LA](#my-dream-la)
 -->
 
-What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](//grandparkla.org) and [The Music Center](http://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
+What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
 ### When
 
@@ -36,7 +36,7 @@ Grand Park + The Music Center:<br />
 
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
-<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" class="has-icon">
+<a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" target="_blank" rel="noopener" class="has-icon">
 <!-- Jim’s Google Maps API key -->
 <picture>
 <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
@@ -71,7 +71,7 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" class="has-icon">
+<a href="https://www.facebook.com/MusicCenterLA/videos/10155190090262844/" target="_blank" rel="noopener" class="has-icon">
 <img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -98,7 +98,7 @@ Watch the [live countdown to 2018](https://www.facebook.com/MusicCenterLA/videos
 
 ## Weather
 
-Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](http://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
+Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](https://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
 
 Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The Music Center's N.Y.E.L.A. will continue rain or shine.
 
@@ -566,7 +566,7 @@ To be announced!
 Coming soon!
 
 <!--
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](http://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
+Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](https://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
 [Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
 
@@ -630,7 +630,7 @@ See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more deta
 
 <figure>
 <div data-aspect-ratio-landscape="1680/942" data-aspect-ratio="850/942">
-<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" target="_blank" class="has-icon">
+<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" target="_blank" rel="noopener" class="has-icon">
 <picture>
 <source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
 <source srcset="/images/street-closures-portrait.png" sizes="100vw" />
@@ -663,7 +663,7 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 : **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
 -->
 
-[Walt Disney Concert Hall Garage](http://www.laphil.com/visit/parking)
+[Walt Disney Concert Hall Garage](https://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
 Health Services Garage
@@ -694,7 +694,7 @@ Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.
 
 Valet parking for bicycles will be available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/S+Hill+St+%26+W+2nd+St,+Los+Angeles,+CA+90012/@34.0531231,-118.2499742,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x58663dce62ee9943!8m2!3d34.0531231!4d-118.2477855).
 
-The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](http://la-bike.org/).
+The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](https://la-bike.org).
 
 ### Taking Rideshare Like Lyft Or Uber?
 
@@ -738,7 +738,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://vimeo.com/165034815" target="_blank" class="has-icon">
+<a href="https://vimeo.com/165034815" target="_blank" rel="noopener" class="has-icon">
 <!--
 <img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
 -->
@@ -758,10 +758,10 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </figure>
 
 <!--
-<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="http://grandparkla.org/calendar/">Full Calendar</a></p>
+<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="https://grandparkla.org/calendar/">Full Calendar</a></p>
 -->
 
-<h2 class="powered-by"><a href="http://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="http://www.musiccenter.org/">The Music Center</a></h2>
+<h2 class="powered-by"><a href="https://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="https://www.musiccenter.org">The Music Center</a></h2>
 
 <ul class="logos">
   <li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
@@ -774,4 +774,4 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </ul>
 
 
-<p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="http://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
+<p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="https://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
