@@ -85,7 +85,7 @@ Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/vid
 </switch>
 </svg>
 </span>
-<span class="credit">The Music Center’s video page on Facebook</span>
+<span class="credit">Grand Park on Facebook</span>
 </a>
 </div>
 </figure>
