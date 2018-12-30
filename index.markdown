@@ -12,16 +12,11 @@ announcements on New Year‘s Eve.
 </section>
 
 * [Safety](#safety)
-* [Artists](#featured-artists)
-* [Transportation](#transportation)
-* [My Dream LA](/my-dream-la)
-* [Watch Live](#watch-live)
-
-<!--
 * [Schedule](#event-schedule)
-* [Map](#event-map)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
--->
+* [Map](#event-map)
+* [Transportation](#transportation)
+* [Watch Live](#watch-live)
 
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
 
@@ -275,7 +270,6 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food-trucks) will run until 1am. The event ends at 1am on January 1.
 
-<!--
 *Experience some of L.A.’s best on two music stages:* 
 
 
@@ -283,6 +277,7 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 #### Located at Grand Park’s Event Lawn in front of City Hall
 
+<!--
 
 8:00 to 9:00 p.m.
 : DJ Day
@@ -336,11 +331,11 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 : *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
 -->
 
-<!--
 ### Get Down Stage
 
 #### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
+<!--
 _Host by: Mr. Choc_
 
 8:00 p.m. to 8:25 p.m.
@@ -357,35 +352,15 @@ _Host by: Mr. Choc_
 -->
 
 
-<!--
-### Funktown Stage
-
-Hosted by: *[DJ Paris Paul](https://www.facebook.com/DJParisPaul/)*
-
-Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
-
-08:00pm—10:30pm
-: *DJ Paris Paul*
-
-10:30pm—11:45pm
-: *DJ Rell*
-
-**11:55pm—12:00am**
-: **All Eyes On City Hall**
-
-12:00am—01:00am
-: *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
--->
-
 ## Fun Stuff to Hear, See and Do!
 
 ### 2 Music Stages
 
-Experience some of L.A.’s best music-makers at the Countdown Stage and the Get Down Stage
+Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
 
 ### Projections
 
-Experience a spectacular interactive countdown to remember, featuring 3D digital video mapping on City Hall.
+Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping on City Hall](https://grandparkla.org/big-ups-on-city-hall/).
 
 
 ### Photo Booths
@@ -551,9 +526,9 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 *This address is for navigation only and is not an official event or affiliate address.*
 
 
-## [My Dream LA](/my-dream-la)
+## My Dream LA
 
-Students from Benjamin Franklin Elementary School, George De La Torre Jr. Elementary School, Magnolia Science, Wilson Elementary School, and Valencia Academy submitted their ideas for [My Dream LA](/my-dream-la) as part of the _Countdown to 2019, New Year’s Eve celebration at Grand Park LA_.
+This year’s N.Y.E.L.A. is all about L.A. DREAMS!✨ Celebrating the future of L.A. County imagined through the collective thoughtfulness and creativity of its children. Attendees will enjoy [the work of L.A. County 5th & 6th graders](/my-dream-la), whose dreams inspired the 3D animated countdown.
 
 <figure class="my-dream-la">
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">

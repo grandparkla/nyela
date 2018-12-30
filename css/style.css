@@ -1154,15 +1154,15 @@
     */
     
     .featured-artists > figure {
-      margin-top: 2.9em;
-      margin-bottom: calc(2.9em * 2);
+      margin-top: 1.45em;
+      margin-bottom: calc(1.45em * 4);
     }
 
     .artist-group {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      margin-top: 2.9em;
-      margin-bottom: calc(2.9em * 2);
+      margin-top: 1.45em;
+      margin-bottom: calc(1.45em * 4);
       max-width: 40em;
       margin-left: auto;
       margin-right: auto;
