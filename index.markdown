@@ -13,6 +13,7 @@ announcements on New Year‘s Eve.
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
+* [Artists](#featured-artists)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
@@ -275,9 +276,9 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 ### Countdown Stage
 
-#### Located at Grand Park’s Event Lawn in front of City Hall
+#### Located at Grand Park’s Event Lawn near City Hall & Spring Street
 
-<!--
+_Hosted By Mario Hernandez_
 
 8:00 to 9:00 p.m.
 : DJ Day
@@ -289,67 +290,50 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 : DJ Day
 
 10:00 to 10:30 p.m.
-: Irka Mateo + Band
+: Irka Mateo + La Tirindanga
 
-10:45 p.m. to 11:05 p.m.
+10:45 to 11:05 p.m.
 : Maya Jupiter
 
-11:05 p.m. to 11:55 p.m.
+11:05 to 11:55 p.m.
 : Aloe Blacc
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall for Countdown to 2018** 
+: **All eyes on City Hall for Countdown to 2019** 
 
-12:00 a.m. to 1:00 a.m.
-: Aloe Blacc + Maya Jupiter + DJ Day + Special Guests
--->
+12:00 to 1:00 a.m.
+: Aloe Blacc, Maya Jupiter + Friends
 
-<!--Hosted by: *[Mario Hernandez](http://eatmomovies.tumblr.com/)*
-
-08:00pm—09:00pm
-: *[DJ Expo](https://soundcloud.com/expothedj)*
-
-09:00pm—09:30pm
-: *[Jungle Fire](http://junglefiremusic.com/)*
-
-09:30pm—10:00pm
-: *DJ Expo*
-
-10:00pm—10:30pm
-: *[Lyric Jones](http://thelyricjones.com/)*
-
-10:30pm—10:45pm
-: *DJ Expo*
-
-10:45pm—11:45pm
-: *Jungle Fire* with guests *[QVLN](http://www.qviolin.com/)* and *[Afrodyete](https://afrodyete.bandcamp.com/)*
-
-**11:55pm—12:00am**
-: **All Eyes On City Hall**
-
-12:00am—12:50am
-: *Jungle Fire* with guests *QVLN*, *Afrodyete* and *[L.A. Samba Dancers](https://www.facebook.com/LA.SambaDancers/)*
--->
 
 ### Get Down Stage
 
 #### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
-<!--
-_Host by: Mr. Choc_
+_Hosted by Valiyah_
 
-8:00 p.m. to 8:25 p.m.
-: The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs 
+8:00 to 8:20 p.m.
+: Los Angeles County Public Library<br />Turn the Tables Youth DJ E.L.
 
-8:30 p.m. to 11:55 p.m.
-: The Beat Junkies featuring DJ Babu, Mr. Choc, and Shortkut 
+8:30 to 9:30 p.m.
+: Kronika
+
+9:30 to 10:30 p.m.
+: Ericalandia
+
+10:30 to 11:30 p.m.
+: Spiñorita
+
+11:30 to 11:55 p.m.
+: Kronika
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall for Countdown to 2018** 
+: **All eyes on City Hall for Countdown to 2019** 
 
-12:00 a.m. to 1:00 a.m.
-: The Beat Junkies
--->
+12:00 to 12:30 a.m.
+: Ericalandia
+
+12:30 to 1:00 a.m.
+: Spiñorita
 
 
 ## Fun Stuff to Hear, See and Do!
