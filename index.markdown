@@ -12,12 +12,12 @@ announcements on New Year‘s Eve.
 </section>
 
 * [Safety](#safety)
-* [Schedule](#event-schedule)
 * [Artists](#featured-artists)
-* [Map](#event-map)
 * [Transportation](#transportation)
 
 <!--
+* [Schedule](#event-schedule)
+* [Map](#event-map)
 * [Watch Live](#watch-live)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [My Dream LA](#my-dream-la)
@@ -64,13 +64,17 @@ This is a **free** event. There’s no cost to attend.
 
 ## Watch Live!
 
+Can’t make it to Grand Park + The @MusicCenterLA’s N.Y.E.L.A.? [Watch live on Grand Park’s Facebook](https://www.facebook.com/grandparklosangeles/) starting at 8pm 🎊
+
+<!--
 Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
 
 Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/videos/).
+-->
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://www.facebook.com/pg/MusicCenterLA/videos/" class="has-icon">
+<a href="https://www.facebook.com/grandparklosangeles/" class="has-icon">
 <img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
