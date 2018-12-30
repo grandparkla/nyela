@@ -442,9 +442,11 @@ Don’t miss out. Event maps will be available at the _Grand Park_ info booths. 
 [Downloadable Map](/nyela-2019-map.pdf) _(PDF file)_
 
 <figure class="feature map">
-<div data-aspect-ratio="2048/3140" style="background-color: black; color: white;">
-<img src="/nyela-2019-map.png" width="1000" alt="Event Map" />
-</div>
+  <div data-aspect-ratio="2048/3140" style="background-color: black; color: white;">
+    <a href="/nyela-2019-map.pdf">
+      <img src="/nyela-2019-map.png" width="1000" alt="Event Map" />
+    </a>
+  </div>
 </figure>
 
 ## Transportation

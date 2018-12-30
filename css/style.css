@@ -1030,13 +1030,13 @@
 
   .map.feature div {
     background: black;
-    background-image: linear-gradient(to top right, rgb(195, 0, 122), rgb(6, 0, 38));
+    color: white;
     /*
+    background-image: linear-gradient(to top right, rgb(195, 0, 122), rgb(6, 0, 38));
     background-image: url(/images/stars-1024wide.jpg);
     background-size: 100% auto;
-    */
     color: rgb(252, 248, 187); /* @lightyellow */
-    color: white;
+    */
   }
 /*
   @media (max-width: 40em) {
