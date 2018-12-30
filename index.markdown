@@ -14,13 +14,13 @@ announcements on New Year‘s Eve.
 * [Safety](#safety)
 * [Artists](#featured-artists)
 * [Transportation](#transportation)
+* [My Dream LA](/my-dream-la)
 
 <!--
 * [Schedule](#event-schedule)
 * [Map](#event-map)
 * [Watch Live](#watch-live)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
-* [My Dream LA](#my-dream-la)
 -->
 
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
@@ -466,9 +466,9 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 : *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
 -->
 
+<!--
 ## Fun Stuff to Hear, See and Do!
 
-<!--
 ### 2 Music Stages
 
 Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
@@ -488,7 +488,7 @@ Oh wow! See large pieces floating and glowing throughout the space. -->
 Step into the new Digital Dance Zone, and your dance moves will transform into larger-than-life images that will be projected on the side of the LA County Hall of Records building!
 -->
 
-### Photo Booths
+## Photo Booths
 
 Snap the final photos of 2018 at one of our photo booths.
 
@@ -499,11 +499,11 @@ Dance and snap your selfies at the audio-responsive light installation located a
 -->
 
 
+<!--
 ### Food Trucks
 
 To be announced!
 
-<!--
 * [Austyn's Burger](http://www.austynsburger.com)
 * [Banh Mi in LA](https://twitter.com/banhmiinla)
 * [Belly Bombz](http://www.bellybombz.com)
@@ -563,11 +563,11 @@ To be announced!
 -->
 
 
+<!--
 ## Event Map
 
 Coming soon!
 
-<!--
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](https://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
 
 [Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
