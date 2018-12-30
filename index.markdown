@@ -299,28 +299,28 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 _Hosted By Mario Hernandez_
 
 8:00 to 9:00 p.m.
-: DJ Day
+: [DJ Day](http://djday.net/)
 
 9:00 to 9:30 p.m.
-: Georgia Anne Muldrow
+: [Georgia Anne Muldrow](https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua)
 
 9:30 to 10:00 p.m.
-: DJ Day
+: [DJ Day](http://djday.net/)
 
 10:00 to 10:30 p.m.
-: Irka Mateo + La Tirindanga
+: [Irka Mateo + La Tirindanga](https://www.facebook.com/Irka-Mateo-y-La-Tirindanga-120713440927/)
 
 10:45 to 11:05 p.m.
-: Maya Jupiter
+: [Maya Jupiter](http://www.mayajupiter.com/)
 
 11:05 to 11:55 p.m.
-: Aloe Blacc
+: [Aloe Blacc](http://www.aloeblacc.com/)
 
 **11:55 p.m. to 12:00 a.m.**
 : **All eyes on City Hall to ring in the new year!** 
 
 12:00 to 1:00 a.m.
-: Aloe Blacc, Maya Jupiter + Friends
+: [Aloe Blacc](http://www.aloeblacc.com/), [Maya Jupiter](http://www.mayajupiter.com/) + Friends
 
 
 ### Get Down Stage
@@ -333,25 +333,25 @@ _Hosted by Valiyah_
 : Los Angeles County Public Library<br />Turn the Tables Youth DJ E.L.
 
 8:30 to 9:30 p.m.
-: Kronika
+: [Kronika](https://soundcloud.com/kronika1111)
 
 9:30 to 10:30 p.m.
-: Ericalandia
+: [Ericalandia](https://soundcloud.com/ericalandia)
 
 10:30 to 11:30 p.m.
-: Spiñorita
+: [Spiñorita](https://soundcloud.com/djspinorita/)
 
 11:30 to 11:55 p.m.
-: Kronika
+: [Kronika](https://soundcloud.com/kronika1111)
 
 **11:55 p.m. to 12:00 a.m.**
 : **All eyes on City Hall to ring in the new year!** 
 
 12:00 to 12:30 a.m.
-: Ericalandia
+: [Ericalandia](https://soundcloud.com/ericalandia)
 
 12:30 to 1:00 a.m.
-: Spiñorita
+: [Spiñorita](https://soundcloud.com/djspinorita/)
 
 
 ## Fun Stuff to Hear, See and Do!
