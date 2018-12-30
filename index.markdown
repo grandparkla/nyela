@@ -15,11 +15,11 @@ announcements on New Year‘s Eve.
 * [Artists](#featured-artists)
 * [Transportation](#transportation)
 * [My Dream LA](/my-dream-la)
+* [Watch Live](#watch-live)
 
 <!--
 * [Schedule](#event-schedule)
 * [Map](#event-map)
-* [Watch Live](#watch-live)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 -->
 
@@ -97,16 +97,6 @@ Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/vid
 </div>
 </figure>
 -->
-
-## Weather
-
-Please check back here,  [@grandpark_la](https://twitter.com/grandpark_la), [musiccenter.org](https://www.musiccenter.org/nyela), or [@musiccenterla](https://twitter.com/musiccenterla) for updates throughout the day.
-
-Angelenos aren’t afraid of some spritz! The show must go on! Grand Park \+ The Music Center's N.Y.E.L.A. will continue rain or shine.
-
-**Please note that umbrellas will not be allowed in the event.**
-
-Ponchos, rain boots, and waterproof outerwear *are* allowed.
 
 ## Safety
 
@@ -204,9 +194,13 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
-<div class="featured-artists" markdown="1">
+### Weather
+
+Grand Park \+ The Music Center's N.Y.E.L.A. will continue rain or shine. Please note that umbrellas will not be allowed in the event.
 
 ## Featured Artists
+
+<div class="featured-artists" markdown="1">
 
 ### Aloe Blacc + Maya Jupiter and Special Guests
 
@@ -240,46 +234,13 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 </div>
 
-<!--
-<div class="all-star-band">
-<figure>
-<div data-aspect-ratio="5/3">
-<img srcset="/images/artists/384-wide/dexterstory.jpg 384w, /images/artists/512-wide/dexterstory.jpg 512w, /images/artists/768-wide/dexterstory.jpg 768w, /images/artists/1024-wide/dexterstory.jpg 1024w, /images/artists/2048-wide/dexterstory.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/dexterstory.jpg" width="500" alt="Dexter Story" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="3/2">
-<img srcset="/images/artists/384-wide/kennethcrouch.jpg 384w, /images/artists/512-wide/kennethcrouch.jpg 512w, /images/artists/768-wide/kennethcrouch.jpg 768w, /images/artists/1024-wide/kennethcrouch.jpg 1024w, /images/artists/2048-wide/kennethcrouch.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/kennethcrouch.jpg" width="500" alt="Kenneth Crouch" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="3/2">
-<img srcset="/images/artists/384-wide/raquelrodriguez.jpg 384w, /images/artists/512-wide/raquelrodriguez.jpg 512w, /images/artists/768-wide/raquelrodriguez.jpg 768w, /images/artists/1024-wide/raquelrodriguez.jpg 1024w, /images/artists/2048-wide/raquelrodriguez.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/raquelrodriguez.jpg" width="500" alt="Raquel Rodriguez" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="1/1">
-<img srcset="/images/artists/384-wide/jimettarose.jpg 384w, /images/artists/512-wide/jimettarose.jpg 512w, /images/artists/768-wide/jimettarose.jpg 768w, /images/artists/1024-wide/jimettarose.jpg 1024w, /images/artists/2048-wide/jimettarose.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/jimettarose.jpg" width="500" alt="Jimetta Rose" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="1/1">
-<img srcset="/images/artists/384-wide/kamtalbert.jpg 384w, /images/artists/512-wide/kamtalbert.jpg 512w, /images/artists/768-wide/kamtalbert.jpg 768w, /images/artists/1024-wide/kamtalbert.jpg 1024w, /images/artists/2048-wide/kamtalbert.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/kamtalbert.jpg" width="500" alt="Kam Talbert" />
-</div>
-</figure>
-</div>
--->
 
 ### DJ Day
 
 <figure>
-<div>
-<img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
-</div>
+  <div>
+    <img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
+  </div>
 </figure>
 
 
@@ -307,58 +268,8 @@ _featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
 
 </div>
 
-<!--
-<figure>
-<div data-aspect-ratio="1/1">
-<img srcset="/images/artists/384-wide/djfrancescaharding.jpg 384w, /images/artists/512-wide/djfrancescaharding.jpg 512w, /images/artists/768-wide/djfrancescaharding.jpg 768w, /images/artists/1024-wide/djfrancescaharding.jpg 1024w, /images/artists/1536-wide/djfrancescaharding.jpg 1536w, /images/artists/2048-wide/djfrancescaharding.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/djfrancescaharding.jpg" width="500" alt="DJ Francesca Harding" />
-</div>
-</figure>
--->
+</div><!-- class="featured-artists" -->
 
-
-<!--
-<div class="beat-junkies">
-<figure>
-<div data-aspect-ratio="2/3">
-<img srcset="/images/artists/384-wide/mrchoc.jpg 384w, /images/artists/512-wide/mrchoc.jpg 512w, /images/artists/768-wide/mrchoc.jpg 768w, /images/artists/1024-wide/mrchoc.jpg 1024w, /images/artists/2048-wide/mrchoc.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/mrchoc.jpg" width="500" alt="Mr. Choc" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="2/3">
-<img srcset="/images/artists/384-wide/shortkut.jpg 384w, /images/artists/512-wide/shortkut.jpg 512w, /images/artists/768-wide/shortkut.jpg 768w, /images/artists/1024-wide/shortkut.jpg 1024w, /images/artists/2048-wide/shortkut.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/shortkut.jpg" width="500" alt="Shortkut" />
-</div>
-</figure>
-
-<figure>
-<div data-aspect-ratio="3/2">
-<img srcset="/images/artists/384-wide/babu.jpg 384w, /images/artists/512-wide/babu.jpg 512w, /images/artists/768-wide/babu.jpg 768w, /images/artists/1024-wide/babu.jpg 1024w, /images/artists/2048-wide/babu.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/babu.jpg" width="500" alt="DJ Babu" />
-</div>
-</figure>
-</div>
--->
-
-<!--
-### Hosted by D'Lo
-
-<figure>
-<div data-aspect-ratio="1000/667">
-<img srcset="/images/artists/384-wide/dlo.jpg 384w, /images/artists/512-wide/dlo.jpg 512w, /images/artists/768-wide/dlo.jpg 768w, /images/artists/1024-wide/dlo.jpg 1024w, /images/artists/2048-wide/dlo.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/dlo.jpg" width="500" alt="D'Lo" />
-</div>
-</figure>
-
-### Special Guests
-
-_The County of Los Angeles Public Library’s Compton Turns the Tables Youth DJs_
-
-<figure>
-<div data-aspect-ratio="5312/2988">
-<img srcset="/images/artists/384-wide/turnthetablesdj.jpg 384w, /images/artists/512-wide/turnthetablesdj.jpg 512w, /images/artists/768-wide/turnthetablesdj.jpg 768w, /images/artists/1024-wide/turnthetablesdj.jpg 1024w, /images/artists/2048-wide/turnthetablesdj.jpg 2048w" sizes="100vw" src="/images/artists/1024-wide/turnthetablesdj.jpg" width="500" alt="D'Lo" />
-</div>
-</figure>
-
--->
-</div>
 
 ## Event Schedule
 
@@ -466,44 +377,28 @@ Dancers: *[CheckOne2 Dancers](http://checkone2ent.com/)*
 : *[DJ Rell](http://www.scratchweddings.com/wedding-dj/los-angeles-dj-rell/)*
 -->
 
-<!--
 ## Fun Stuff to Hear, See and Do!
 
 ### 2 Music Stages
 
-Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
+Experience some of L.A.’s best music-makers at the Countdown Stage and the Get Down Stage
 
 ### Projections
 
-Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping](https://bit.ly/juliaNYELA) on City Hall.
--->
+Experience a spectacular interactive countdown to remember, featuring 3D digital video mapping on City Hall.
 
-<!--### Inflatable Art
 
-Oh wow! See large pieces floating and glowing throughout the space. -->
-
-<!--
-### Digital Dance Zone
-
-Step into the new Digital Dance Zone, and your dance moves will transform into larger-than-life images that will be projected on the side of the LA County Hall of Records building!
--->
-
-## Photo Booths
+### Photo Booths
 
 Snap the final photos of 2018 at one of our photo booths.
 
-<!--
-### Interactive Light Installation 
 
-Dance and snap your selfies at the audio-responsive light installation located at the fountain overlook.
--->
-
-
-<!--
 ### Food Trucks
 
-To be announced!
+Food vendor booths will be available throughout event space.
 
+
+<!--
 * [Austyn's Burger](http://www.austynsburger.com)
 * [Banh Mi in LA](https://twitter.com/banhmiinla)
 * [Belly Bombz](http://www.bellybombz.com)
@@ -563,9 +458,11 @@ To be announced!
 -->
 
 
-<!--
 ## Event Map
 
+Event maps will be available at the five N.Y.E.L.A. info booths.
+
+<!--
 Coming soon!
 
 Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](https://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
@@ -593,66 +490,12 @@ The event will take place at Grand Park + The Music Center:<br />
 </a>
 </div>
 
-<!--
-<figcaption markdown="1" style="position: absolute; left: -9999px;">
-Street Closures
-
-Hill Street
-: Between Temple Street and 2nd Street
-
-Broadway
-: Between Temple Street and 2nd Street
-
-Spring Street
-: Between Temple Street and 2nd Street
-
-1st Street
-: Between Grand Avenue and Spring Street
-
-1st Street
-: Between Spring Street and Main Street (eastbound lane only)
-
-Olive Street
-: Between 1st Street and 2nd Street
-
-2nd Street
-: Between Grand Avenue and Hill Street
-</figcaption>
--->
 </figure>
 
 Street closures will begin taking effect 6 a.m. on Monday, December 31. All streets will reopen by 6 a.m. on Tuesday, January 1.
 
 See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event.
 
-<!--
-<figure class="map">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" width="640" height="480"></iframe>
-</figure>
-
-<figure>
-<div data-aspect-ratio-landscape="1680/942" data-aspect-ratio="850/942">
-<a href="https://www.google.com/maps/d/embed?mid=1NI0GbVLMEFxJhY-30sb0jSaqFip7iZJh" class="has-icon">
-<picture>
-<source srcset="/images/street-closures-landscape.png" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="/images/street-closures-portrait.png" sizes="100vw" />
-<img src="/images/street-closures-portrait.png" width="1000" alt="" />
-</picture>
-<span class="icon">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-C9.3,11.7,9.3,11.2,9.1,10.9z"/>
-</svg>
-</span>
-<span class="credit">Street Closures and Parking on Google Maps</span>
-</a>
-</div>
-</figure>
--->
 
 ### Parking
 
@@ -660,10 +503,6 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 
 [The Music Center Garage](https://www.musiccenter.org/visit/Getting-Here-and-Around/Parking/)
 : <abbr title="also known as">aka</abbr> Lot 14, located at 135 North Grand Avenue. Enter via Southbound Grand Avenue from Temple Street.
-
-<!--
-: **The Music Center Garage will not be accessible from <span class="time">8:00 p.m.</span> until approximately <span class="time">10:00 p.m.</span>**
--->
 
 [Walt Disney Concert Hall Garage](https://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
@@ -735,15 +574,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </figure>
 
 
-
 ## Highlights from past events
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
 <a href="https://vimeo.com/165034815" class="has-icon">
-<!--
-<img src="https://i.vimeocdn.com/video/568789908.jpg?mw=960&mh=540" width="1000" alt="" />
--->
 <img srcset="/images/highlights-video-poster-320-wide.jpg 320w, /images/highlights-video-poster-640-wide.jpg 640w, /images/highlights-video-poster-768-wide.jpg 768w, /images/highlights-video-poster-1024-wide.jpg 1024w, /images/highlights-video-poster.jpg 1680w" sizes="100vw" src="/images/highlights-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -759,9 +594,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </div>
 </figure>
 
-<!--
-<p class="action" style="text-align: center; font-size: 1.25em; margin-top: 12.5vh; margin-bottom: 25vh;"><a href="https://grandparkla.org/calendar/">Full Calendar</a></p>
--->
 
 <h2 class="powered-by"><a href="https://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="https://www.musiccenter.org">The Music Center</a></h2>
 
