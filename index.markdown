@@ -23,7 +23,7 @@ announcements on New Year‘s Eve.
 
 Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall on New Year’s Eve. Let’s dance, laugh, hug, make new friends and countdown to the new year!
 
-Be sure to check out all the [yummy food](#food-trucks), [live music](#event-schedule), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, the _Metro by T-Mobile_ booth.
+Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, the _Metro by T-Mobile_ booth.
 
 [Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** <span style="display: inline-block">(while supplies last).</span>
 
@@ -216,67 +216,83 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div class="featured-artists" markdown="1">
 
-### Aloe Blacc + Maya Jupiter and Special Guests
+### [Aloe Blacc](https://soundcloud.com/aloe-blacc-official) + [Maya Jupiter](https://soundcloud.com/maya-jupiter) and Special Guests
 
-_featuring Irka Mateo, Georgia Anne Muldrow, and the Grand Scheme_
+_featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldrow](https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua), and the Grand Scheme_
 
 <div class="artist-group">
 
   <figure style="--image-width: 451; --image-height: 676;">
     <div>
-      <img src="/images/artists/aloe-blacc.jpg" width="451" height="676" alt="Aloe Blacc" />
+      <a href="https://soundcloud.com/aloe-blacc-official">
+        <img src="/images/artists/aloe-blacc.jpg" width="451" height="676" alt="Aloe Blacc" />
+      </a>
     </div>
   </figure>
 
   <figure style="--image-width: 486; --image-height: 730;">
     <div>
-      <img src="/images/artists/maya-jupiter.jpg" width="486" height="730" alt="Maya Jupiter" />
+      <a href="https://soundcloud.com/maya-jupiter">
+        <img src="/images/artists/maya-jupiter.jpg" width="486" height="730" alt="Maya Jupiter" />
+      </a>
     </div>
   </figure>
 
   <figure style="--image-width: 605; --image-height: 909;">
     <div>
-      <img src="/images/artists/irka-mateo.jpg" width="605" height="909" alt="Irka Mateo" />
+      <a href="https://soundcloud.com/irka-mateo">
+        <img src="/images/artists/irka-mateo.jpg" width="605" height="909" alt="Irka Mateo" />
+      </a>
     </div>
   </figure>
 
   <figure style="--image-width: 909; --image-height: 909; --image-focus: left;">
     <div>
-      <img src="/images/artists/georgia-muldrow.jpg" width="909" height="909" alt="Georgia Anne Muldrow" />
+      <a href="https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua">
+        <img src="/images/artists/georgia-muldrow.jpg" width="909" height="909" alt="Georgia Anne Muldrow" />
+      </a>
     </div>
   </figure>
 
 </div>
 
 
-### DJ Day
+### [DJ Day](https://soundcloud.com/iamdjday)
 
 <figure>
   <div>
-    <img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
+    <a href="https://soundcloud.com/iamdjday">
+      <img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
+    </a>
   </div>
 </figure>
 
 
-### The NYELA All-Female DJ Lineup featuring Ericalandia, Kronika, Spiñorita
+### The N.Y.E.L.A. All-Female DJ Lineup featuring<br />[Ericalandia](https://soundcloud.com/ericalandia), [Kronika](https://soundcloud.com/kronika1111) and [Spiñorita](https://soundcloud.com/djspinorita/)
 
 <div class="artist-group">
 
   <figure style="--image-width: 375; --image-height: 563;">
     <div>
-      <img src="/images/artists/erica-landia.jpg" width="375" height="563" alt="Erica Landia" />
+      <a href="https://soundcloud.com/ericalandia">
+        <img src="/images/artists/erica-landia.jpg" width="375" height="563" alt="Erica Landia" />
+      </a>
     </div>
   </figure>
 
   <figure style="--image-width: 1999; --image-height: 1336;">
     <div>
-      <img src="/images/artists/kronika.jpg" width="1999" height="1336" alt="Kronika" />
+      <a href="https://soundcloud.com/kronika1111">
+        <img src="/images/artists/kronika.jpg" width="1999" height="1336" alt="Kronika" />
+      </a>
     </div>
   </figure>
 
   <figure style="--image-width: 943; --image-height: 672;">
     <div>
-      <img src="/images/artists/spinorita.jpg" width="943" height="672" alt="Spiñorita" />
+      <a href="https://soundcloud.com/djspinorita/">
+        <img src="/images/artists/spinorita.jpg" width="943" height="672" alt="Spiñorita" />
+      </a>
     </div>
   </figure>
 
@@ -296,31 +312,31 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 #### Located at Grand Park’s Event Lawn near City Hall & Spring Street
 
-_Hosted By Mario Hernandez_
+_Hosted By [Mario Hernandez](https://twitter.com/cinemario)_
 
 8:00 to 9:00 p.m.
-: [DJ Day](http://djday.net/)
+: [DJ Day](https://soundcloud.com/iamdjday)
 
 9:00 to 9:30 p.m.
 : [Georgia Anne Muldrow](https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua)
 
 9:30 to 10:00 p.m.
-: [DJ Day](http://djday.net/)
+: [DJ Day](https://soundcloud.com/iamdjday)
 
 10:00 to 10:30 p.m.
-: [Irka Mateo + La Tirindanga](https://www.facebook.com/Irka-Mateo-y-La-Tirindanga-120713440927/)
+: [Irka Mateo + La Tirindanga](https://soundcloud.com/irka-mateo)
 
 10:45 to 11:05 p.m.
-: [Maya Jupiter](http://www.mayajupiter.com/)
+: [Maya Jupiter](https://soundcloud.com/maya-jupiter)
 
 11:05 to 11:55 p.m.
-: [Aloe Blacc](http://www.aloeblacc.com/)
+: [Aloe Blacc](https://soundcloud.com/aloe-blacc-official)
 
 **11:55 p.m. to 12:00 a.m.**
 : **All eyes on City Hall to ring in the new year!** 
 
 12:00 to 1:00 a.m.
-: [Aloe Blacc](http://www.aloeblacc.com/), [Maya Jupiter](http://www.mayajupiter.com/) + Friends
+: [Aloe Blacc](https://soundcloud.com/aloe-blacc-official), [Maya Jupiter](https://soundcloud.com/maya-jupiter) + Friends
 
 
 ### Get Down Stage
