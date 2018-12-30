@@ -206,7 +206,7 @@ Outside food is welcome in backpacks or totes. **Coolers are not permitted** in 
 
 The size of bags and backpacks/totes must be standard backpack size or smaller (16.75 inches x 13 inches x 8.5 inches).
 
-**No outside beverages** including juice and soda (sealed juice boxes are the only exception). Only empty, non glass water bottles are allowed. Park water fountains and water for purchase booths will be available in the event space. [Food vendor booths](#food-trucks) will be available throughout event space.
+**No outside beverages** including juice and soda (sealed juice boxes are the only exception). Only empty, non glass water bottles are allowed. Park water fountains and water for purchase booths will be available in the event space. [Food trucks](#food-trucks) will be available along [1st Street](#event-map).
 
 ### Have a Ball But Please No Alcohol
 
@@ -388,7 +388,7 @@ Snap the final photos of 2018 at one of our photo booths.
 
 ### Food Trucks
 
-Food vendor booths will be available throughout event space.
+Food trucks will be available along [1st Street](#event-map).
 
 
 <!--
