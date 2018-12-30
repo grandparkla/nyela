@@ -19,11 +19,33 @@ announcements on New Year‘s Eve.
 * [Transportation](#transportation)
 * [Watch Live](#watch-live)
 
+## Dear LA,
+
+Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall on New Year’s Eve. Let’s dance, laugh, hug, make new friends and countdown to the new year!
+
+Be sure to check out all the [yummy food](#food-trucks), [live music](#event-schedule), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, the _Metro by T-Mobile_ booth.
+
+[Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** <span style="display: inline-block">(while supplies last).</span>
+
+_Love,  
+Grand Park_
+
+<!--
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
+-->
 
 ### When
 
-The event begins at 8pm on December 31, 2018 and ends at 1am on January 1, 2019.
+The event begins on December 31, 2018 and ends on January 1, 2019.
+
+8:00 p.m.
+: Doors open
+
+**11:55 p.m.**
+: **Countdown begins**
+
+1:00 a.m.
+: Event ends
 
 ### Where
 
@@ -299,7 +321,7 @@ _Hosted By Mario Hernandez_
 : Aloe Blacc
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall for Countdown to 2019** 
+: **All eyes on City Hall to ring in the new year!** 
 
 12:00 to 1:00 a.m.
 : Aloe Blacc, Maya Jupiter + Friends
@@ -327,7 +349,7 @@ _Hosted by Valiyah_
 : Kronika
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall for Countdown to 2019** 
+: **All eyes on City Hall to ring in the new year!** 
 
 12:00 to 12:30 a.m.
 : Ericalandia
@@ -419,14 +441,11 @@ Food vendor booths will be available throughout event space.
 
 ## Event Map
 
-Event maps will be available at the five N.Y.E.L.A. info booths.
+Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
+
+[Downloadable Map](/nyela-2019-map.pdf) _(PDF file)_
 
 <!--
-Coming soon!
-
-Don’t miss out. Event maps will be available at the five N.Y.E.L.A. info booths. [Sign up for updates](https://grandparkla.org/sign-up/) from Grand Park \+ The Music Center or show your TAP card at any N.Y.E.L.A. booth and get a **free glow in the dark 2018 glasses** (while supplies last).
-
-[Downloadable Map](/nyela-map.pdf) _(PDF file, 8.3MB)_
 
 <figure class="feature map">
 <div data-aspect-ratio="2048/2506" style="background-color: black; color: white;">
@@ -444,7 +463,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 <figure>
 <div>
-<a href="/nyela-community-letter.pdf">
+<a href="/nyela-2019-community-letter.pdf">
 <img src="/images/street-closures.png" width="500" alt="Olive Street, Hill Street, Broadway, and Spring Street will be closed in the area around Grand Park (between Temple Street and 2nd Street). 1st Street and 2nd street will also be closed in the area around Grand Park (between Grand Avenue and Main Street)." />
 </a>
 </div>
