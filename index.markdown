@@ -212,10 +212,6 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
-### Weather
-
-Grand Park \+ The Music Center's N.Y.E.L.A. will continue rain or shine. Please note that umbrellas will not be allowed in the event.
-
 ## Featured Artists
 
 <div class="featured-artists" markdown="1">
@@ -469,7 +465,7 @@ The event will take place at Grand Park + The Music Center:<br />
 
 Street closures will begin taking effect 6 a.m. on Monday, December 31. All streets will reopen by 6 a.m. on Tuesday, January 1.
 
-See the [N.Y.E.L.A. Community Letter](/nyela-community-letter.pdf) for more details about streets that will be closed during the event.
+See the [N.Y.E.L.A. Community Letter](/nyela-2019-community-letter.pdf) for more details about streets that will be closed during the event.
 
 
 ### Parking
