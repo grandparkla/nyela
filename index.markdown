@@ -23,7 +23,7 @@ announcements on New Year‘s Eve.
 
 Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall on New Year’s Eve. Let’s dance, laugh, hug, make new friends and countdown to the new year!
 
-Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, the _Metro by T-Mobile_ booth.
+Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, and the _Metro by T-Mobile_ booth.
 
 [Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** <span style="display: inline-block">(while supplies last).</span>
 
