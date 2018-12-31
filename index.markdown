@@ -6,8 +6,7 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2019. Grand Park + The Music
 
 # Announcements
 
-Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for important
-announcements on New Year‘s Eve.
+Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about tonight’s event!
 
 </section>
 
@@ -21,7 +20,7 @@ announcements on New Year‘s Eve.
 
 ## Dear LA,
 
-Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall on New Year’s Eve. Let’s dance, laugh, hug, make new friends and countdown to the new year!
+Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall tonight. Let’s dance, laugh, hug, make new friends and countdown to the new year!
 
 Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, and the _Metro by T-Mobile_ booth.
 
@@ -85,7 +84,7 @@ This is a **free** event. There’s no cost to attend.
 Can’t make it to Grand Park + The @MusicCenterLA’s N.Y.E.L.A.? [Watch live on Grand Park’s Facebook](https://www.facebook.com/grandparklosangeles/) starting at 8pm 🎊
 
 <!--
-Can’t make it to N.Y.E.L.A.? Watch the biggest New Years Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
+Can’t make it to N.Y.E.L.A.? Watch the biggest New Year’s Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
 
 Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/videos/).
 -->
@@ -332,7 +331,7 @@ _Hosted By [Mario Hernandez](https://twitter.com/cinemario)_
 : [Aloe Blacc](https://soundcloud.com/aloe-blacc-official)
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall to ring in the new year!** 
+: **Look up! All eyes on City Hall to ring in the new year!** 
 
 12:00 to 1:00 a.m.
 : [Aloe Blacc](https://soundcloud.com/aloe-blacc-official), [Maya Jupiter](https://soundcloud.com/maya-jupiter) + Friends
@@ -360,7 +359,7 @@ _Hosted by Valiyah_
 : [Kronika](https://soundcloud.com/kronika1111)
 
 **11:55 p.m. to 12:00 a.m.**
-: **All eyes on City Hall to ring in the new year!** 
+: **Look up! All eyes on City Hall to ring in the new year!** 
 
 12:00 to 12:30 a.m.
 : [Ericalandia](https://soundcloud.com/ericalandia)
@@ -375,9 +374,20 @@ _Hosted by Valiyah_
 
 Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
 
+
 ### Projections
 
 Experience a spectacular interactive countdown to remember, featuring [3D digital video mapping on City Hall](https://grandparkla.org/big-ups-on-city-hall/).
+
+
+### Food Trucks
+
+Food trucks will be available along [1st Street](#event-map).
+
+
+### Art Installations
+
+In the Arthur J. Memorial Fountain and Overlook
 
 
 ### Photo Booths
@@ -385,9 +395,31 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 Snap the final photos of 2018 at one of our photo booths.
 
 
-### Food Trucks
+### Student Art Gallery
 
-Food trucks will be available along [1st Street](#event-map).
+_Projected on the LA County Hall of Records_
+
+This year’s N.Y.E.L.A. is all about L.A. DREAMS!✨ Celebrating the future of L.A. County imagined through the collective thoughtfulness and creativity of its children. Attendees will enjoy [the work of L.A. County 5th & 6th graders](/my-dream-la), whose dreams inspired the 3D animated countdown.
+
+<!--
+<figure class="my-dream-la">
+<div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
+<a href="/my-dream-la" class="has-icon">
+<img src="/images/my-dream-la.jpg" width="1000" alt="" />
+<span class="icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+</svg>
+</span>
+</a>
+</div>
+</figure>
+-->
 
 
 <!--
@@ -537,29 +569,6 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 </p>
 
 *This address is for navigation only and is not an official event or affiliate address.*
-
-
-## My Dream LA
-
-This year’s N.Y.E.L.A. is all about L.A. DREAMS!✨ Celebrating the future of L.A. County imagined through the collective thoughtfulness and creativity of its children. Attendees will enjoy [the work of L.A. County 5th & 6th graders](/my-dream-la), whose dreams inspired the 3D animated countdown.
-
-<figure class="my-dream-la">
-<div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
-<a href="/my-dream-la" class="has-icon">
-<img src="/images/my-dream-la.jpg" width="1000" alt="" />
-<span class="icon">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
-<path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
-L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
-c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
-<path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
-c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
-C9.3,11.7,9.3,11.2,9.1,10.9z"/>
-</svg>
-</span>
-</a>
-</div>
-</figure>
 
 
 ## Highlights from past events
