@@ -387,12 +387,12 @@ Food trucks will be available along [1st Street](#event-map).
 
 ### Art Installations
 
-In the Arthur J. Memorial Fountain and Overlook
+In the Arthur J. Memorial Fountain, sponsored by German Light Products (GLP) and on the Fountain Overlook.
 
 
 ### Photo Booths
 
-Snap the final photos of 2018 at one of our photo booths.
+Snap the final photos of 2018 at one of our photo booths, sponsored by Kaiser Permanente.
 
 
 ### Student Art Gallery
