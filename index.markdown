@@ -124,9 +124,10 @@ Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/vid
 
 All bags will be checked upon entry to event space. Please **do not** bring the following items to this event:
 
+* Alcohol
 * Aerosol cans 
 * Amplified noise
-* Bags and backpacks  (larger than 16.75 in x 13 in x 8.5 in)
+* Bags and backpacks measuring larger than standard backpack size (16.75 inches x 13 inches x 8.5 inches)
 * Bicycles
 * Confetti cannons
 * Coolers 
@@ -144,9 +145,8 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Identity-covering costumes
 * Lighters
 * Narcotics
-* Outside alcoholic beverages
 * Outside solicitation 
-* Printed signage (larger than 8.5 in x 11 in)
+* Printed signage (larger than 8.5 inches x 11 inches)
 * Projection devices 
 * Props
 * Public intoxication 
@@ -155,7 +155,6 @@ All bags will be checked upon entry to event space. Please **do not** bring th
 * Sealed or open beverage bottles with liquid including water
 * Selfie sticks
 * Skateboarding
-* Skating objects to ground
 * Smartboards & smartboarding
 * Smoking of any kind
 * Smoking paraphernalia
