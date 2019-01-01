@@ -24,7 +24,7 @@ Thank you for coming together to celebrate 2018 and ring in 2019! This year’s 
 
 Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, and the _Metro by T-Mobile_ booth.
 
-[Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** <span style="display: inline-block">(while supplies last).</span>
+[Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
 
 _Love,  
 Grand Park_
@@ -81,7 +81,7 @@ This is a **free** event. There’s no cost to attend.
 
 ## Watch Live!
 
-Can’t make it to Grand Park + The Music Center’s N.Y.E.L.A.? [Watch live on Grand Park’s Facebook](https://www.facebook.com/grandparklosangeles/videos/242814259938021/) starting at 8pm 🎊
+Can’t make it to Grand Park + The Music Center’s N.Y.E.L.A.? [Watch live on Grand Park’s Facebook](https://www.facebook.com/grandparklosangeles/videos/795846364087442/) starting at 8pm 🎊
 
 <!--
 Can’t make it to N.Y.E.L.A.? Watch the biggest New Year’s Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
@@ -91,7 +91,7 @@ Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/vid
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://www.facebook.com/grandparklosangeles/videos/242814259938021/" class="has-icon">
+<a href="https://www.facebook.com/grandparklosangeles/videos/795846364087442/" class="has-icon">
 <img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
@@ -107,13 +107,6 @@ Watch the [live countdown to 2019](https://www.facebook.com/pg/MusicCenterLA/vid
 </div>
 </figure>
 
-<!--
-<figure class="feature">
-<div data-aspect-ratio="1280/720">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandparklosangeles%2Fvideos%2F1550529334993779%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
-</figure>
--->
 
 ## Safety
 
@@ -387,12 +380,12 @@ Food trucks will be available along [1st Street](#event-map).
 
 ### Art Installations
 
-In the Arthur J. Memorial Fountain, sponsored by German Light Products (GLP) and on the Fountain Overlook.
+In the Arthur J. Memorial Fountain, sponsored by _German Light Products (GLP)_ and on the Fountain Overlook.
 
 
 ### Photo Booths
 
-Snap the final photos of 2018 at one of our photo booths, sponsored by Kaiser Permanente.
+Snap the final photos of 2018 at one of our photo booths, sponsored by _Kaiser Permanente_.
 
 
 ### Student Art Gallery
