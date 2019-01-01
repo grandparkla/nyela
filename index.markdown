@@ -51,15 +51,14 @@ The event begins on December 31, 2018 and ends on January 1, 2019.
 Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
-{% comment %}
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
 <!-- Jim’s Google Maps API key -->
 <picture>
-<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
-<source srcset="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" />
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=34.056329,-118.246771&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C34.056329,-118.246771&amp;zoom=16&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="" />
+<source srcset="/images/grand-park-on-google-maps-1280x640.png 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
+<source srcset="/images/grand-park-on-google-maps-1280x1280.png 1280w" sizes="100vw" />
+<img src="/images/grand-park-on-google-maps-1280x1280.png" width="1000" alt="" />
 </picture>
 <span class="icon">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
@@ -75,7 +74,6 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
-{% endcomment %}
 
 
 ### Cost
