@@ -51,6 +51,7 @@ The event begins on December 31, 2018 and ends on January 1, 2019.
 Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+{% comment %}
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
@@ -74,6 +75,8 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 </a>
 </div>
 </figure>
+{% endcomment %}
+
 
 ### Cost
 
