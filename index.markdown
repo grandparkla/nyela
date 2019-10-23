@@ -4,9 +4,10 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2019. Grand Park + The Music
 
 <section class="special-notice" role="status" markdown="1">
 
+<!--
 # Announcements
 
-<!--
+
 Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about tonight’s event!
 -->
 
@@ -212,7 +213,6 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
-Stay tuned!
 <!--
 
 <div class="featured-artists" markdown="1">
@@ -268,7 +268,10 @@ _featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldro
   </div>
 </figure>
 
+-->
 
+
+<!--
 ### The N.Y.E.L.A. All-Female DJ Lineup featuring<br />[Ericalandia](https://soundcloud.com/ericalandia), [Kronika](https://soundcloud.com/kronika1111) and [Spiñorita](https://soundcloud.com/djspinorita/)
 
 <div class="artist-group">
@@ -300,7 +303,10 @@ _featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldro
 </div>
 
 </div><!-- class="featured-artists" -->
+
 -->
+
+Stay tuned!
 
 
 ## Event Schedule
