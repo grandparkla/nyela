@@ -6,7 +6,9 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2019. Grand Park + The Music
 
 # Announcements
 
+<!--
 Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about tonight’s event!
+-->
 
 </section>
 
@@ -18,6 +20,7 @@ Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates abo
 * [Transportation](#transportation)
 * [Watch Live](#watch-live)
 
+<!--
 ## Dear LA,
 
 Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall tonight. Let’s dance, laugh, hug, make new friends and countdown to the new year!
@@ -28,6 +31,7 @@ Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-
 
 _Love,  
 Grand Park_
+-->
 
 <!--
 What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
@@ -35,7 +39,7 @@ What's up Los Angeles? Dance your heart out and into 2019 with best friends, swe
 
 ### When
 
-The event begins on December 31, 2018 and ends on January 1, 2019.
+The event begins on December 31, 2019 and ends on January 1, 2020.
 
 8:00 p.m.
 : Doors open
@@ -80,9 +84,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
+<!--
 ## Watch Live!
 
 Can’t make it to Grand Park + The Music Center’s N.Y.E.L.A.? [Watch live on Grand Park’s Facebook](https://www.facebook.com/grandparklosangeles/videos/338417083422029/) starting at 8pm 🎊
+-->
 
 <!--
 Can’t make it to N.Y.E.L.A.? Watch the biggest New Year’s Eve celebration on the West Coast, on Facebook Live starting at 8pm on New Year’s Eve.  A six man camera crew 🎥 will be capturing the whole night leading up to the big countdown to 2019.
@@ -206,6 +212,9 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
+Stay tuned!
+<!--
+
 <div class="featured-artists" markdown="1">
 
 ### [Aloe Blacc](https://soundcloud.com/aloe-blacc-official) + [Maya Jupiter](https://soundcloud.com/maya-jupiter) and Special Guests
@@ -291,10 +300,14 @@ _featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldro
 </div>
 
 </div><!-- class="featured-artists" -->
+-->
 
 
 ## Event Schedule
 
+Stay tuned!
+
+<!--
 Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food-trucks) will run until 1am. The event ends at 1am on January 1.
 
 *Experience some of L.A.’s best on two music stages:* 
@@ -361,6 +374,8 @@ _Hosted by Valiyah_
 12:30 to 1:00 a.m.
 : [Spiñorita](https://soundcloud.com/djspinorita/)
 
+-->
+
 
 ## Fun Stuff to Hear, See and Do!
 
@@ -376,24 +391,28 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 
 ### Food Trucks
 
+<!--
 Food trucks will be available along [1st Street](#event-map).
-
+-->
 
 ### Art Installations
 
+<!--
 In the Arthur J. Memorial Fountain, sponsored by _German Light Products (GLP)_ and on the Fountain Overlook.
-
+-->
 
 ### Photo Booths
 
-Snap the final photos of 2018 at one of our photo booths, sponsored by _Kaiser Permanente_.
+Snap the final photos of 2019 at one of our photo booths, sponsored by _Kaiser Permanente_.
 
 
+<!--
 ### Student Art Gallery
 
 _Projected on the LA County Hall of Records_
 
 This year’s N.Y.E.L.A. is all about L.A. DREAMS!✨ Celebrating the future of L.A. County imagined through the collective thoughtfulness and creativity of its children. Attendees will enjoy [the work of L.A. County 5th & 6th graders](/my-dream-la), whose dreams inspired the 3D animated countdown.
+-->
 
 <!--
 <figure class="my-dream-la">
@@ -476,6 +495,7 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 -->
 
 
+<!--
 ## Event Map
 
 Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
@@ -490,11 +510,14 @@ Don’t miss out. Event maps will be available at the _Grand Park_ info booths. 
   </div>
 </figure>
 
+-->
+
 ## Transportation
 
 The event will take place at Grand Park + The Music Center:<br />
 [200 North Grand Avenue<br />Los Angeles, California 90012](https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614)
 
+<!--
 ### Street Closures
 
 <figure>
@@ -510,6 +533,8 @@ Street closures will begin taking effect 6 a.m. on Monday, December 31. All stre
 
 See the [N.Y.E.L.A. Community Letter](/nyela-2019-community-letter.pdf) for more details about streets that will be closed during the event.
 
+-->
+
 
 ### Parking
 
@@ -521,6 +546,7 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 [Walt Disney Concert Hall Garage](https://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
 
+<!--
 Health Services Garage
 : <abbr title="also known as">aka</abbr> Lot 29, located at 313 North Figueroa Street. Enter on Fremont Avenue.
 
@@ -532,18 +558,21 @@ Chinatown Garage
 
 [LA Times Parking](https://www.google.com/maps/place/221+W+2nd+St,+Los+Angeles,+CA+90012/@34.0522233,-118.2483941,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64eadc4ee6d:0x40845fc2a2ae4142!8m2!3d34.0522233!4d-118.2462054)
 : located at 221 W. 2nd Street. Enter on 2nd Street. 
+-->
 
 ### Go Metro
 
-Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2018 to 2 a.m. on January 1, 2019.
+Metro will operate 24-hour, overnight service on Metro Rail, plus Orange and Silver Lines on New Year’s Eve with free fares from 9 p.m. on December 31, 2019 to 2 a.m. on January 1, 2020.
 
 While the Metro Red/Purple Line to _Civic Center/Grand Park Station_ exits directly into Grand Park, _Pershing Square Station_ and _Union Station_ are also within walkable distance (and might be less crowded!) 
 
 Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.466.3876).
 
+<!--
 ### Metro Bikes
 
 **Ride a Metro Bike to NYELA!** Check out and return your bike to nearby stations _Main & 1st_ or _Grand & Temple_. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
+-->
 
 ### Bicycle Parking
 
@@ -592,11 +621,13 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
   <li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
   <li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" style="font-size: 0.75em"  /></li>
   <li><img src="/images/sponsors/hildal.svg" alt="Supervisor Hilda L. Solis" /></li>
+  <!--
   <li><img src="/images/sponsors/council-district-14.png" alt="Council District 14, Los Angeles" /></li>
   <li><img src="/images/sponsors/german-light.svg" alt="German Light Products" /></li>
   <li><img src="/images/sponsors/kaiser.png" alt="Kaiser Permanente, Los Angeles Medical Center" style="font-size: 0.5em" /></li>
   <li><img src="/images/sponsors/t-mobile.svg" alt="Metro by T-Mobile" style="font-size: 0.75em" /></li>
 </ul>
+-->
 
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="https://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
