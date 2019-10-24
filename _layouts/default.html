@@ -27,19 +27,22 @@
   {% capture canonical_url %}https://nyela.grandparkla.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   
-  <meta property="og:image" content="https://nyela.grandparkla.org/images/nyela-landscape.png" />
+  <meta property="og:image" content="https://nyela.grandparkla.org/images/nyela.png" />
 
 </head>
 <body>
 
   <header>
     <h1>
+      {% comment %}
       <picture>
         <!-- Tricky: This media value is duplicated in the CSS -->
         <source srcset="/images/nyela-landscape.png 2560w" media="(min-aspect-ratio: 4/3)" />
         <source srcset="/images/nyela-portrait.png 2550w" />
         <img src="/images/nyela-portrait.png" alt="Grand Park and The Music Center. New Year’s Eve, Los Angeles. Countdown to 2019." />
       </picture>
+      {% endcomment %}
+      <img src="/images/nyela.png" alt="Grand Park and The Music Center. New Year’s Eve, Los Angeles. Countdown to 2020." />
     </h1>
   </header>
 
