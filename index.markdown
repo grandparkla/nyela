@@ -219,7 +219,6 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
 ## Featured Artists
-<!--
 
 <div class="featured-artists" markdown="1">
 
@@ -231,7 +230,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
  </div>
 <div class="artist-group">
   
-  ### [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
+ ### [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
  </div>
 <div class="artist-group">
   
