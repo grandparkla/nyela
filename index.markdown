@@ -224,31 +224,21 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ### [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
  </div>
-<div class="artist-group">
-
+ 
 ### [Thee Sinseers](https://soundcloud.com/jqandtherevue)
  </div>
-<div class="artist-group">
   
  ### [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
  </div>
-<div class="artist-group">
   
  ### [Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
  </div>
-<div class="artist-group">
   
   ### [Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en)
  </div>
-<div class="artist-group">
-  
-
-</div>
-
 
 ### [GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
  </div>
-<div class="artist-group">
   
 ### [CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
 
