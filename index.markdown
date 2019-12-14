@@ -220,6 +220,8 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
+<!-- 
+
 <div class="featured-artists" markdown="1">
 
 ### [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
