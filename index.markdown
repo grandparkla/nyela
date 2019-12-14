@@ -219,7 +219,7 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
 ## Featured Artists
-
+<!--
 
 <div class="featured-artists" markdown="1">
 
