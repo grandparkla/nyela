@@ -220,64 +220,41 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Featured Artists
 
-<!--
 
 <div class="featured-artists" markdown="1">
 
-### [Aloe Blacc](https://soundcloud.com/aloe-blacc-official) + [Maya Jupiter](https://soundcloud.com/maya-jupiter) and Special Guests
-
-_featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldrow](https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua), and the Grand Scheme_
-
+### [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
+ </div>
 <div class="artist-group">
 
-  <figure style="--image-width: 451; --image-height: 676;">
-    <div>
-      <a href="https://soundcloud.com/aloe-blacc-official">
-        <img src="/images/artists/aloe-blacc.jpg" width="451" height="676" alt="Aloe Blacc" />
-      </a>
-    </div>
-  </figure>
-
-  <figure style="--image-width: 486; --image-height: 730;">
-    <div>
-      <a href="https://soundcloud.com/maya-jupiter">
-        <img src="/images/artists/maya-jupiter.jpg" width="486" height="730" alt="Maya Jupiter" />
-      </a>
-    </div>
-  </figure>
-
-  <figure style="--image-width: 605; --image-height: 909;">
-    <div>
-      <a href="https://soundcloud.com/irka-mateo">
-        <img src="/images/artists/irka-mateo.jpg" width="605" height="909" alt="Irka Mateo" />
-      </a>
-    </div>
-  </figure>
-
-  <figure style="--image-width: 909; --image-height: 909; --image-focus: left;">
-    <div>
-      <a href="https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua">
-        <img src="/images/artists/georgia-muldrow.jpg" width="909" height="909" alt="Georgia Anne Muldrow" />
-      </a>
-    </div>
-  </figure>
+### [Thee Sinseers](https://soundcloud.com/jqandtherevue)
+ </div>
+<div class="artist-group">
+  
+  ### [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
+ </div>
+<div class="artist-group">
+  
+ ### [Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
+ </div>
+<div class="artist-group">
+  
+  ### [Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en)
+ </div>
+<div class="artist-group">
+  
 
 </div>
 
 
-### [DJ Day](https://soundcloud.com/iamdjday)
+### [GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
+ </div>
+<div class="artist-group">
+  
+### [CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
 
-<figure>
-  <div>
-    <a href="https://soundcloud.com/iamdjday">
-      <img src="/images/artists/dj-day.jpg" width="500" alt="DJ Day" />
-    </a>
-  </div>
-</figure>
-
--->
-
-
+</div>
+ 
 
 <!--
 ### The N.Y.E.L.A. All-Female DJ Lineup featuring<br />[Ericalandia](https://soundcloud.com/ericalandia), [Kronika](https://soundcloud.com/kronika1111) and [Spiñorita](https://soundcloud.com/djspinorita/)
@@ -311,9 +288,6 @@ _featuring [Irka Mateo](https://soundcloud.com/irka-mateo), [Georgia Anne Muldro
 </div>
 
 </div><!-- class="featured-artists" -->
-
-
-Stay tuned!
 
 
 ## Event Schedule
