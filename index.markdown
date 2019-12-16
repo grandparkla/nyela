@@ -227,7 +227,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
-<img src="/images/artists/PAN AFRIKAN PEOPLES ARKESTRA.png" width="600" height="600" alt="PAN AFRIKAN PEOPLES ARKESTRA" />
+<img src="/images/artists/PAN AFRIKAN PEOPLES ARKESTRA.png" width="300" height="300" alt="PAN AFRIKAN PEOPLES ARKESTRA" />
 
 
 
@@ -235,7 +235,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
-<img src="/images/artists/THEESINSEERS.png" width="600" height="600" alt="THEESINSEERS" />
+<img src="/images/artists/THEESINSEERS.png" width="300" height="300" alt="THEESINSEERS" />
 
 
 
@@ -243,7 +243,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
-<img src="/images/artists/BANDA LAS ANGELINAS.png" width="600" height="600" alt="BANDA LAS ANGELINAS" />
+<img src="/images/artists/BANDA LAS ANGELINAS.png" width="300" height="300" alt="BANDA LAS ANGELINAS" />
 
 
 
@@ -251,7 +251,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
-<img src="/images/artists/DJ PAULI.png" width="600" height="600" alt="PAULI THE PSM" />
+<img src="/images/artists/DJ PAULI.png" width="300" height="300" alt="PAULI THE PSM" />
 
 
 
@@ -259,7 +259,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
-<img src="/images/artists/pili montilla.png" width="600" height="600" alt="pili montilla" />
+<img src="/images/artists/pili montilla.png" width="300" height="300" alt="pili montilla" />
 
 
 
@@ -267,7 +267,7 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
  
  <div>
  
- <img src="/images/artists/KRUCIAL.png" width="600" height="600" alt="KRUCIAL" /> <img src="/images/artists/CHAVA.png" width="600" height="600" alt="CHAVA" /> 
+ <img src="/images/artists/KRUCIAL.png" width="300" height="300" alt="KRUCIAL" /> <img src="/images/artists/CHAVA.png" width="300" height="300" alt="CHAVA" /> 
 
 
 
@@ -275,15 +275,15 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 <div>
  
- <img src="/images/artists/DJ BONDS.png" width="600" height="600" alt="DJ BONDS" /> 
+ <img src="/images/artists/DJ BONDS.png" width="300" height="300" alt="DJ BONDS" /> 
 
 <div>
  
- <img src="/images/artists/DJ RELL.png" width="600" height="600" alt="DJ RELL" /> 
+ <img src="/images/artists/DJ RELL.png" width="300" height="300" alt="DJ RELL" /> 
  
  <div>
  
- <img src="/images/artists/KG SUPERSTAR.png" width="600" height="600" alt="KG SUPERSTAR" /> 
+ <img src="/images/artists/KG SUPERSTAR.png" width="300" height="300" alt="KG SUPERSTAR" /> 
 
 
 </div>
