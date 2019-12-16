@@ -34,9 +34,8 @@ _Love,
 Grand Park_
 -->
 
-<!--
-What's up Los Angeles? Dance your heart out and into 2019 with best friends, sweeties, friendly neighbors, and those cousins from out-of-town at the West Coast’s flagship New Year’s Eve celebration. [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is *the place* to dream together and welcome new beginnings with a countdown on City Hall, [live music](#event-schedule), [food](#food-trucks), and [photo booths](#photo-booths) in one big, beautiful, colorful Angeleno experience to remember! #NYELA
--->
+
+For the seventh year, [Grand Park](https://grandparkla.org) and [The Music Center](https://www.musiccenter.org/nyela)’s N.Y.E.L.A. is the place to come together and ring in the new year with [live music](#event-schedule), [food](#food-trucks), [photo booths](#photo-booths) and amazing projection art on the beautiful City Hall!
 
 ### When
 
