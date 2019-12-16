@@ -219,34 +219,31 @@ The size of bags and backpacks/totes must be standard backpack size or smaller (
 This will be an alcohol-free, family-friendly event; no beer garden or point of purchase. No alcohol is permitted in the event space.
 
 ## Featured Artists
-
-<!-- 
-
+ 
 <div class="featured-artists" markdown="1">
 
-### [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
- </div>
- 
-### [Thee Sinseers](https://soundcloud.com/jqandtherevue)
- </div>
-  
- ### [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
- </div>
-  
- ### [Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
- </div>
-  
-  ### [Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en)
- </div>
+[Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
 
-### [GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
- </div>
-  
-### [CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
+
+[Thee Sinseers](https://soundcloud.com/jqandtherevue)
+
+
+[Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
+
+
+[Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
+
+
+[Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en)
+
+
+[GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
+
+
+[CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
 
 </div>
  
-
 <!--
 ### The N.Y.E.L.A. All-Female DJ Lineup featuring<br />[Ericalandia](https://soundcloud.com/ericalandia), [Kronika](https://soundcloud.com/kronika1111) and [Spiñorita](https://soundcloud.com/djspinorita/)
 
