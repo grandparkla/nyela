@@ -221,27 +221,73 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
  
 <div class="featured-artists" markdown="1">
 
-[Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
+
+
+[Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra) 
+
+<div>
+ 
+<img src="/images/artists/PAN AFRIKAN PEOPLES ARKESTRA.png" width="600" height="600" alt="PAN AFRIKAN PEOPLES ARKESTRA" />
+
 
 
 [Thee Sinseers](https://soundcloud.com/jqandtherevue)
 
+<div>
+ 
+<img src="/images/artists/THEESINSEERS.png" width="600" height="600" alt="THEESINSEERS" />
+
+
 
 [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
+
+<div>
+ 
+<img src="/images/artists/BANDA LAS ANGELINAS.png" width="600" height="600" alt="BANDA LAS ANGELINAS" />
+
 
 
 [Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
 
+<div>
+ 
+<img src="/images/artists/DJ PAULI.png" width="600" height="600" alt="PAULI THE PSM" />
 
-[Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en)
+
+
+[Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en) 
+
+<div>
+ 
+<img src="/images/artists/pili montilla.png" width="600" height="600" alt="pili montilla" />
+
 
 
 [GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
+ 
+ <div>
+ 
+ <img src="/images/artists/KRUCIAL.png" width="600" height="600" alt="KRUCIAL" /> <img src="/images/artists/CHAVA.png" width="600" height="600" alt="CHAVA" /> 
+
 
 
 [CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
 
+<div>
+ 
+ <img src="/images/artists/DJ BONDS.png" width="600" height="600" alt="DJ BONDS" /> 
+
+<div>
+ 
+ <img src="/images/artists/DJ RELL.png" width="600" height="600" alt="DJ RELL" /> 
+ 
+ <div>
+ 
+ <img src="/images/artists/KG SUPERSTAR.png" width="600" height="600" alt="KG SUPERSTAR" /> 
+
+
 </div>
+ 
  
 <!--
 ### The N.Y.E.L.A. All-Female DJ Lineup featuring<br />[Ericalandia](https://soundcloud.com/ericalandia), [Kronika](https://soundcloud.com/kronika1111) and [Spiñorita](https://soundcloud.com/djspinorita/)
