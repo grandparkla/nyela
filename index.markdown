@@ -225,74 +225,74 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra) 
 
-<div>
+</div>
  
-<img src="/images/artists/PAN AFRIKAN PEOPLES ARKESTRA.png" width="300" height="300" alt="PAN AFRIKAN PEOPLES ARKESTRA" />
+<img src="/images/artists/PAN AFRIKAN PEOPLES ARKESTRA.png" alt="PAN AFRIKAN PEOPLES ARKESTRA" />
 
 
 <div class="featured-artists" markdown="1">
 
 [Thee Sinseers](https://soundcloud.com/jqandtherevue)
 
-<div>
+</div>
  
-<img src="/images/artists/THEESINSEERS.png" width="300" height="300" alt="THEESINSEERS" />
+<img src="/images/artists/THEESINSEERS.png" alt="THEESINSEERS" />
 
 
 <div class="featured-artists" markdown="1">
 
 [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas/?hl=en)
 
-<div>
+</div>
  
-<img src="/images/artists/BANDA LAS ANGELINAS.png" width="300" height="300" alt="BANDA LAS ANGELINAS" />
+<img src="/images/artists/BANDA LAS ANGELINAS.png" alt="BANDA LAS ANGELINAS" />
 
 
 <div class="featured-artists" markdown="1">
 
 [Pauli the PSM ](https://www.instagram.com/paulithepsm/?hl=en)
 
-<div>
+</div>
  
-<img src="/images/artists/DJ PAULI.png" width="300" height="300" alt="PAULI THE PSM" />
+<img src="/images/artists/DJ PAULI.png" alt="PAULI THE PSM" />
 
 
 <div class="featured-artists" markdown="1">
 
 [Pili Montilla as the Emcee](https://www.instagram.com/pilimontilla/?hl=en) 
 
-<div>
+</div>
  
-<img src="/images/artists/pili montilla.png" width="300" height="300" alt="pili montilla" />
+<img src="/images/artists/pili montilla.png" alt="pili montilla" />
 
 
 <div class="featured-artists" markdown="1">
 
 [GASOLINA PARTY: DJ KRUCIAL + DJ CHAVA](https://www.gasolinaparty.com/)
  
- <div>
+</div>
  
- <img src="/images/artists/KRUCIAL.png" width="300" height="300" alt="KRUCIAL" /> <img src="/images/artists/CHAVA.png" width="300" height="300" alt="CHAVA" /> 
+ <img src="/images/artists/KRUCIAL.png" alt="KRUCIAL" /> <img src="/images/artists/CHAVA.png" alt="CHAVA" /> 
 
 
 <div class="featured-artists" markdown="1">
 
 [CHERRY POPPIN: DJ RELL + DJ Bonds hosted by KG Superstar](https://www.instagram.com/cherrypoppinwednesdays/)
 
-<div>
- 
- <img src="/images/artists/DJ BONDS.png" width="300" height="300" alt="DJ BONDS" /> 
-
-<div>
- 
- <img src="/images/artists/DJ RELL.png" width="300" height="300" alt="DJ RELL" /> 
- 
- <div>
- 
- <img src="/images/artists/KG SUPERSTAR.png" width="300" height="300" alt="KG SUPERSTAR" /> 
-
-
 </div>
+ 
+ <img src="/images/artists/DJ BONDS.png" alt="DJ BONDS" /> 
+
+
+ 
+ <img src="/images/artists/DJ RELL.png" alt="DJ RELL" /> 
+ 
+
+ 
+ <img src="/images/artists/KG SUPERSTAR.png" alt="KG SUPERSTAR" /> 
+
+
+
  
  
 <!--
