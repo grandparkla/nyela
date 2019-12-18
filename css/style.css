@@ -293,7 +293,6 @@
     
     /* Portrait */
     header h1 img {
-      height: calc(3036/2550 * 100vw);
       height: calc(2492/2000 * 100vw);
       object-fit: cover;
     }
@@ -301,7 +300,7 @@
     /* Landscape */
     @media (min-aspect-ratio: 4/3) { /* TRICKY: This media value is duplicated in the HTML */
       header h1 img {
-        height: calc(2492/2000* 100vw);
+        height: calc(1080/1920* 100vw);
       }
     }
   }
