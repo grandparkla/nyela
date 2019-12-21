@@ -331,10 +331,8 @@ This will be an alcohol-free, family-friendly event; no beer garden or point of 
 
 ## Event Schedule
 
-Stay tuned!
 
-<!--
-Event begins at 8pm on December 31. [Projections](#projections) and music run all night. [Food service](#food-trucks) will run until 1am. The event ends at 1am on January 1.
+Event begins at 8pm on December 31. [Projections](#projections) and music run all night. The event ends at 1am on January 1.
 
 *Experience some of L.A.’s best on two music stages:* 
 
@@ -343,64 +341,49 @@ Event begins at 8pm on December 31. [Projections](#projections) and music run al
 
 #### Located at Grand Park’s Event Lawn near City Hall & Spring Street
 
-_Hosted By [Mario Hernandez](https://twitter.com/cinemario)_
+_Hosted By [Pili Montilla](https://twitter.com/pilimontilla)_
 
-8:00 to 9:00 p.m.
-: [DJ Day](https://soundcloud.com/iamdjday)
+8:00 to 8:30 p.m.
+: [DJ Pauli The PSM](http://paulithepsm.com)
 
-9:00 to 9:30 p.m.
-: [Georgia Anne Muldrow](https://soundcloud.com/mellomusicgroup/georgia-anne-muldrow-akosua)
+8:30 to 9:15 p.m.
+: [Banda Las Angelinas](https://www.instagram.com/bandalasangelinas)
 
-9:30 to 10:00 p.m.
-: [DJ Day](https://soundcloud.com/iamdjday)
+9:15 to 9:45 p.m.
+: [DJ Pauli The PSM](http://paulithepsm.com)
 
-10:00 to 10:30 p.m.
-: [Irka Mateo + La Tirindanga](https://soundcloud.com/irka-mateo)
+9:45 to 10:15 p.m.
+: [Thee Sinseers](https://soundcloud.com/jqandtherevue)
 
-10:45 to 11:05 p.m.
-: [Maya Jupiter](https://soundcloud.com/maya-jupiter)
+10:15 to 11:00 p.m.
+: [DJ Pauli The PSM](http://paulithepsm.com)
 
-11:05 to 11:55 p.m.
-: [Aloe Blacc](https://soundcloud.com/aloe-blacc-official)
+11:00 to 11:50 p.m.
+: [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
+
 
 **11:55 p.m. to 12:00 a.m.**
 : **Look up! All eyes on City Hall to ring in the new year!** 
 
-12:00 to 1:00 a.m.
-: [Aloe Blacc](https://soundcloud.com/aloe-blacc-official), [Maya Jupiter](https://soundcloud.com/maya-jupiter) + Friends
+12:01 to 12:30 a.m.
+: [Pan Afrikan Peoples Arkestra](https://www.kcet.org/shows/artbound/passing-the-magic-horace-tapscott-and-his-pan-afrikan-peoples-arkestra)
 
+12:30 to 1:00 a.m.
+: [DJ Pauli The PSM](http://paulithepsm.com)
 
 ### Get Down Stage
 
 #### Located at Grand Park’s Performance Lawn between Grand Avenue and Hill Street
 
-_Hosted by Valiyah_
+8:00 to 10:30 p.m.
+: [Cherry Poppin' ft. DJ Rell, DJ Bonds hosted by KG Superstar](https://soundcloud.com/ericalandia)
 
-8:00 to 8:20 p.m.
-: Los Angeles County Public Library<br />Turn the Tables Youth DJ E.L.
-
-8:30 to 9:30 p.m.
-: [Kronika](https://soundcloud.com/kronika1111)
-
-9:30 to 10:30 p.m.
-: [Ericalandia](https://soundcloud.com/ericalandia)
-
-10:30 to 11:30 p.m.
-: [Spiñorita](https://soundcloud.com/djspinorita/)
-
-11:30 to 11:55 p.m.
-: [Kronika](https://soundcloud.com/kronika1111)
+10:30 to 1:00 a.m.
+: [Gasolina ft. DJ Chava and DJ Krucial](https://soundcloud.com/kronika1111)
 
 **11:55 p.m. to 12:00 a.m.**
 : **Look up! All eyes on City Hall to ring in the new year!** 
 
-12:00 to 12:30 a.m.
-: [Ericalandia](https://soundcloud.com/ericalandia)
-
-12:30 to 1:00 a.m.
-: [Spiñorita](https://soundcloud.com/djspinorita/)
-
--->
 
 
 ## Fun Stuff to Hear, See and Do!
