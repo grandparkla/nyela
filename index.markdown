@@ -392,6 +392,10 @@ _Hosted By [Pili Montilla](https://twitter.com/pilimontilla)_
 
 Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdown-stage) and the [Get Down Stage](#get-down-stage)
 
+### Boogie Down Dance Zone 
+
+Lounge around and listen to the sounds of DJ Cool Era
+
 
 ### Projections
 
