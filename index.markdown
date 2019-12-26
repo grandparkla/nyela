@@ -448,63 +448,67 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 -->
 
 
-<!--
-* [Austyn's Burger](http://www.austynsburger.com)
-* [Banh Mi in LA](https://twitter.com/banhmiinla)
+
+ANGEL'S FLIGHT: Grand Ave.
 * [Belly Bombz](http://www.bellybombz.com)
-* Beverage and Water Truck
-* [Blast Ice Cream](http://www.blast-ic.com)
-* [Boba Ni Taco](https://www.yelp.com/biz/boba-ni-taco-truck-rosemead-2)
-* [Brew Wings](http://brewwing.com)
-* [Canvas food truck](https://www.canvasfoodsla.com)
-* [Chancho's Tacos](http://www.chanchostacos.com)
-* [Cocina Fresca by Mangia](https://www.cocinafrescatruck.com)
-* [Cousins Maine Lobster](https://www.cousinsmainelobster.com/los-angeles)
-* [Dreamy Creations Cupcake Truck](https://www.dreamycreations.com)
-* [District Burger](https://www.facebook.com/districtburgerla)
-* [Epic Gourmet Tacos](http://www.epictacosla.com)
-* Food Truck Man
-* [Go Fusion Grill](https://www.yelp.com/biz/go-fusion-n-grill-sun-valley)
-* [Heritage LA](http://www.heritagelacatering.com)
-* [India Jones Chow Truck](http://indiajoneschowtruck.com)
-* [King Kone Ice Cream](http://www.kingkonela.com)
-* [Kogi BBQ](http://kogibbq.com)
-* [Kona Ice](https://www.kona-ice.com)
-* [Main Squeeze Lemonade](http://www.mainsqueezela.com)
-* [Mapuche Native Argentinian Food](http://www.mapuchenative.com)
-* [Meat the Greek](http://www.meat-the-greek.com)
-* [Middle Feast](http://themiddlefeastfoodtruck.com)
-* [Oaxaca on wheels](http://oaxacaonwheels.com)
-* [Paradise Cookies and Ice Cream](http://www.theparadisetruck.com)
-* [Phillyfornia](https://www.facebook.com/phillyfornia1)
-* [Pinch of flavor food truck](http://pinchofflavortruck.com)
-* [Rice balls of fire](https://riceballsoffire.com)
-* [Richeeze Melts](https://www.richeezemelts.com)
-* [Roll'n Lobster](http://www.rollnlobster.com)
-* [Rushed art food truck](http://www.rushedartfoodtruck.com)
-* [SLAMMIN SLIDERS](http://www.slamminsliders.com)
-* [Slanging Corea](https://www.yelp.com/biz/slanging-corea-los-angeles-132)
-* [Socal Caribbean](http://www.socalcaribbeanfoodtruck.com)
-* [Spitz Truck](https://twitter.com/spitztruckla)
-* [Street Kitchen LA](http://www.streetkitchenla.com)
-* [Surfin Sumo](http://surfinsumo.com)
-* [Tender Grill Gourmet Brazilian Kitchen](https://twitter.com/tender_grill)
-* [Thai-Mex Cocina](https://www.facebook.com/thaimexcocina)
-* [The Falafel Factory](http://thefalafel-factory.com)
-* [The Grilled Cheese Truck](http://www.thegrilledcheesetruck.com)
-* [The Paradise Truck](http://www.theparadisetruck.com)
-* [The Pudding Truck](https://www.thepuddingtruck.com)
-* [The Queso Truck](https://www.thequesotruck.com)
-* [The Taco Cartel](https://twitter.com/thetacocartella)
-* [The Triple Threat Truck](https://www.thetriplethreattruck.com)
-* [The Waffle Oh Truck](http://thewaffleohtruck.com)
-* [The big cheese](http://thebigcheesesocal.com)*
-* [The shrimp and taco stop](http://www.theshrimpandtacostop.com)
-* [The surfer taco](http://thesurfertaco.com)
-* [Turnt Up Food Truck](http://turntupfoodtruck.com)
-* [V CHOS](http://vchostruck.com)
-* [Wise Barbecue](https://wisebarbecue.com)
-* [Woody's Grill Truck](https://www.woodysgrilltruck.com)
+* [Yalla Truck](http://www.yallatruck.com)
+
+BLUE LINE: Broadway B/T 1st + 2nd) 
+* [Brew Wings](https://brewwing.com)
+* [Cocina Fresca](https://www.cocinafrescatruck.com)
+* [Elabrew Coffee Truck](http://www.elabrewcoffee.com)
+* [Paradise Truck 1](http://www.theparadisetruck.com)
+* [Pinch of Flavor Truck](http://pinchofflavortruck.com)
+* [Rice Balls of Fire](https://www.cocinafrescatruck.com)
+* [Roni Macaroni](https://www.ronimacaronifoodtruck.com/menu)
+* [Sabores de Mexico](https://saboresdemexicofoodtruck.weebly.com)
+* [Suteki-ya Teppanyaki + Donburri](https://www.instagram.com/sutekiya_catering)
+* [Thai-Mex Cocina](https://www.instagram.com/thaimexcocina/?hl=en)
+* [The Tropic Truck](http://www.thetropictruck.com)
+* [VCHOS](http://vchostruck.com)
+* [Wild Dogs Grill](https://www.instagram.com/wilddogs.foodtruck)
+
+EXPO LINE: 1st B/T + Broadway
+* Boba ni Taco
+* [Cerda Vega Tacos](https://www.instagram.com/cerdavegatacos)
+* [Cousins Maine Lobster](https://www.cousinsmainelobster.com)
+* [India Jones Chow Truck](http://indiajoneschowtruck.blogspot.com)
+* [Merci Clement Gelato](https://merciclement.com)
+
+GOLD LINE: Spring, North of 1st 
+* [BBQ Smokehouse](http://www.thebbqsmokehouse.com/food-truck-menu.html)
+* [Kebabology](https://twitter.com/la_kebabology?lang=en)
+* [Ralph and Richies](https://www.ralphnrichies.net)
+* [What the Funnell](http://www.what-the-funnel.com)
+
+
+GREEN LINE: Broadway B/T 2nd + 3rd  
+* [Baby's Badass Burgers](http://www.babysbadassburgers.com)
+* [The Bollywood Kitchen](https://twitter.com/thebollywoodkit)
+* [Border Grill](http://www.bordergrill.com/catering/truck-catering)
+* [Deli Doctor](https://www.delidoctor.com)
+* [Hungry Belly](http://hungrybellyfoodtruckla.com)
+* [Inglorious Funnels](https://www.instagram.com/inglorious_funnels)
+* [Oaxaca on Wheels](https://www.instagram.com/oaxacaonwheels)
+* [Roaming Italy](https://www.instagram.com/roamingitalyla)
+
+PURPLE LINE: 1st B/T Broadway + Spring 
+* [Belly Bombz](https://bellybombz.com)
+* [Dreamy Creatioms](https://www.dreamycreations.com)
+* Habibi Shack
+* [Kuushi Sushi](http://kuushisushi.com)
+* [The Middle Feast Food Truck](https://themiddlefeastfoodtruck.com)
+* The Surfer Taco
+* [Wings N Waffles](https://www.wingsnwaffles.com)
+
+RED LINE: Broadway, North of 1st
+* [Atomic Cafe](https://atomiccafemobile.com)
+* [Crepes Bonaparte](https://www.crepesbonaparte.com)
+* [KOGI BBQ](http://kogibbq.com)
+* [Oaxaca on Wheels](https://www.instagram.com/oaxacaonwheels)
+* [Richeeze](https://www.richeeze.net)
+* [VCHOS](http://vchostruck.com)
+* Wild Dogs Grill
 -->
 
 
