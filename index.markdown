@@ -592,11 +592,13 @@ Plan your trip at [metro.net](https://www.metro.net/) or call 323.GO.METRO (323.
 **Ride a Metro Bike to NYELA!** Check out and return your bike to nearby stations _Main & 1st_ or _Grand & Temple_. See [Station Map](https://bikeshare.metro.net/stations/) for a full list of stations.
 -->
 
+<!--
 ### Bicycle Parking
 
 Valet parking for bicycles will be available at [Hill Street and West 2nd Street](https://www.google.com/maps/place/S+Hill+St+%26+W+2nd+St,+Los+Angeles,+CA+90012/@34.0531231,-118.2499742,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64c3c8c1705:0x58663dce62ee9943!8m2!3d34.0531231!4d-118.2477855).
 
 The valet service is **free** and will be provided by the [Los Angeles County Bicycle Coalition](https://la-bike.org).
+-->
 
 ### Taking Rideshare Like Lyft Or Uber?
 
