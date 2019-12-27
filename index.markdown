@@ -19,7 +19,7 @@ Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates abo
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Map](#event-map)
 * [Transportation](#transportation)
-* [Watch Live](#watch-live)
+<!--* [Watch Live](#watch-live)-->
 
 <!--
 ## Dear LA,
@@ -516,7 +516,9 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 <!--
 
-Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
+Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a N.Y.E.L.A. medallion (while supplies last).
+
+Also, when you sign up for our e-mail newsletter, you will receive a survey and be able to enter for a chance to receive a $100 giftcard.
 
 [Downloadable Map](/nyela-2019-map.pdf) _(PDF file)_
 
