@@ -392,7 +392,8 @@ Experience some of L.A.’s best music-makers at the [Countdown Stage](#countdow
 
 ### Boogie Down Dance Zone 
 
-Lounge around and listen to the sounds of DJ Cool Era
+(located at Broadway + 2nd)
+Enjoy the sounds of DJ Cool Era and selfie it up with inflatable art!
 
 
 ### Projections
