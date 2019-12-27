@@ -511,22 +511,24 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 
 
-<!--
 ## Event Map
+
+<!--
 
 Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
 
 [Downloadable Map](/nyela-2019-map.pdf) _(PDF file)_
 
+-->
+
 <figure class="feature map">
   <div data-aspect-ratio="2048/3140" style="background-color: black; color: white;">
-    <a href="/nyela-2019-map.pdf">
-      <img src="/nyela-2019-map.png" width="1000" alt="Event Map" />
+    <a href="/nyela-2020-map.png">
+      <img src="/nyela-2020-map.png" width="1000" alt="Event Map" />
     </a>
   </div>
 </figure>
 
--->
 
 ## Transportation
 
