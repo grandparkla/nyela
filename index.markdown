@@ -8,7 +8,7 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2020. Grand Park + The Music
 # Announcements
 
 
-Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates about tonight’s event!
+Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) [Grand Park on IG Stories] (https://www.instagram.com/grandpark_la) updates about the night’s event!
 
 </section>
 -->
@@ -24,7 +24,7 @@ Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) for updates abo
 <!--
 ## Dear LA,
 
-Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall tonight. Let’s dance, laugh, hug, make new friends and countdown to the new year!
+Are you ready to ring in A WHOLE NEW DECADE?! Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall tonight. Let’s dance, laugh, hug, make new friends and countdown to the new year!
 
 Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, and the _Metro by T-Mobile_ booth.
 
@@ -566,6 +566,8 @@ Due to street closures, **the parking area underneath Grand Park (Lot 10) will n
 
 [Walt Disney Concert Hall Garage](https://www.laphil.com/visit/parking)
 : <abbr title="also known as">aka</abbr> Lot 16, located at 111 South Grand Avenue. Enter on 2nd Street or Lower Grand Avenue.
+
+There are other various parking lots close by!
 
 <!--
 Health Services Garage
