@@ -411,9 +411,9 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 
 ### Food Trucks
 
-<!--
-Food trucks will be available along [1st Street](#event-map).
--->
+
+Check out our Food Truck areas - we have over 40 food trucks for you! [1st Street](#event-map).
+
 
 
 ANGEL'S FLIGHT: Grand Ave.
@@ -476,6 +476,8 @@ RED LINE: Broadway, North of 1st
 * [Richeeze](https://www.richeeze.net)
 * [VCHOS](http://vchostruck.com)
 * Wild Dogs Grill
+
+_food trucks subject to change_
 
 ### Art Installations
 
