@@ -19,7 +19,7 @@ Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) and [Grand Park
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Event Map](#event-map)
 * [Transportation](#transportation)
-* [Street Closures](#street-closure)
+* [Street Closures](#street-closures)
 
 <!--
 ## Dear LA,
