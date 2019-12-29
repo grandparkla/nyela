@@ -94,10 +94,10 @@ This is a **free** event. There’s no cost to attend.
 
 ## Street Closures
 
-<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_1.jpg" /> 
-<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_2a.jpg" /> 
+See the [N.Y.E.L.A. Community Letter](/uploads/NYELA Countdown to 2019. Community Letter 11.18.2019.pdf) for more details about streets that will be closed during the event.
 
-
+<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_1.jpg" alt="Road closure notice" /> 
+<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_2a.jpg" alt="Road closure notice" /> 
 
 <!--
 ## Watch Live!
