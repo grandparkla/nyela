@@ -94,8 +94,8 @@ This is a **free** event. There’s no cost to attend.
 
 ## Street Closures
 
-<img src="_uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_1.jpg" /> 
-<img src="_uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_2a.jpg" /> 
+<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_1.jpg" /> 
+<img src="/uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_2a.jpg" /> 
 
 
 
