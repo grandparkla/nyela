@@ -18,15 +18,17 @@ Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) and [Grand Park
 * [Artists](#featured-artists)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
 * [Event Map](#event-map)
+* [Food Trucks](#food-trucks)
 * [Transportation](#transportation)
 * [Street Closures](#street-closures)
 
 <!--
-## Dear LA,
+## Hello L.A.!
 
-Are you ready to ring in A WHOLE NEW DECADE?! Thank you for coming together to celebrate 2018 and ring in 2019! This year’s theme is _LA Dreams_. What is your dream for LA? We posed this question to 5th & 6th graders across the county, and their [art and words](/my-dream-la) inspire the 3D projection art you will see on City Hall tonight. Let’s dance, laugh, hug, make new friends and countdown to the new year!
+Are you ready to ring in A WHOLE NEW DECADE?! Thank you for being here and making this the biggest New Year's Eve party on the West Coast! 
+Let's dance, laugh, hug your loved ones and make new friends and memories as we welcome 2020 together!
 
-Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_, and the _Metro by T-Mobile_ booth.
+Be sure to check out all the [yummy food](#food-trucks), [live music](#featured-artists), the [photo booths](#photo-booths) sponsored by _Kaiser Permanente_.
 
 [Event maps](#event-map) will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a **fun glow wand** (while supplies last).
 
@@ -412,7 +414,7 @@ Experience a spectacular interactive countdown to remember, featuring [3D digit
 ### Food Trucks
 
 
-Check out our Food Truck areas - we have over 40 food trucks for you! [1st Street](#event-map).
+Check out our Food Truck areas - we have over 40 [food trucks](#food-trucks) for you! Check out the [event map](#event-map) for locations.
 
 
 
