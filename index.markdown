@@ -92,7 +92,8 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
-### [Street Closures](#street-closure)
+### Street Closures
+
 
 
 
