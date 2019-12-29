@@ -5,7 +5,7 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2020. Grand Park + The Music
 
 <section class="special-notice" role="status" markdown="1">
 
-# Announcements
+## Announcements
 
 
 Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) and [Grand Park on IG Stories](https://www.instagram.com/grandpark_la) updates about the night’s event!
