@@ -92,6 +92,11 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
+### [Street Closures](#street-closure)
+
+
+
+
 <!--
 ## Watch Live!
 
@@ -515,15 +520,16 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 ## Event Map
 
-<!--
+
 
 Don’t miss out. Event maps will be available at the _Grand Park_ info booths. Sign up for our e-mail newsletter at one of the booths and get a N.Y.E.L.A. medallion (while supplies last).
 
-Also, when you sign up for our e-mail newsletter, you will receive a survey and be able to enter for a chance to receive a $100 giftcard.
+Also, when you sign up for our e-mail newsletter, you will receive a survey and be able to enter for a chance to receive a $100 giftcard. 
+_All employees, agents and contractors of The Music Center, as well as their immediate family (spouse, parents, siblings and children) and household members of each such employee, are NOT eligible to participate in the survey, and any responses received will be disqualified from the drawing of the gift card._
 
-[Downloadable Map](/nyela-2019-map.pdf) _(PDF file)_
+[Downloadable Map](/nyela-2020-map.png) 
 
--->
+
 
 <figure class="feature map">
   <div data-aspect-ratio="2048/3140" style="background-color: black; color: white;">
