@@ -92,9 +92,10 @@ C9.3,11.7,9.3,11.2,9.1,10.9z"/>
 
 This is a **free** event. There’s no cost to attend.
 
-### Street Closures
+## Street Closures
 
-
+<img src="_uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_1.jpg" /> 
+<img src="_uploads/GP_NYELA_2019_Road_Closure_Notice_r4_Page_2a.jpg" /> 
 
 
 
