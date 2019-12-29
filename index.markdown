@@ -2,24 +2,24 @@
 title: 'New Year’s Eve, Los Angeles. Countdown to 2020. Grand Park + The Music Center'
 ---
 
-<!--
+
 <section class="special-notice" role="status" markdown="1">
 
 # Announcements
 
 
-Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) [Grand Park on IG Stories] (https://www.instagram.com/grandpark_la) updates about the night’s event!
+Follow [Grand Park on Twitter](https://twitter.com/GrandPark_LA) and [Grand Park on IG Stories](https://www.instagram.com/grandpark_la) updates about the night’s event!
 
 </section>
--->
+
 
 * [Safety](#safety)
 * [Schedule](#event-schedule)
 * [Artists](#featured-artists)
 * [Fun!](#fun-stuff-to-hear-see-and-do)
-* [Map](#event-map)
+* [Event Map](#event-map)
 * [Transportation](#transportation)
-<!--* [Watch Live](#watch-live)-->
+* [Street Closures](#street-closure)
 
 <!--
 ## Dear LA,
@@ -58,6 +58,7 @@ Grand Park + The Music Center:<br />
 <figure>
 <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
 <a href="https://www.google.com/maps/place/Grand%20Park%20LA/@34.056329,-118.246771,16z/data=!4m5!3m4!1s0x0:0xebf5893d7caaf0de!8m2!3d34.0563289!4d-118.2467713?ll=34.056329,-118.246771&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=17002646865384763614" class="has-icon">
+ 
 <!--
 <picture>
 <source srcset="/images/grand-park-on-google-maps-1280x640.png 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
