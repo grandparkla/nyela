@@ -1,7 +1,20 @@
 ---
-title: 'New Year’s Eve, Los Angeles. Countdown to 2020. Grand Park + The Music Center'
+title: 'New Year’s Eve, Los Angeles. Countdown to 2021. Grand Park + The Music Center'
 ---
 
+<br />
+
+Countdown to 2021  
+Thursday 12/31 11PM PST
+
+on fuse  
+check your local listings
+
+[@grandpark_la](https://twitter.com/grandpark_la)
+
+
+
+{% comment %}
 
 <section class="special-notice" role="status" markdown="1">
 
@@ -687,3 +700,6 @@ Use the drop off/pick up zone near the [1st Street and North Los Angeles Street
 
 
 <p class="legal"><em>The information on this page is subject to change.</em> Please check back here, <a href="https://twitter.com/grandpark_la">@grandpark_la</a>, <a href="https://www.musiccenter.org/nyela">musiccenter.org</a>, or <a href="https://twitter.com/musiccenterla">@musiccenterla</a> for updates throughout the day.</p>
+
+{% endcomment %}
+
