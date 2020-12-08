@@ -7,8 +7,10 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2021. Grand Park + The Music
 Countdown to 2021  
 Thursday 12/31 11PM PST
 
-on fuse  
-check your local listings
+On Fuse TV or Fuse on YouTube  
+Check your local listings
+
+Stay tuned for more info! Follow @grandpark_la on Instagram, Twitter and Facebook.
 
 [@grandpark_la](https://twitter.com/grandpark_la)
 
