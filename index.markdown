@@ -4,7 +4,7 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2021. Grand Park + The Music
 
 <br />
 
-<!-- Countdown to 2021  
+Countdown to 2021  
 Thursday 12/31 11PM PST
 
 on fuse  
