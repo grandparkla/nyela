@@ -8,9 +8,9 @@ Countdown to 2021
 Thursday 12/31 11PM PST
 
 On Fuse TV or Fuse on YouTube  
-Check your local listings
 
 Stay tuned for more info! Follow Grand Park on Instagram, Twitter and Facebook.
+
 
 
 
