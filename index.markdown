@@ -10,9 +10,9 @@ Thursday 12/31 11PM PST
 On Fuse TV or Fuse on YouTube  
 Check your local listings
 
-Stay tuned for more info! Follow @grandpark_la on Instagram, Twitter and Facebook.
+Stay tuned for more info! Follow Grand Park on Instagram, Twitter and Facebook.
 
-[@grandpark_la](https://twitter.com/grandpark_la)
+
 
 
 
