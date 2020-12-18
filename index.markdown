@@ -26,11 +26,11 @@ Fuse TV (Check your local listings)
 
 Please note this is not an in-person event. Please enjoy the show from the comfort on your home!
 
-### Watch Livestream
+## Watch Livestream
 
 Link coming soon!
 
-### Featured Artists
+## Featured Artists
  
 <div class="featured-artists" markdown="1">
 
