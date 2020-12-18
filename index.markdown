@@ -8,7 +8,7 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2021. Grand Park + The Music
 
 Follow Grand Park on [Twitter](https://twitter.com/GrandPark_LA) and [Instagram](https://www.instagram.com/grandpark_la) for updates about the night’s event!
 
-LA's official New Year's Eve party is going global! Grand Park's NYELA 2020 makes its national broadcast debut on Fuse. Count down to 2021 by tuning into the biggest virtual NYE dance party on the west coast! 🎊
+🎊 LA's official New Year's Eve party is going global! Grand Park's NYELA 2020 makes its national broadcast debut on Fuse. Count down to 2021 by tuning into the biggest virtual NYE dance party on the west coast! 🎊
 
 ### When
 
