@@ -4,15 +4,116 @@ title: 'New Year’s Eve, Los Angeles. Countdown to 2021. Grand Park + The Music
 
 <br />
 
-Countdown to 2021  
-Thursday 12/31 11PM PST
+## Announcements
 
-On Fuse TV or Fuse on YouTube  
-(Please note this is not an in-person event.)
+Follow Grand Park on [Twitter](https://twitter.com/GrandPark_LA) and [Instagram](https://www.instagram.com/grandpark_la) for updates about the night’s event!
 
-Stay tuned for more info! Follow Grand Park on Instagram, Twitter and Facebook.
+LA's official New Year's Eve party is going global! Grand Park's NYELA 2020 makes its national broadcast debut on Fuse. Count down to 2021 by tuning into the biggest virtual NYE dance party on the west coast! 🎊
 
+### When
 
+The party kicks off at 11PM PT / 2AM ET on Thursday, December 31, 2020.
+
+### Where
+
+Fuse TV (Check your local listings)
+
+[Fuse on YouTube](https://www.youtube.com/user/fuse)
+
+[Grand Park on YouTube](https://www.youtube.com/channel/UCVigj7YDDGSLWCDXRhmqj6g)
+
+[The Music Center Offstage](https://www.musiccenter.org/tmc-offstage/)
+
+Please note this is not an in-person event. Please enjoy the show from the comfort on your home!
+
+### Watch Livestream
+
+Link coming soon!
+
+### Featured Artists
+ 
+<div class="featured-artists" markdown="1">
+
+[Steve Aoki](https://www.instagram.com/steveaoki/) 
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_SA_1800x1800_E.png" />
+
+<div class="featured-artists" markdown="1">
+
+[BIA (Special Guest)](https://www.instagram.com/bia/)
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_BIA_1800x1800_E.png" />
+
+<div class="featured-artists" markdown="1">
+
+[AQUIHAYAQUIHAY](https://www.instagram.com/aquihayaquihay/)
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_AH_1800x1800_E.png" />
+
+<div class="featured-artists" markdown="1">
+
+[Andrekza](https://www.instagram.com/andrekza/)
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_Andrekza_1800x1800_E.png" />
+
+<div class="featured-artists" markdown="1">
+
+[2DEEP of Gasolina Party](https://www.instagram.com/2deepmusica/) 
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_2DEEP_1800x1800_E.png" /> 
+
+### Hosts
+ 
+<div class="featured-artists" markdown="1">
+
+[DJ Eddie One](https://www.instagram.com/djeddieone/) 
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_EddieOne_1800x1800.png" />
+
+<div class="featured-artists" markdown="1">
+
+[Jessica Flores](https://www.instagram.com/yojessicaflores/)
+
+</div>
+ 
+<img src="images/artists/GP_NYELA2020_Jessica_1800x1800.png" />
+
+## Past Highlights
+
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
+<a href="https://vimeo.com/165034815" class="has-icon">
+<img srcset="/images/highlights-video-poster-320-wide.jpg 320w, /images/highlights-video-poster-640-wide.jpg 640w, /images/highlights-video-poster-768-wide.jpg 768w, /images/highlights-video-poster-1024-wide.jpg 1024w, /images/highlights-video-poster.jpg 1680w" sizes="100vw" src="/images/highlights-video-poster.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park and The Music Center’s New Year’s Eve Celebration</foreignobject>
+</switch>
+</svg>
+</span>
+<span class="credit">Grand Park on Vimeo</span>
+</a>
+</div>
+</figure>
+
+<h2 class="powered-by"><a href="https://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="https://www.musiccenter.org">The Music Center</a></h2>
+
+<li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
+<li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" style="font-size: 0.75em"  /></li>
 
 
 
