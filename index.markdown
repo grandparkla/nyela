@@ -97,7 +97,7 @@ Link coming soon!
 
 <div class="featured-artists" markdown="1">
 
-### Small Business Partners
+## Small Business Partners
 
 Check out our Small Business Partners - we have 5 [small business partners](#small-business-partners) providing Party At Home food and drink kits for the show! Read on for more details.
 
@@ -113,8 +113,9 @@ Check out our Small Business Partners - we have 5 [small business partners](#sma
 
 Aguas Locas is a family run “Pandemic-born” business. It began in the Spring of 2020 when Pablo began making Aguas Frescas for his daughter as an alternative to juice and other sugary drinks. The Los Angeles based beverage company offers handmade Mexican inspired Alcoholic and Non-Alcoholic drinks.
 
+[Instagram](https://www.instagram.com/aguas_locas_la)
 
-<u>NYELA Party At Home Kit:</u>
+### NYELA Party At Home Kit
 
 <b>$55 64oz margarita of your choice (makes 12 cocktails over ice) + Black Sea Salt + Limes + Cups</b>
 
@@ -138,10 +139,9 @@ Drink options:
 
 <b>Same Day Pick Up & Next Day Delivery starting on Dec 27th available anywhere in LA.</b>
 
-How To Order:
+### How To Order
 
 Order on [Instagram](https://www.instagram.com/aguas_locas_la)
-
 
 * [Flaco](https://www.flacoshop.com)
 
@@ -153,29 +153,29 @@ Order on [Instagram](https://www.instagram.com/aguas_locas_la)
 
 Flaco. Is a newly opened taqueria located in East Hollywood. A taco spot with a simple menu. Slow-cooked Carnitas: hours long cooking process, no boiling or roasting and minimal ingredients. Tortillas from Kernel of Truth Organics in Boyle Heights. A equally tasty Vegan Option available.
 
-NYELA Party At Home Kit:
+[Instagram](https://www.instagram.com/flacolosangeles/)
 
-$54 flaco. Carnitas Box
+### NYELA Party At Home Kit
 
-Tacos, chips, salsa and guacamole for 4 people. One pound of carnitas, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.
+<b>$54 flaco. Carnitas Box</b>
 
-Available for shipping, pickup or delivery.
+<i>Tacos, chips, salsa and guacamole for 4 people. One pound of carnitas, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.</i>
 
-$54 flaco. Vegan Taco Box
+<b>$54 flaco. Vegan Taco Box</b>
 
 Purple potato tacos, chips, salsa and guacamole for 4 people. One pound of roasted potatoes, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.
 
-How To Order:
+### How To Order
+
+HOURS: Sunday & Monday CLOSED. Tuesday - Saturday: 11AM-8PM
+
+Pick Up / Delivery: 5652 Hollywood Blvd, Los Angeles, CA 90028
 
 Order [Online](https://www.flacoshop.com/s/order)
 
 Phone: (323) 499-1260
 
-Uber Eats
-
-Pickup / Delivery: 5652 Hollywood Blvd, Los Angeles, CA 90028
-
-Order on [Instagram](https://www.instagram.com/flacolosangeles/)
+Uber Eats / Postmates / GrubHub
 
 * [Genever](https://www.geneverla.com)
 
