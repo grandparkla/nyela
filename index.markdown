@@ -163,19 +163,19 @@ Flaco. Is a newly opened taqueria located in East Hollywood. A taco spot with a 
 
 <b>$54 flaco. Vegan Taco Box</b>
 
-Purple potato tacos, chips, salsa and guacamole for 4 people. One pound of roasted potatoes, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.
+<i>Purple potato tacos, chips, salsa and guacamole for 4 people. One pound of roasted potatoes, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.</i>
 
 ### How To Order
 
-HOURS: Sunday & Monday CLOSED. Tuesday - Saturday: 11AM-8PM
-
 Pick Up / Delivery: 5652 Hollywood Blvd, Los Angeles, CA 90028
 
-Order [Online](https://www.flacoshop.com/s/order)
+HOURS: Sunday & Monday CLOSED. Tuesday - Saturday: 11AM-8PM
 
 Phone: (323) 499-1260
 
-Uber Eats / Postmates / GrubHub
+Order [Online](https://www.flacoshop.com/s/order)
+
+Also available on Uber Eats / Postmates / GrubHub
 
 * [Genever](https://www.geneverla.com)
 
@@ -185,6 +185,24 @@ Uber Eats / Postmates / GrubHub
 
 <div class="small-business-partners" markdown="1">
 
+Genever is a friendly and intimate lounge, located in Los Angeles’ Historic Filipinotown. Inspired by world travels and driven by local bounty, they serve fresh libations with an emphasis on local produce and house-made syrups and shrubs. By highlighting gin on the menu, they offer a vast amount, as well as a diverse selection of other alcoholic and non-alcoholic beverages, including beer and wine. Genever is proud to be one of the growing number of women-owned and operated bars in the nation, made up of Roselma, Christine and Patricia, aka Red Capiz Partners (RCP).
+
+[Instagram](https://www.instagram.com/genever_la/)
+
+### NYELA Party At Home Kit
+
+<i> Genever is offering a menu of five cocktails, one of which is an alcohol free ‘mocktail’ in serving sizes of 1, 2, or 6 servings. Genever has partnered with Savory Roads Catering and will be offering a choice of three paellas with the cocktails.</i>
+
+<i>*Orders over $100 get a complimentary bottle of bubbly!*</i>
+
+<b>Orders close at midnight on December 28th. Pick ups are available at Genever on December 30th and December 31st from 4PM-8PM. Delivery is available within a 15 mile radius of Genever for $15.</b>
+
+### How To Order
+
+Pick Up / Delivery: 3123 Beverly Blvd, Los Angeles, CA 90057
+
+Order [Online](https://www.geneverla.com/welcome)
+
 * [Jitlada](https://www.instagram.com/jitlada_la)
 
 </div>
@@ -193,6 +211,28 @@ Uber Eats / Postmates / GrubHub
 
 <div class="small-business-partners" markdown="1">
 
+Jitlada is a Hollywood stable with a story starting in the late 70s. A true American Dream story, Chef Jazz took over the business with her family in 2006 and has shared her life passion of making the best Southern Thai Cuisine in the country. Jitlada is mind-blowingly delicious.
+
+[Instagram](https://www.instagram.com/jitlada_la/)
+
+### NYELA Party At Home Kit
+
+<b> Dinner For Two</b>
+
+<i>(2) Jazz Burgers + (2) Thai Teas + Morning Glory Salad</i>
+ 
+ Catering available.
+ 
+ ### How To Order
+ 
+ Pick Up / Delivery: 5233 1/2 W Sunset Blvd, Los Angeles, CA 90027
+ 
+ HOURS: Monday CLOSED. Tuesday - Sunday: 11AM-3PM, 5PM-10:30PM
+ 
+ Phone: (323) 667-9808 / (323) 663-3104
+ 
+ Also available on Uber Eats / GrubHub 
+
 * [People's Republic of South Central](https://www.prscbrand.com)
 
 </div>
@@ -200,6 +240,24 @@ Uber Eats / Postmates / GrubHub
 <img src="images/GP_NYELA2020_PRSC.jpg" />
 
 <div class="small-business-partners" markdown="1">
+
+People’s Republic of South Central is a locally brewed beer with a cause. 100% of the net proceeds of sales go toward purchasing Chromebooks for students in South Central. They are a black-owned business currently building out a 24,000 square foot craft beverage incubator in South Central Los Angeles. No less than 75% of our employees will be from the immediate local neighborhood. While our doors won’t officially open until Fall 2021, 100% of the net proceeds from our limited-edition beer releases go toward purchasing Chromebooks for kids in South Los Angeles that do not have their own computer at home. Our first beer, LEGACY, was released in September and the last remaining cases are still available for sale at Eagle Rock Brewery.
+
+[Instagram](https://www.instagram.com/prscbeer/)
+
+### NYELA Party At Home Kit
+
+<i>The first offering from a brand-new line of limited-edition beers that give back, PRSC's (People’s Republic of South Central) LEGACY is a hazy IPA featuring Motueka, Simcoe, and Mosaic hops with flavors of pineapple, lychee, lemon verbena, and nectarine to produce an extremely juicy and easy-to-drink beer destined to become a collector’s item. </i>
+
+### How To Order
+
+Pick Up Only: Eagle Rock Brewery, 3056 Roswell St, Los Angeles, CA 90065
+
+HOURS: Wednesday - Sunday: 12PM-7PM. Closed New Year's Day.
+
+Phone: (323) 257-7866
+
+Email: info@eaglerockbrewery.com
 
 ## Past Highlights
 
