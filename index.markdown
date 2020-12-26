@@ -177,7 +177,7 @@ Order [Online](https://www.flacoshop.com/s/order)
 
 Also available on Uber Eats / Postmates / GrubHub
 
-* [Genever](https://www.geneverla.com)
+* [Genever](https://geneverla-store.square.site/)
 
 </div>
 
@@ -201,7 +201,7 @@ Genever is a friendly and intimate lounge, located in Los Angeles’ Historic Fi
 
 Pick Up / Delivery: 3123 Beverly Blvd, Los Angeles, CA 90057
 
-Order [Online](https://www.geneverla.com/welcome)
+Order [Online](https://geneverla-store.square.site/)
 
 * [Jitlada](https://www.instagram.com/jitlada_la)
 
