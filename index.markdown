@@ -114,11 +114,9 @@ Check out our Small Business Partners - we have 5 [small business partners](#sma
 Aguas Locas is a family run “Pandemic-born” business. It began in the Spring of 2020 when Pablo began making Aguas Frescas for his daughter as an alternative to juice and other sugary drinks. The Los Angeles based beverage company offers handmade Mexican inspired Alcoholic and Non-Alcoholic drinks.
 
 
-<b>NYELA Party At Home Kit:</b>
+<u>NYELA Party At Home Kit:</u>
 
-$55
-
-64oz margarita of your choice (makes 12 cocktails over ice) + Black Sea Salt + Limes + Cups
+<b>$55 64oz margarita of your choice (makes 12 cocktails over ice) + Black Sea Salt + Limes + Cups</b>
 
 Drink options:
 
