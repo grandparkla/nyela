@@ -10,6 +10,9 @@ Follow Grand Park on [Twitter](https://twitter.com/GrandPark_LA) and [Instagram]
 
 🎊 LA's official New Year's Eve party is going global! Grand Park's NYELA 2020 makes its national broadcast debut on Fuse. Count down to 2021 by tuning into the biggest virtual NYE dance party on the west coast! 🎊
 
+* [Artists](#featured-artists)
+* [Small Business Partners](#small-business-partners)
+
 ### When
 
 The party kicks off at 11PM PT / 2AM ET on Thursday, December 31, 2020.
@@ -72,7 +75,7 @@ Link coming soon!
  
 <img src="images/artists/GP_NYELA2020_2DEEP_1800x1800_E.png" /> 
 
-### Hosts
+## Hosts
  
 <div class="featured-artists" markdown="1">
 
@@ -89,6 +92,104 @@ Link coming soon!
 </div>
  
 <img src="images/artists/GP_NYELA2020_Jessica_1800x1800.png" />
+
+<div class="featured-artists" markdown="1">
+
+### Small Business Partners
+
+Check out our Small Business Partners - we have 5 [small business partners](#small-business-partners) providing Party At Home food and drink kits for the show! Read on for more details.
+
+<div class="small-business-partners" markdown="1">
+
+* [Aguas Locas](https://www.instagram.com/aguas_locas_la)
+
+</div>
+
+<img src="images/GP_NYELA2020_AguasLocas.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+Aguas Locas is a family run “Pandemic-born” business. It began in the Spring of 2020 when Pablo began making Aguas Frescas for his daughter as an alternative to juice and other sugary drinks. The Los Angeles based beverage company offers handmade Mexican inspired Alcoholic and Non-Alcoholic drinks.
+
+
+NYELA Party At Home Kit:
+
+$55
+
+64oz margarita of your choice (makes 12 cocktails over ice) + Black Sea Salt + Limes + Cups
+
+Drink options:
+
+Mariposa Margarita: Lime, Agave, Blanco Tequila (100% Agave)
+
+Mexican Lollipop Margarita: Watermelon, Jalapeno, Lime, Agave, Blanco Tequila (100% Agave)
+
+Watermelon Aqua Fresca Margarita: Watermelon, Lime, Mint, Agave, Blanco Tequila (100% Agave)
+
+Next Day Delivery available anywhere in LA
+
+How To Order:
+
+Order on [Instagram](https://www.instagram.com/aguas_locas_la)
+
+
+* [Flaco](https://www.flacoshop.com)
+
+</div>
+
+<img src="images/GP_NYELA2020_flaco.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+Flaco. Is a newly opened taqueria located in East Hollywood. A taco spot with a simple menu. Slow-cooked Carnitas: hours long cooking process, no boiling or roasting and minimal ingredients. Tortillas from Kernel of Truth Organics in Boyle Heights. A equally tasty Vegan Option available.
+
+NYELA Party At Home Kit:
+
+$54 flaco. Carnitas Box
+
+Tacos, chips, salsa and guacamole for 4 people. One pound of carnitas, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.
+
+Available for shipping, pickup or delivery.
+
+$54 flaco. Vegan Taco Box
+
+Purple potato tacos, chips, salsa and guacamole for 4 people. One pound of roasted potatoes, kernel of truth tortillas and chips, salsa verde, salsa roja and guacamole. All boxed up nice and neat. Everything you need for a taco party at home or out and about.
+
+How To Order:
+
+Order [Online](https://www.flacoshop.com/s/order)
+
+Phone: (323) 499-1260
+
+Uber Eats
+
+Pickup / Delivery: 5652 Hollywood Blvd, Los Angeles, CA 90028
+
+Order on [Instagram](https://www.instagram.com/flacolosangeles/)
+
+* [Genever](https://www.geneverla.com)
+
+</div>
+
+<img src="images/GP_NYELA2020_genever.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+* [Jitlada](https://www.instagram.com/jitlada_la)
+
+</div>
+
+<img src="images/GP_NYELA2020_Jitlada.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+* [People's Republic of South Central](https://www.prscbrand.com)
+
+</div>
+
+<img src="images/GP_NYELA2020_PRSC.jpg" />
+
+<div class="small-business-partners" markdown="1">
 
 ## Past Highlights
 
