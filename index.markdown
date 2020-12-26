@@ -11,7 +11,9 @@ Follow Grand Park on [Twitter](https://twitter.com/GrandPark_LA) and [Instagram]
 🎊 LA's official New Year's Eve party is going global! Grand Park's NYELA 2020 makes its national broadcast debut on Fuse. Count down to 2021 by tuning into the biggest virtual NYE dance party on the west coast! 🎊
 
 * [Artists](#featured-artists)
+* [Watch Livestream](#watch-livestream)
 * [Small Business Partners](#small-business-partners)
+* [Past Highlights](#past-highlights)
 
 ### When
 
@@ -120,19 +122,19 @@ $55
 
 Drink options:
 
-<i>Mariposa Margarita: Lime, Agave, Blanco Tequila (100% Agave)
+<i>Mariposa Margarita: Lime, Agave, Blanco Tequila (100% Agave)</i>
 
-<i>Mexican Lollipop Margarita: Watermelon, Jalapeno, Lime, Agave, Tajin, Sal De Mexico, Blanco Tequila (100% Agave)
+<i>Mexican Lollipop Margarita: Watermelon, Jalapeno, Lime, Agave, Tajin, Sal De Mexico, Blanco Tequila (100% Agave)</i>
 
-<i>Spicy Jalapeno & Agave Margarita: Jalapeno, Lime, Agave, Blano Tequila (100% Agave)
+<i>Spicy Jalapeno & Agave Margarita: Jalapeno, Lime, Agave, Blano Tequila (100% Agave)</i>
 
-<i>Watermelon Aqua Fresca Margarita: Watermelon, Lime, Mint, Agave, Blanco Tequila (100% Agave)
+<i>Watermelon Aqua Fresca Margarita: Watermelon, Lime, Mint, Agave, Blanco Tequila (100% Agave)</i>
 
-<i>Flor De Jamaica Y Cinnamon: Jamaica (Hibiscus Flower), Cinnamon, Mint, Lime, Agave (Non-Alcoholic)
+<i>Flor De Jamaica Y Cinnamon: Jamaica (Hibiscus Flower), Cinnamon, Mint, Lime, Agave (Non-Alcoholic)</i>
 
-<i>Watermelon, Limon y Chia: Watermelon, Lime, Chia Seeds, Agave (Non-Alcoholic)
+<i>Watermelon, Limon y Chia: Watermelon, Lime, Chia Seeds, Agave (Non-Alcoholic)</i>
 
-<i>Melon Y Menta: Cantaloupe, Mint, Lime, Agave (Non-Alcoholic)
+<i>Melon Y Menta: Cantaloupe, Mint, Lime, Agave (Non-Alcoholic)</i>
 
 <i>Cucumber, Menta, Limon Y Chia: Cucumber, Mint, Lime, Chia Seeds, Agave (Non-Alcoholic)</i>
 
