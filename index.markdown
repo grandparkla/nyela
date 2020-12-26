@@ -112,7 +112,7 @@ Check out our Small Business Partners - we have 5 [small business partners](#sma
 Aguas Locas is a family run “Pandemic-born” business. It began in the Spring of 2020 when Pablo began making Aguas Frescas for his daughter as an alternative to juice and other sugary drinks. The Los Angeles based beverage company offers handmade Mexican inspired Alcoholic and Non-Alcoholic drinks.
 
 
-NYELA Party At Home Kit:
+<b>NYELA Party At Home Kit:</b>
 
 $55
 
@@ -120,13 +120,23 @@ $55
 
 Drink options:
 
-Mariposa Margarita: Lime, Agave, Blanco Tequila (100% Agave)
+<i>Mariposa Margarita: Lime, Agave, Blanco Tequila (100% Agave)
 
-Mexican Lollipop Margarita: Watermelon, Jalapeno, Lime, Agave, Blanco Tequila (100% Agave)
+<i>Mexican Lollipop Margarita: Watermelon, Jalapeno, Lime, Agave, Tajin, Sal De Mexico, Blanco Tequila (100% Agave)
 
-Watermelon Aqua Fresca Margarita: Watermelon, Lime, Mint, Agave, Blanco Tequila (100% Agave)
+<i>Spicy Jalapeno & Agave Margarita: Jalapeno, Lime, Agave, Blano Tequila (100% Agave)
 
-Next Day Delivery available anywhere in LA
+<i>Watermelon Aqua Fresca Margarita: Watermelon, Lime, Mint, Agave, Blanco Tequila (100% Agave)
+
+<i>Flor De Jamaica Y Cinnamon: Jamaica (Hibiscus Flower), Cinnamon, Mint, Lime, Agave (Non-Alcoholic)
+
+<i>Watermelon, Limon y Chia: Watermelon, Lime, Chia Seeds, Agave (Non-Alcoholic)
+
+<i>Melon Y Menta: Cantaloupe, Mint, Lime, Agave (Non-Alcoholic)
+
+<i>Cucumber, Menta, Limon Y Chia: Cucumber, Mint, Lime, Chia Seeds, Agave (Non-Alcoholic)</i>
+
+<b>Same Day Pick Up & Next Day Delivery starting on Dec 27th available anywhere in LA.</b>
 
 How To Order:
 
