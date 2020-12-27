@@ -111,6 +111,12 @@ Check out our Small Business Partners - we have 5 [small business partners](#sma
 
 <div class="small-business-partners" markdown="1">
 
+</div>
+
+<img src="images/Aguas-Locas.png" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
 Aguas Locas is a family run “Pandemic-born” business. It began in the Spring of 2020 when Pablo began making Aguas Frescas for his daughter as an alternative to juice and other sugary drinks. The Los Angeles based beverage company offers handmade Mexican inspired Alcoholic and Non-Alcoholic drinks.
 
 [Instagram](https://www.instagram.com/aguas_locas_la)
@@ -151,6 +157,12 @@ Order on [Instagram](https://www.instagram.com/aguas_locas_la)
 
 <div class="small-business-partners" markdown="1">
 
+</div>
+
+<img src="images/openingday2_1605885758.jpg" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
 Flaco. Is a newly opened taqueria located in East Hollywood. A taco spot with a simple menu. Slow-cooked Carnitas: hours long cooking process, no boiling or roasting and minimal ingredients. Tortillas from Kernel of Truth Organics in Boyle Heights. A equally tasty Vegan Option available.
 
 [Instagram](https://www.instagram.com/flacolosangeles/)
@@ -185,6 +197,12 @@ Also available on Uber Eats / Postmates / GrubHub
 
 <div class="small-business-partners" markdown="1">
 
+</div>
+
+<img src="images/s928002804150496458_p912_i1_w1508.jpeg" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
 Genever is a friendly and intimate lounge, located in Los Angeles’ Historic Filipinotown. Inspired by world travels and driven by local bounty, they serve fresh libations with an emphasis on local produce and house-made syrups and shrubs. By highlighting gin on the menu, they offer a vast amount, as well as a diverse selection of other alcoholic and non-alcoholic beverages, including beer and wine. Genever is proud to be one of the growing number of women-owned and operated bars in the nation, made up of Roselma, Christine and Patricia, aka Red Capiz Partners (RCP).
 
 [Instagram](https://www.instagram.com/genever_la/)
@@ -208,6 +226,12 @@ Order [Online](https://geneverla-store.square.site/)
 </div>
 
 <img src="images/GP_NYELA2020_Jitlada.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/JakobLayman.Jitlada.JazzBurger_015.jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
@@ -238,6 +262,12 @@ Jitlada is a Hollywood stable with a story starting in the late 70s. A true Amer
 </div>
 
 <img src="images/GP_NYELA2020_PRSC.jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/Asset1_2x-100.jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
