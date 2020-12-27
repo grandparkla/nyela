@@ -311,9 +311,7 @@ Email: info@eaglerockbrewery.com
 
 <h2 class="powered-by"><a href="https://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="https://www.musiccenter.org">The Music Center</a></h2>
 
-<li><img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /></li>
-<li><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" style="font-size: 0.75em" /></li>
-<img src="images/EC_Favicon.png" alt="El Clasificado" width="100" height="100" /><img src="images/KCRW_Logo_Knockout_Black_RGB.png" alt="KCRW" width="100" /><img src="images/los-angeles-magazine-logo-black.png" alt="LA Magazine" width="200" /><img src="images/LA-Weekly-1920x280.png" alt="LA Weekly" width="200" /><img src="images/FIGAT7TH_Brand_Final-02.png" alt="Fig At 7th" width="100" />
+<img src="/images/sponsors/los-angeles.svg" alt="County of Los Angeles" /><img src="/images/sponsors/grandpark-musiccenter.svg" alt="Grand Park + The Music Center" style="font-size: 0.75em" /><img src="images/EC_Favicon.png" alt="El Clasificado" width="100" height="100" /><img src="images/KCRW_Logo_Knockout_Black_RGB.png" alt="KCRW" width="100" /><img src="images/los-angeles-magazine-logo-black.png" alt="LA Magazine" width="200" /><img src="images/LA-Weekly-1920x280.png" alt="LA Weekly" width="200" /><img src="images/FIGAT7TH_Brand_Final-02.png" alt="Fig At 7th" width="100" />
 
 
 
