@@ -107,13 +107,25 @@ Check out our Small Business Partners - we have 5 [small business partners](#sma
 
 </div>
 
-<img src="images/GP_NYELA2020_AguasLocas.jpg" />
+<img src="images/logo-color-01.png" />
 
 <div class="small-business-partners" markdown="1">
 
 </div>
 
-<img src="images/Aguas-Locas.png" width="1800" />
+<img src="images/thumbnail_2 Growlers Beach.jpg" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/thumbnail_Cocktails.jpg" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/thumbnail_Fall Colors.jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
