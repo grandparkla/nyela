@@ -277,7 +277,7 @@ People’s Republic of South Central is a locally brewed beer with a cause. 100%
 
 ### NYELA Party At Home Kit
 
-<i>The first offering from a brand-new line of limited-edition beers that give back, PRSC's (People’s Republic of South Central) LEGACY is a hazy IPA featuring Motueka, Simcoe, and Mosaic hops with flavors of pineapple, lychee, lemon verbena, and nectarine to produce an extremely juicy and easy-to-drink beer destined to become a collector’s item. </i>
+<i>The first offering from a brand-new line of limited-edition beers that give back, PRSC's (People’s Republic of South Central) LEGACY is a hazy IPA featuring Motueka, Simcoe, and Mosaic hops with flavors of pineapple, lychee, lemon verbena, and nectarine to produce an extremely juicy and easy-to-drink beer destined to become a collector’s item.</i>
 
 ### How To Order
 
