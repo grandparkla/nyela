@@ -217,13 +217,19 @@ Also available on Uber Eats / Postmates / GrubHub
 
 </div>
 
-<img src="images/GP_NYELA2020_genever.jpg" />
+<img src="images/genever-fnl-OL.jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
 </div>
 
-<img src="images/s928002804150496458_p912_i1_w1508.jpeg" width="1800" />
+<img src="images/Genever1 (1).jpg" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/thumbnail_Late Night Tonic  (1).jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
