@@ -297,13 +297,19 @@ Jitlada is a Hollywood stable with a story starting in the late 70s. A true Amer
 
 </div>
 
-<img src="images/GP_NYELA2020_PRSC.jpg" />
+<img src="images/logo_600x.png" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
 </div>
 
-<img src="images/Asset1_2x-100.jpg" width="1800" />
+<img src="images/Unknown (2).png" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/Unknown-1.png" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
