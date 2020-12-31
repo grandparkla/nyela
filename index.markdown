@@ -297,17 +297,17 @@ Jitlada is a Hollywood stable with a story starting in the late 70s. A true Amer
 
 <i>(2) Jazz Burgers + (2) Thai Teas + Morning Glory Salad</i>
  
- Catering available.
+Catering available.
  
- ### How To Order
+### How To Order
  
- Pick Up / Delivery: 5233 1/2 W Sunset Blvd, Los Angeles, CA 90027
+Pick Up / Delivery: 5233 1/2 W Sunset Blvd, Los Angeles, CA 90027
  
- HOURS: Monday CLOSED. Tuesday - Sunday: 11AM-3PM, 5PM-10:30PM
+HOURS: Monday CLOSED. Tuesday - Sunday: 11AM-3PM, 5PM-10:30PM
  
- Phone: (323) 667-9808 / (323) 663-3104
+Phone: (323) 667-9808 / (323) 663-3104
  
- Also available on Uber Eats / GrubHub 
+Also available on Uber Eats / GrubHub 
 
 * [People's Republic of South Central](https://www.prscbrand.com)
 
