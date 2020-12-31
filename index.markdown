@@ -353,9 +353,9 @@ Email: info@eaglerockbrewery.com
 
 <h2 class="powered-by"><a href="https://grandparkla.org">Grand Park</a> is an <span>LA County park</span> powered by <a href="https://www.musiccenter.org">The Music Center</a></h2>
 
-<img src="images/Logos (1).png" width="200" /><img src="images/Logos (2).png" width="200" /><img src="images/Logos (3).png" width="200" />
+<img src="images/Logos (1).png" width="50" /><img src="images/Logos (2).png" width="50" /><img src="images/Logos (3).png" width="50" />
 
-<img src="images/Logos (4).png" width="200" /><img src="images/Logos (5).png" width="200" /><img src="images/Logos (6).png" width="200" />
+<img src="images/Logos (4).png" width="50" /><img src="images/Logos (5).png" width="50" /><img src="images/Logos (6).png" width="50" />
 
 
 
