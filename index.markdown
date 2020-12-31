@@ -165,13 +165,25 @@ Order on [Instagram](https://www.instagram.com/aguas_locas_la)
 
 </div>
 
-<img src="images/GP_NYELA2020_flaco.jpg" />
+<img src="images/Flaco Logo_1601876253.JPG" />
 
 <div class="small-business-partners" markdown="1">
 
 </div>
 
-<img src="images/openingday2_1605885758.jpg" width="1800" />
+<img src="images/Unknown.png" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/s195419913890866264_p16_i1_w3024.jpeg" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/Flaco_Hollywood_ERecinos-4-of-21.jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
