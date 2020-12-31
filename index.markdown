@@ -255,13 +255,19 @@ Order [Online](https://geneverla-store.square.site/)
 
 </div>
 
-<img src="images/GP_NYELA2020_Jitlada.jpg" />
+<img src="images/Jitlada-Logo-Round.png" />
 
 <div class="small-business-partners" markdown="1">
 
 </div>
 
-<img src="images/JakobLayman.Jitlada.JazzBurger_015.jpg" width="1800" />
+<img src="images/JitladaNYELACombo.PNG" width="1800" />
+
+<div class="small-business-partners" markdown="1">
+
+</div>
+
+<img src="images/thumbnail_IMG-2248 (1).jpg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
