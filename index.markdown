@@ -51,6 +51,14 @@ Please note this is not an in-person event. Please enjoy the show from the comfo
 </div>
 </figure>
 
+### [Snap a pic of the night in our virtual photo booth! Tag #NYELA, @grandpark_la and share your photo with Grand Park, and enter for a chance to win one of three $50 gift cards!](https://GrandParkNYELA.vbooth.me/booth/QdeMEbdm)
+
+<div class="watch-livestream" markdown="1">
+
+</div>
+
+<img src="images/GP_NYELA2020_InterfaceScreens_Start.png" />
+
 ## Featured Artists
  
 <div class="featured-artists" markdown="1">
