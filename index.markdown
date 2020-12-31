@@ -177,7 +177,7 @@ Order on [Instagram](https://www.instagram.com/aguas_locas_la)
 
 </div>
 
-<img src="images/s195419913890866264_p16_i1_w3024.jpeg" width="1800" />
+<img src="images/IMG_FA2BBD57277E-1.jpeg" width="1800" />
 
 <div class="small-business-partners" markdown="1">
 
