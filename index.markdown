@@ -35,7 +35,7 @@ Please note this is not an in-person event. Please enjoy the show from the comfo
 
 <figure class="feature">
 <div data-aspect-ratio="1280/720">
-<a href="https://youtu.be/Y9n72XihBYY" class="has-icon">
+<a href="https://youtu.be/A2rNlGYu-RA" class="has-icon">
 <img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
 <span class="icon play">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
