@@ -33,7 +33,23 @@ Please note this is not an in-person event. Please enjoy the show from the comfo
 
 ## Watch Livestream
 
-Link coming soon!
+<figure class="feature">
+<div data-aspect-ratio="1280/720">
+<a href="https://youtu.be/Y9n72XihBYY" class="has-icon">
+<img srcset="/images/live-video-poster-320-wide.jpg 320w, /images/live-video-poster-640-wide.jpg 640w, /images/live-video-poster-768-wide.jpg 768w, /images/live-video-poster.jpg 1080w" sizes="100vw" src="/images/live-video-poster.jpg" width="1000" alt="" />
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Video of Grand Park’s New Year’s Eve Celebration</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignobject>Video of Grand Park’s New Year’s Eve Celebration</foreignobject>
+</switch>
+</svg>
+</span>
+<span class="credit">Grand Park on Fuse TV</span>
+</a>
+</div>
+</figure>
 
 ## Featured Artists
  
