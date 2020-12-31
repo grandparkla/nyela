@@ -155,11 +155,11 @@ Drink options:
 
 <i>Cucumber, Menta, Limon Y Chia: Cucumber, Mint, Lime, Chia Seeds, Agave (Non-Alcoholic)</i>
 
-<b>Same Day Pick Up & Next Day Delivery starting on Dec 27th available anywhere in LA.</b>
-
 ### How To Order
 
 Order on [Instagram](https://www.instagram.com/aguas_locas_la)
+
+<b>Same Day Pick Up & Next Day Delivery starting on Dec 27th available anywhere in LA.</b>
 
 * [Flaco](https://www.flacoshop.com)
 
@@ -243,13 +243,13 @@ Genever is a friendly and intimate lounge, located in Los Angeles’ Historic Fi
 
 <i>*Orders over $100 get a complimentary bottle of bubbly!*</i>
 
-<b>Orders close at midnight on December 28th. Pick ups are available at Genever on December 30th and December 31st from 4PM-8PM. Delivery is available within a 15 mile radius of Genever for $15.</b>
-
 ### How To Order
 
 Pick Up / Delivery: 3123 Beverly Blvd, Los Angeles, CA 90057
 
 Order [Online](https://geneverla-store.square.site/)
+
+<b>Orders close at midnight on December 28th. Pick ups are available at Genever on December 30th and December 31st from 4PM-8PM. Delivery is available within a 15 mile radius of Genever for $15.</b>
 
 * [Jitlada](https://www.instagram.com/jitlada_la)
 
